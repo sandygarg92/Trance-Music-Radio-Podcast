@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.onlineradiofm.trancemusicradio.app-mergeReleaseResources-73:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/sandeepkumar/.gradle/caches/8.9/transforms/1c74dc5e26d928efe20d2d29cf03873c/transformed/appcompat-1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "381",
+                        "endLines": "13",
+                        "endColumns": "13",
+                        "endOffsets": "653"
+                    }
+                },
+                {
+                    "source": "/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/res/values-hdpi/dimens.xml",
+                    "from": {
+                        "startLines": "8,3,6,7,9,4,5",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "264,21,166,217,307,68,118",
+                        "endColumns": "41,45,49,45,45,48,46",
+                        "endOffsets": "301,62,211,258,348,112,160"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,143,193,239,285,334",
+                        "endColumns": "41,45,49,45,45,48,46",
+                        "endOffsets": "92,138,188,234,280,329,376"
+                    }
+                }
+            ]
+        }
+    ]
+}

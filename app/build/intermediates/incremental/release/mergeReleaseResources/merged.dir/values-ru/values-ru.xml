@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="array_members">
+        <item>ЕЖЕМЕСЯЧНО</item>
+        <item>3 МЕСЯЦА</item>
+        <item>6 МЕСЯЦЕВ</item>
+        <item>ЕЖЕГОДНО</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="bottomsheet_action_collapse">Свернуть нижний экран</string>
+    <string name="bottomsheet_action_expand">Развернуть нижний экран</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="bottomsheet_drag_handle_clicked">Двойное нажатие на маркер перемещения</string>
+    <string name="bottomsheet_drag_handle_content_description">Маркер перемещения</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Ответить"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Видео"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Отклонить"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Завершить"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Входящий вызов"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Текущий вызов"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Фильтрация входящего вызова"</string>
+    <string name="cast_ad_label">Объявление</string>
+    <string name="cast_casting_to_device">Трансляция на устройство \"%1$s\"</string>
+    <string name="cast_closed_captions">Субтитры</string>
+    <string name="cast_closed_captions_unavailable">Субтитры недоступны</string>
+    <string name="cast_connecting_to_device">Подключение к %1$s…</string>
+    <string name="cast_device_chooser_searching_for_devices">Поиск устройств…</string>
+    <string name="cast_device_chooser_title">Выберите устройство</string>
+    <string name="cast_disconnect">Отключить</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
+    <string name="cast_expanded_controller_ad_image_description">Изображение, показанное во время трансляции объявления</string>
+    <string name="cast_expanded_controller_ad_in_progress">Трансляция объявления…</string>
+    <string name="cast_expanded_controller_background_image">Обложка</string>
+    <string name="cast_expanded_controller_live_head_description">Текущая позиция: начало трансляции</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Прямой эфир</string>
+    <string name="cast_expanded_controller_loading">Загрузка…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Пропустить</string>
+    <string name="cast_expanded_controller_skip_ad_text">Можно пропустить через %1$d…</string>
+    <string name="cast_forward">Перемотать вперед</string>
+    <string name="cast_forward_10">Перемотать на 10 секунд вперед</string>
+    <string name="cast_forward_30">Перемотать на 30 секунд вперед</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_live_label">В ЭФИРЕ</string>
+    <string name="cast_mute">Отключить звук</string>
+    <string name="cast_notification_connected_message">Подключено к %1$s</string>
+    <string name="cast_notification_connecting_message">Подключение к %1$s…</string>
+    <string name="cast_notification_default_channel_name">Cast</string>
+    <string name="cast_notification_disconnect">Отключить</string>
+    <string name="cast_pause">Приостановить</string>
+    <string name="cast_play">Воспроизвести</string>
+    <string name="cast_rewind">Перемотать назад</string>
+    <string name="cast_rewind_10">Перемотать на 10 секунд назад</string>
+    <string name="cast_rewind_30">Перемотать на 30 секунд назад</string>
+    <string name="cast_seek_bar">Ползунок перемотки</string>
+    <string name="cast_skip_next">Перейти к следующему объекту</string>
+    <string name="cast_skip_prev">Перейти к предыдущему объекту</string>
+    <string name="cast_stop">Остановить</string>
+    <string name="cast_stop_live_stream">Остановить трансляцию</string>
+    <string name="cast_tracks_chooser_dialog_audio">Аудио</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Отмена</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Субтитры</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Трек %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">Нет</string>
+    <string name="cast_tracks_chooser_dialog_ok">ОК</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Субтитры</string>
+    <string name="cast_unmute">Включить звук</string>
+    <string name="cast_zero_devices_found">Устройства не найдены.\n</string>
+    <string name="cast_zero_devices_learn_more_description">Подробнее о том, <a href="https://support.google.com/chromecastbuiltin/answer/3006709">как транслировать контент на другие устройства</a>…</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Включить</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Обновить</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Ссылка скопирована в буфер обмена."</string>
+    <string name="empty_duration" translatable="false">00:00</string>
+    <string name="error_a11y_label">Ошибка: недопустимое значение</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string name="exo_download_completed">Скачивание завершено</string>
+    <string name="exo_download_description">Скачать</string>
+    <string name="exo_download_downloading">Скачивание…</string>
+    <string name="exo_download_failed">Ошибка скачивания</string>
+    <string name="exo_download_notification_channel_name">Скачивания</string>
+    <string name="exo_download_paused">Скачивание приостановлено</string>
+    <string name="exo_download_paused_for_network">Ожидание подключения к сети</string>
+    <string name="exo_download_paused_for_wifi">Ожидание подключения к Wi-Fi</string>
+    <string name="exo_download_removing">Удаление скачанных файлов…</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Копировать ссылку"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Открыть в браузере"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Отправить ссылку"</string>
+    <string name="format_bitrate">Битрейт: %1$s</string>
+    <string name="format_buffering">Buffering: %1$s</string>
+    <string name="format_buy_pro1">Пробный период 3 дня</string>
+    <string name="format_empty_name">%1$s не должно быть пустым</string>
+    <string name="format_full_member">ВЫ %1$s. Ваши объявления будут удалены на 1 год</string>
+    <string name="format_info_member">Вы %1$s</string>
+    <string name="format_minute">%1$s минут</string>
+    <string name="format_minutes">%1$s минут</string>
+    <string name="format_recorded_file">Запись_%1$s</string>
+    <string name="format_recording_files">Запись: %1$s</string>
+    <string name="format_recording_maximum">Максимальное время записи %1$s минут</string>
+    <string name="format_request_permission"><![CDATA[<b>Для записи радиостанций и скачивания подкастов приложению необходим доступ к памяти</b>]]></string>
+    <string name="format_term_and_conditional"><![CDATA[Спасибо за выбор <b>%1$s</b>.<br>Используя это приложение, вы должны согласиться с нашими <a href=\"%2$s\"><b>Условиями использования</b></a> и <a href=\"%3$s\"><b>Политикой конфиденциальности</b></a>.]]></string>
+    <string name="format_update_success">%1$s</string>
+    <string name="format_version">Версия: %1$s</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"Другое"</string>
+    <string name="icon_add"></string>
+    <string name="icon_check"></string>
+    <string name="icon_chevron_right"></string>
+    <string name="icon_comment"></string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string name="icon_heart"></string>
+    <string name="icon_heart_outline"></string>
+    <string name="icon_info"></string>
+    <string name="icon_menu"></string>
+    <string name="icon_pause"></string>
+    <string name="icon_pause_outline"></string>
+    <string name="icon_play"></string>
+    <string name="icon_play_outline"></string>
+    <string name="icon_share"></string>
+    <string name="info_acknowledge_purchase_error">Подтвердить ошибку покупки</string>
+    <string name="info_add_radio_error">Не удалось добавить радио!</string>
+    <string name="info_add_radio_success">Радио добавлено успешно!</string>
+    <string name="info_already_file_downloaded">Этот эпизод уже загружен</string>
+    <string name="info_billing_invalid">Извините, обновление до Premium не может быть реализовано на вашем телефоне.</string>
+    <string name="info_cancel_anytime">Подписка на удаление рекламы</string>
+    <string name="info_close_app">Вы хотите выйти из приложения?</string>
+    <string name="info_confirm_delete_my_radio">Вы уверены, что хотите удалить это радио?</string>
+    <string name="info_connect_to_play">Пожалуйста, подключитесь к Интернету, чтобы воспроизвести это радио</string>
+    <string name="info_connection_lost">Подключитесь к интернету и повторите</string>
+    <string name="info_content_share">%1$s on Android!\nПроверьте это\n%2$s</string>
+    <string name="info_delete_file">Вы уверены, что хотите удалить этот файл?</string>
+    <string name="info_delete_success">Удален успешно!</string>
+    <string name="info_deleted_error">Ошибка удаления</string>
+    <string name="info_download_error">Ошибка загруженного файла. Пожалуйста, повторите попытку позже</string>
+    <string name="info_download_podcast_no_permission">Вы отключили доступ к хранилищу для этого приложения. Это разрешение поможет приложению загружать подкасты или прослушивать загруженные эпизоды. Вы хотите отменить?</string>
+    <string name="info_email_invalid">Ваш электронный адрес недействителен</string>
+    <string name="info_empty">Введите ключевое слово!</string>
+    <string name="info_error_sdcard">Ваша память заполнена, поэтому мы не можем запустить приложение. Пожалуйста, очистите память</string>
+    <string name="info_hint_radio_link">Ссылка на радио. Должен начинаться с http:// or https://</string>
+    <string name="info_hint_search_home">Поиск</string>
+    <string name="info_hint_search_podcast">Поиск подкаста по ключевому слову</string>
+    <string name="info_invalid_link">Ссылка на радио недействительна</string>
+    <string name="info_loading">Пожалуйста,подождите…</string>
+    <string name="info_loading_more">Загрузка…</string>
+    <string name="info_lose_internet">Подключение к Интернету отсутствует. Проверьте еще раз,пожалуйста!</string>
+    <string name="info_member_more">Удалены Объявления в %1$s</string>
+    <string name="info_move_file_error">Ошибка при передаче файлов!</string>
+    <string name="info_move_file_success">Файл перемещен в папку media!</string>
+    <string name="info_name_empty">Ваше имя не может быть пустым</string>
+    <string name="info_name_existed">Это имя уже существует</string>
+    <string name="info_permission_denied">В доступе отказано. Вы можете нажать Пропустить, чтобы перейти на главный экран</string>
+    <string name="info_play_error">Извините, мы не можем воспроизвести эту станцию в это время, мы вернемся как можно скорее</string>
+    <string name="info_podcast_offline">Этот подкаст не в сети. Пожалуйста, попробуйте позже</string>
+    <string name="info_press_again_to_exit">Нажмите кнопку «Назад» еще раз,чтобы закрыть приложение.</string>
+    <string name="info_purchase_cancelled">Покупка отменена</string>
+    <string name="info_purchase_timeout_error">Ошибка тайм-аута покупки. Пожалуйста, вернитесь позже</string>
+    <string name="info_radio_ended_sub">Вы можете переключиться на новое радио.</string>
+    <string name="info_radio_ended_title">Воспроизведение закончилось</string>
+    <string name="info_record_error_sdcard">Ваша SD-карта имеет проблемы, мы не можем записать файл</string>
+    <string name="info_record_error_short">Ваш файл записи слишком короткий, мы не можем его сохранить</string>
+    <string name="info_record_error_unknown">Неизвестная ошибка при записи файла</string>
+    <string name="info_recording_file">Вы записываете радио. Пожалуйста, остановите запись перед выполнением этого действия</string>
+    <string name="info_remove_file">Вы уверены, что удалить этот эпизод?</string>
+    <string name="info_rewards_ads_error">Вы закрыли видео, поэтому не можете получить эту награду. Пожалуйста, повторите попытку позже.</string>
+    <string name="info_rewards_ads_success">Награда успешно получена. Теперь вы можете скачать подкаст!</string>
+    <string name="info_save_file_error">Неизвестная ошибка! Мы не можем сохранить ваш файл</string>
+    <string name="info_save_file_success">Запись успешно сохранена</string>
+    <string name="info_saved_file">Вы хотите сохранить файл записи?</string>
+    <string name="info_saved_song_success">Успешно загружен!</string>
+    <string name="info_sdcard_error">Пожалуйста, проверьте память на вашем телефоне.</string>
+    <string name="info_server_error">Мы не можем подключиться к серверу. Пожалуйста,попробуйте еще раз!</string>
+    <string name="info_share_app">Начнем с %1$s сейчас %2$s</string>
+    <string name="info_single_radio_error">Ошибка данных. Проверьте еще раз, пожалуйста</string>
+    <string name="info_tap_login">Нажмите для входа в Google</string>
+    <string name="info_tap_see_profile">Нажмите, чтобы просмотреть свой профиль</string>
+    <string name="info_thanks_purchasing">Спасибо за покупку. Давайте наслаждаться приложением сейчас!</string>
+    <string name="info_update_radio_error">Ошибка при обновлении!</string>
+    <string name="info_update_radio_success">Обновление радио успешно выполнено!</string>
+    <string name="info_upgrade_now">Обновить до Премиум сейчас</string>
+    <string name="item_purchase_invalid">Этот пункт недействителен</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_24h_suffix">%1$s ч.</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="media_notification_channel_name">Cast</string>
+    <string msgid="2939063992730535343" name="mr_button_content_description">"Транслировать"</string>
+    <string msgid="6073720094880410356" name="mr_cast_button_connected">"Транслировать. Подключено"</string>
+    <string msgid="6629927151350192407" name="mr_cast_button_connecting">"Транслировать. Идет подключение"</string>
+    <string msgid="8071109333469380363" name="mr_cast_button_disconnected">"Транслировать. Не подключено"</string>
+    <string msgid="2175930138959078155" name="mr_cast_dialog_title_view_placeholder">"Данных нет"</string>
+    <string msgid="6114250663023140921" name="mr_chooser_searching">"Поиск устройств…"</string>
+    <string msgid="1419936397646839840" name="mr_chooser_title">"Транслировать на"</string>
+    <string msgid="3330502667672708728" name="mr_controller_album_art">"Обложка"</string>
+    <string msgid="9171231064758955152" name="mr_controller_casting_screen">"Трансляция экрана…"</string>
+    <string msgid="5684434439232634509" name="mr_controller_close_description">"Закрыть"</string>
+    <string msgid="2585048604188129749" name="mr_controller_collapse_group">"Скрыть"</string>
+    <string msgid="7812275474138309497" name="mr_controller_disconnect">"Отключить"</string>
+    <string msgid="4521419834052044261" name="mr_controller_expand_group">"Показать"</string>
+    <string msgid="855271725131981086" name="mr_controller_no_info_available">"Данных нет"</string>
+    <string msgid="5495452265246139458" name="mr_controller_no_media_selected">"Медиафайл не выбран"</string>
+    <string msgid="747801650871398383" name="mr_controller_pause">"Приостановить"</string>
+    <string msgid="1253345086594430054" name="mr_controller_play">"Воспроизвести"</string>
+    <string msgid="5497722768305745508" name="mr_controller_stop">"Остановить"</string>
+    <string msgid="804210341192624074" name="mr_controller_stop_casting">"Остановить трансляцию"</string>
+    <string msgid="2955862765169128170" name="mr_controller_volume_slider">"Регулятор громкости"</string>
+    <string msgid="4115858704575247342" name="mr_dialog_default_group_name">"Группа"</string>
+    <string msgid="4307018456678388936" name="mr_dialog_groupable_header">"Добавление устройства"</string>
+    <string msgid="6068257520605505468" name="mr_dialog_transferable_header">"Воспроизведение в группе"</string>
+    <string msgid="7449553026175453403" name="mr_system_route_name">"Система"</string>
+    <string msgid="4088331695424166162" name="mr_user_route_category_name">"Устройства"</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_checkbox_state_description_checked">Флажок установлен.</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Флажки установлены частично.</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Флажок не установлен.</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_range_selection">Выбранная дата начала: %1$s. Выбранная дата окончания: %2$s.</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">нет</string>
+    <string name="mtrl_picker_cancel">Отмена</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к текущему году: %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$d году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_start_date_description">Дата начала: %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_today_description">Сегодня: %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к Календарю</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы выбрать год</string>
+    <string name="mtrl_timepicker_cancel">Отмена</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string name="native_body">Текст</string>
+    <string name="native_headline">Заголовок</string>
+    <string name="native_media_view">Просмотр мультимедиа</string>
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="notifications_permission_confirm">Разрешить</string>
+    <string name="notifications_permission_decline">Запретить</string>
+    <string name="notifications_permission_title">Разрешить приложению отправлять уведомления?</string>
+    <string name="offline_dialog_image_description">Значок</string>
+    <string name="offline_dialog_text">Благодарим за интерес к объявлению.\nМы отправим вам больше информации, как только вы снова подключитесь к интернету.</string>
+    <string name="offline_notification_title">Вы подключились к интернету. Давайте продолжим с того момента, на котором остановились</string>
+    <string name="offline_notification_title_with_advertiser">Вы подключились к интернету. Узнайте больше о рекламодателе (%s)</string>
+    <string name="offline_opt_in_confirm">ОК</string>
+    <string name="offline_opt_in_decline">Нет, спасибо</string>
+    <string name="offline_opt_in_message">Когда вы подключитесь к Интернету, мы отправим вам уведомление со ссылкой на сайт рекламодателя.</string>
+    <string name="offline_opt_in_title">Посмотрите объявление, когда будете в Сети</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="rate_dialog_cancel">Напомнить позже</string>
+    <string name="rate_dialog_message">Если вам нравится это приложение не забудьте оценить его в Google Play, это потребует не более минуты вашего времени. Спасибо за вашу поддержку!</string>
+    <string name="rate_dialog_no">Нет, спасибо</string>
+    <string name="rate_dialog_ok">Оценить сейчас</string>
+    <string name="rate_dialog_title">Оцените это приложение</string>
+    <string name="required_permissions">Требуемые разрешения</string>
+    <string name="s1">Сохранить изображение</string>
+    <string name="s2">Разрешить объявлению сохранить изображение в галерее?</string>
+    <string name="s3">Разрешить</string>
+    <string name="s4">Отклонить</string>
+    <string name="s5">Создать мероприятие</string>
+    <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
+    <string name="s7">Тестовое объявление</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="searchview_clear_text_content_description">Очистить текстовое поле</string>
+    <string name="searchview_navigation_content_description">Назад</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="title_about_us">О нас</string>
+    <string name="title_add">Добавить</string>
+    <string name="title_add_radio">Добавить</string>
+    <string name="title_agree">Да, я согласен</string>
+    <string name="title_back">Назад</string>
+    <string name="title_buy_now">НАЧАТЬ</string>
+    <string name="title_cancel">Отмена</string>
+    <string name="title_confirm">Подтвердить</string>
+    <string name="title_contact_us">Связаться с нами</string>
+    <string name="title_country_tab">Страны</string>
+    <string name="title_dark_mode">Темная тема</string>
+    <string name="title_delete">Удалить</string>
+    <string name="title_delete_radio">Удалить</string>
+    <string name="title_done">Готово</string>
+    <string name="title_dont_ask_again">Не спрашивайте снова</string>
+    <string name="title_download_now">Скачать сейчас</string>
+    <string name="title_downloaded_podcast">Мои загрузки</string>
+    <string name="title_downloading">Скачивание</string>
+    <string name="title_edit_radio">Изменить</string>
+    <string name="title_facebook">Посетите наш Facebook</string>
+    <string name="title_genre_tab">Жанры</string>
+    <string name="title_give_it">OK</string>
+    <string name="title_hint_save_record_file">Введите имя файла</string>
+    <string name="title_info">Информация</string>
+    <string name="title_instagram">Посетите наш Instagram</string>
+    <string name="title_language_tab">Языки</string>
+    <string name="title_light_mode">Дневной режим</string>
+    <string name="title_live">Live</string>
+    <string name="title_loading">Загрузка</string>
+    <string name="title_menu_share">Поделиться</string>
+    <string name="title_more_apps">Другие приложения</string>
+    <string name="title_move_to_media_store">Перейдите в папку с медиафайлами</string>
+    <string name="title_mp3_link">Mp3</string>
+    <string name="title_my_radio">Мои станции</string>
+    <string name="title_no">Нет</string>
+    <string name="title_no_data">Нет данных</string>
+    <string name="title_off">Выкл</string>
+    <string name="title_ok">OK</string>
+    <string name="title_options">Опции</string>
+    <string name="title_play_now">Воспроизвести</string>
+    <string name="title_popular_countries">Популярные страны</string>
+    <string name="title_popular_genres">Популярные жанры</string>
+    <string name="title_privacy_policy">Политика конфиденциальности</string>
+    <string name="title_pro_version">ПЕРЕЙТИ НА ПРЕМИУМ</string>
+    <string name="title_purchase_error">Ошибка покупки</string>
+    <string name="title_purchase_success">Покупка прошла успешно!</string>
+    <string name="title_radio_link">Ссылка на поток</string>
+    <string name="title_radio_name">Название</string>
+    <string name="title_rate_me">Оставить отзыв</string>
+    <string name="title_recorded">Список записанных</string>
+    <string name="title_recorded_files">Записанный файл</string>
+    <string name="title_remove">Удалить</string>
+    <string name="title_remove_downloads">Удалить</string>
+    <string name="title_rename">Переименовать</string>
+    <string name="title_save">Сохранить</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_see_more">Показать еще</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_share">Поделиться</string>
+    <string name="title_skip">Пропустить</string>
+    <string name="title_skip_now">Пропустить</string>
+    <string name="title_sleep_mode">Режим сна</string>
+    <string name="title_tab_favorite">Любимые</string>
+    <string name="title_tab_library">Библиотека</string>
+    <string name="title_tab_live_radio">Станции</string>
+    <string name="title_tab_podcast">Подкасты</string>
+    <string name="title_tab_profile">Профиль</string>
+    <string name="title_tab_recorded">Мои записи</string>
+    <string name="title_tab_search">Поиск</string>
+    <string name="title_tab_setting">Настройки</string>
+    <string name="title_tags_tab">Теги</string>
+    <string name="title_term_of_use">Условия пользования</string>
+    <string name="title_trending_podcasts">Популярные подкасты</string>
+    <string name="title_trending_radios">Новые станции</string>
+    <string name="title_twitter">Посетите наш Twitter</string>
+    <string name="title_unknown">Неизвестный</string>
+    <string name="title_update">Обновить</string>
+    <string name="title_warning">Предупреждение</string>
+    <string name="title_website">Посетите наш Website</string>
+    <string name="title_yes">Да</string>
+    <string name="watermark_label_prefix">AdMob – </string>
+    <string name="withoutrecording">Если вы не согласны с разрешениями, нажмите Пропустить. \ Вы сможете использовать приложение без записи.</string>
+</resources>

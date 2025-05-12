@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:tag="layout/item_header_detail_podcast_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_header_bg"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/bg_nav_header" />
+
+        <RelativeLayout
+            android:id="@+id/layout_root"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_dark_header_podcast"
+            android:orientation="vertical"
+            android:paddingStart="@dimen/dialog_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:paddingEnd="@dimen/dialog_margin"
+            android:paddingBottom="@dimen/dialog_margin"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <RelativeLayout
+                android:id="@+id/layout_header"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_header_podcast"
+                    android:layout_width="@dimen/row_height_normal"
+                    android:layout_height="@dimen/row_height_normal"
+                    android:background="@android:color/transparent"
+                    android:src="@drawable/ic_live_radio_default" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/small_margin"
+                    android:layout_toStartOf="@+id/layout_ripple_info"
+                    android:layout_toEndOf="@+id/img_header_podcast"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_header_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="2"
+                        android:text="@string/app_name"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_size_subhead"
+                        android:textStyle="bold"
+                        app:fontFamily="@font/montserrat_medium" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_header_sub_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="2"
+                        android:text="@string/info_copyright"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_size_body"
+                        app:fontFamily="@font/montserrat_medium" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_header_number_track"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:text="@string/format_episode"
+                        android:textColor="@color/white_color_main_text"
+                        android:textSize="@dimen/text_size_small" />
+                </LinearLayout>
+
+                <com.balysv.materialripple.MaterialRippleLayout
+                    android:id="@+id/layout_ripple_info"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    app:mrl_rippleAlpha="0.2"
+                    app:mrl_rippleColor="@color/white"
+                    app:mrl_rippleHover="true"
+                    app:mrl_rippleOverlay="true">
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/btn_info"
+                        android:layout_width="@dimen/size_img_medium"
+                        android:layout_height="@dimen/size_img_medium"
+                        app:tint="@color/white"
+                        android:background="@android:color/transparent"
+                        app:srcCompat="@drawable/ic_info_outline_24dp" />
+                </com.balysv.materialripple.MaterialRippleLayout>
+
+
+            </RelativeLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_header_des"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/layout_header"
+                android:layout_marginTop="@dimen/dialog_margin"
+                android:text="@string/app_name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_body" />
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layout_ripple_play_all"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_header_des"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dialog_margin"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/white"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true"
+                app:mrl_rippleRoundedCorners="@dimen/size_img_large">
+
+                <LinearLayout
+                    android:id="@+id/btn_play_all"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/size_img_medium"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/btn_light_rounded_play_all"
+                    android:orientation="horizontal"
+                    android:paddingStart="@dimen/size_img_medium"
+                    android:paddingEnd="@dimen/size_img_medium">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/img_chevron"
+                        android:layout_width="@dimen/size_img_small"
+                        android:layout_height="@dimen/size_img_small"
+                        android:layout_gravity="center_vertical"
+                        android:gravity="center"
+                        android:padding="0dp"
+                        android:text="@string/icon_play_outline"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/size_img_tiny"
+                        app:fontFamily="@font/ft_material_icon" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginStart="@dimen/small_margin"
+                        android:gravity="center"
+                        android:text="@string/title_play_now"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/text_size_body"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+            </com.balysv.materialripple.MaterialRippleLayout>
+
+        </RelativeLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

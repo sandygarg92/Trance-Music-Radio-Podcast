@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.onlineradiofm.trancemusicradio.app-mergeReleaseResources-73:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/sandeepkumar/.gradle/caches/8.9/transforms/33473ff03bb8ea0049f44a879660e748/transformed/jetified-core-0.9.6.0/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1044",
+                        "endLines": "18,35",
+                        "endColumns": "10,10",
+                        "endOffsets": "1039,2010"
+                    }
+                }
+            ]
+        }
+    ]
+}

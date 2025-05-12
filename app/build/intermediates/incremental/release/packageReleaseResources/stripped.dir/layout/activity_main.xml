@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/layout_bg"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_color_background"
+    android:fitsSystemWindows="true"
+    tools:context=".MainActivity">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout_bt"
+        android:fitsSystemWindows="true">
+
+        <com.onlineradiofm.trancemusicradio.ypylibs.view.YPYViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/light_pager_color_background"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/light_pager_color_background"
+            android:visibility="gone"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <ImageView
+                android:id="@+id/img_touch"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </FrameLayout>
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/app_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+            <include
+                android:id="@+id/my_toolbar"
+                layout="@layout/item_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_collapseMode="pin"
+                app:layout_scrollFlags="scroll|enterAlways" />
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <include
+            android:id="@+id/layout_total_drag_drop"
+            layout="@layout/item_drag_drop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:clipToPadding="true"
+            app:layout_behavior="@string/new_bottom_sheet_behavior">
+        </include>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+    <LinearLayout
+        android:id="@+id/layout_bt"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:background="@color/light_color_background"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <fragment
+            android:id="@+id/cast_mini_controller"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:castShowImageThumbnail="true"
+            class="com.google.android.gms.cast.framework.media.widget.MiniControllerFragment" />
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottomNavMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/light_bottom_nav_background_color"
+            app:itemIconTint="@drawable/light_bottom_nav_colors"
+            app:itemRippleColor="@color/light_bottom_nav_ripple_color"
+            app:itemTextColor="@drawable/light_bottom_nav_colors"
+            app:itemTextAppearanceActive="@style/BottomNavigationViewTextStyleActive"
+            app:itemTextAppearanceInactive="@style/BottomNavigationViewTextStyleInActive"
+            app:labelVisibilityMode="labeled"
+            app:elevation="0dp"
+            app:menu="@menu/menu_bottom_navigation" />
+
+        <RelativeLayout
+            android:id="@+id/layout_ads"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone">
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
+

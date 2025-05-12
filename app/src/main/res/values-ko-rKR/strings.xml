@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="made_with_in_wroclaw"></string>
+
+    <string name="title_settings">설정</string>
+    <string name="info_loading">기다리세요…</string>
+    <string name="title_yes">예</string>
+    <string name="title_no">아니요</string>
+    <string name="title_ok">좋아요</string>
+    <string name="title_cancel">취소</string>
+    <string name="title_info">정보</string>
+    <string name="title_options">옵션</string>
+    <string name="title_confirm">확인하다</string>
+    <string name="title_warning">주목</string>
+    <string name="title_share">공유하다</string>
+    <string name="title_back">뒤</string>
+    <string name="title_unknown">알려지지 않은</string>
+    <string name="title_about_us">회사 소개</string>
+    <string name="title_done">완료</string>
+    <string name="title_search">Search</string>
+    <string name="title_no_data">데이터 없음</string>
+    <string name="title_rate_me">평가</string>
+
+    <string name="info_lose_internet">인터넷이 안됩니다. 다시 시도하십시오!</string>
+    <string name="info_empty">키워드를 입력해주세요!</string>
+    <string name="info_close_app">앱을 종료하시겠습니까?</string>
+    <string name="info_server_error">서버에 연결되어 있지 않습니다. 나중에 다시 시도하십시오!</string>
+    <string name="info_press_again_to_exit">종료하려면 다시 누르세요.</string>
+    <string name="info_loading_more">로딩 중…</string>
+
+    
+
+    <string name="info_error_sdcard">장치에 공간이 없으므로 응용 프로그램을 실행할 수 없습니다. 메모리 지우기</string>
+    <string name="info_permission_denied">죄송합니다. 권한이 부여되지 않았습니다. 이 작업을 구현할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+
+    <string name="info_share_app">최고의 라디오 앱 %1$s 지금 다운로드 %2$s</string>
+    <string name="title_more_apps">더 많은 앱</string>
+    <string name="title_contact_us">문의하기</string>
+    <string name="title_menu_share">공유하다</string>
+
+    <string name="title_privacy_policy">개인 정보 정책</string>
+    <string name="title_term_of_use">이용약관</string>
+    <string name="title_facebook">광고 없는 버전</string>
+    <string name="title_twitter">트위터 방문</string>
+    <string name="title_website">웹사이트 방문</string>
+    <string name="title_instagram">인스타그램 방문</string>
+
+    <string name="format_buffering">버퍼링: %1$s</string>
+    <string name="format_bitrate">비트레이트: %1$s</string>
+
+    <string name="info_content_share">%1$s 안드로이드용!\n앱 다운로드\n%2$s</string>
+    <string name="info_connect_to_play">인터넷이 있는지 확인하십시오.</string>
+    <string name="info_play_error">스테이션이 일시적으로 오프라인 상태입니다. 나중에 다시 시도하세요.</string>
+
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="info_single_radio_error">오류. 나중에 다시 시도하십시오.</string>
+
+    <string name="title_sleep_mode">취침 타이머</string>
+    <string name="title_off">끄다.</string>
+    <string name="format_minutes">%1$d 분.</string>
+    <string name="format_minute">%1$d 분.</string>
+
+    <string name="info_radio_ended_title">라디오 방송 중단.</string>
+    <string name="info_radio_ended_sub">다른 역을 선택할 수 있습니다..</string>
+    <string name="info_connection_lost">인터넷을 켜고 플레이를 눌러주세요.</string>
+
+    <string name="format_term_and_conditional"><![CDATA[선택해 주셔서 감사합니다 <b>EDM 라디오</b>.<br>이 앱을 사용함으로써 귀하는 당사의 <a href=\"%2$s\"><b>이용약관</b></a> 그리고 우리 <a href=\"%3$s\"><b>개인 정보 정책</b></a>.]]></string>
+    <string name="title_agree">그래, 난 동의</string>
+    <string name="format_request_permission"><![CDATA[선택해 주셔서 감사합니다 <b>EDM 라디오</b>. 저희에게 아래 권한을 주십시오:<br><br><b>SD 카드 권한:</b> 라이브 라디오를 들을 때 라디오 파일을 녹음하고 좋아하는 라디오 방송국을 저장하는 데 도움이 됩니다.]]></string>
+    <string name="title_give_it">지금 줘</string>
+
+    <string name="title_setting_ads">광고 설정</string>
+
+    <string name="title_tab_recorded">내 기록</string>
+    <string name="title_recorded_files">녹음 파일</string>
+
+    <string name="info_recording_file">라디오를 녹음하고 있습니다. 이 작업을 수행하기 전에 녹음을 중지하십시오.</string>
+    <string name="info_saved_file">녹음 파일을 저장하시겠습니까?</string>
+
+    <string name="info_record_error_short">녹음 파일이 너무 짧아 저장할 수 없습니다.</string>
+    <string name="info_record_error_sdcard">SD 카드에 문제가 있어 파일을 녹화할 수 없습니다.</string>
+    <string name="info_record_error_unknown">파일 녹화 중 알 수 없는 오류</string>
+
+    <string name="format_recording_files">녹음: %1$s</string>
+    <string name="format_recording_maximum">최대 녹음 시간은 %1$s 분</string>
+    <string name="format_recorded_file">기록_%1$s</string>
+    <string name="title_save">구하다</string>
+    <string name="title_hint_save_record_file">파일명 입력</string>
+    <string name="info_save_file_success">녹음 파일을 성공적으로 저장했습니다</string>
+    <string name="info_save_file_error">알 수 없는 오류! 파일을 저장할 수 없습니다.</string>
+    <string name="info_delete_file">이 파일을 삭제하시겠습니까?</string>
+
+    <string name="title_rename">이름 바꾸기</string>
+    <string name="title_delete">삭제</string>
+
+    <string name="info_name_empty">이름은 비워둘 수 없습니다.</string>
+    <string name="info_name_existed">당신의 이름은 존재했습니다</string>
+
+    <!--======Add IAP purchase id in here=====-->
+  
+
+    <string-array name="array_members">
+        <item>월간 간행물</item>
+        <item>3 개월</item>
+        <item>6 개월</item>
+        <item>매년</item>
+    </string-array>
+
+    <string-array name="array_date_times">
+        <item>1 개월</item>
+        <item>3 개월</item>
+        <item>6 개월</item>
+        <item>일년</item>
+    </string-array>
+
+    <string name="title_pro_version">프리미엄으로 업그레이드</string>
+    <string name="title_purchase_success">구매 성공!</string>
+    <string name="title_purchase_error">구매 오류</string>
+    <string name="format_info_member">너는 %1$s</string>
+    <string name="info_thanks_purchasing">구매해주셔서 감사합니다. 지금 앱을 즐기십시오!</string>
+    <string name="info_member_more">에서 제거된 광고 %1$s</string>
+    <string name="info_upgrade_now">지금 프리미엄으로 업그레이드하세요</string>
+    <string name="format_buy_pro1">광고 없음</string>
+
+
+    <string name="title_buy_now">평가판 시작</string>
+    <string name="title_skip">건너 뛰기</string>
+
+    <string name="info_email_invalid">이메일이 잘못되었습니다</string>
+    <string name="item_purchase_invalid">이 항목은 유효하지 않습니다</string>
+    <string name="info_billing_invalid">죄송합니다. 프리미엄으로의 업그레이드는 휴대전화에서 구현할 수 없습니다.</string>
+
+    <!--    DARK MODE-->
+    <string name="title_dark_mode">다크 모드</string>
+    <string name="title_light_mode">라이트 모드</string>
+    <string name="format_update_success">업데이트됨 %1$s 성공적으로</string>
+
+    <string name="title_trending_radios">인기 라디오</string>
+    <string name="title_see_more">더보기</string>
+
+    <string name="info_purchase_timeout_error">구매 시간 초과 오류입니다. 나중에 다시 가주세요</string>
+    <string name="info_purchase_cancelled">구매 취소됨</string>
+    <string name="info_acknowledge_purchase_error">구매 오류 확인</string>
+
+  
+
+    <!--    PODCAST STRING-->
+    <string name="title_skip_now">건너 뛰기</string>
+    <string name="title_trending_podcasts">인기 팟캐스트</string>
+    <string name="title_play_now">지금 플레이</string>
+    <string name="info_podcast_offline">이 팟캐스트는 오프라인 상태입니다. 나중에 다시 시도하십시오</string>
+    <string name="format_episode">%1$d 삽화</string>
+    <string name="format_episodes">%1$d 에피소드</string>
+    <string name="previous_version">앱의 이전 버전</string>
+
+    <!--    Login Strings-->
+
+
+    <string name="title_cloud_favorite">클라우드 좋아하는 라디오</string>
+    <string name="info_header_login">즐겨찾는 라디오를 저장하려면 Google에 로그인하세요.</string>
+    <string name="info_save_favorite_cloud">즐겨찾는 라디오를 저장하려면 Google에 로그인하세요.</string>
+    <string name="info_see_favorite_cloud">클라우드에서 좋아하는 모든 라디오 보기</string>
+    <string name="title_sign_in">Google로 로그인</string>
+    <string name="title_local_device_favorite">지역에서 가장 좋아하는 라디오</string>
+
+    <string name="info_banned_account">귀하의 계정이 차단되었습니다. 다른 것을 시도하십시오</string>
+    <string name="info_invalid_account">다른 기기에서 로그인했거나 계정이 존재하지 않습니다. 다시 로그인하십시오</string>
+    <string name="info_wrong_user_pass">잘못된 이메일 또는 비밀번호</string>
+    <string name="info_invalid_param">잘못된 매개변수</string>
+    <string name="info_tap_see_profile">프로필을 보려면 탭하세요.</string>
+    <string name="info_tap_login">탭하여 Google에 로그인</string>
+    <string name="title_sign_out">로그아웃</string>
+    <string name="title_delete_account">계정 삭제</string>
+    <string name="title_profile">유저 프로필</string>
+    <string name="title_unknown_name">알 수 없는 이름</string>
+    <string name="format_delete_account">계정을 삭제하면 모든 데이터(즐겨찾는 데이터, 프로필 정보 등...)를 잃게 됩니다. %1$s 앱. 지금 계정을 삭제하시겠습니까?</string>
+    <string name="info_sign_in_success">성공적으로 로그인했습니다!</string>
+    <string name="info_logout">계정에서 로그아웃하시겠습니까?</string>
+    <string name="info_upload_fv_done">좋아하는 라디오를 클라우드에 성공적으로 업로드했습니다.</string>
+    <string name="info_added_all_fav_successfully">로컬 및 클라우드 즐겨찾기 목록에 라디오를 성공적으로 추가했습니다.</string>
+    <string name="info_remove_all_fav_successfully">로컬 및 클라우드 즐겨찾기 목록에서 라디오를 성공적으로 제거했습니다.</string>
+    <string name="title_changelog">정보</string>
+
+
+    <!--    New String-->
+    <string name="title_tab_favorite">즐겨찾기</string>
+    <string name="title_tab_live_radio">홈</string>
+    <string name="title_tab_podcast">팟캐스트</string>
+    <string name="title_tab_search">장르</string>
+    <string name="title_tab_library">라이브러리</string>
+    <string name="title_tab_setting">설정</string>
+    <string name="title_tab_profile">프로필</string>
+    <string name="info_cancel_anytime">3일 무료</string>
+    <string name="title_popular_genres">인기 장르</string>
+    <string name="title_popular_countries">인기 국가</string>
+    <string name="info_hint_search_home">찾다</string>
+    <string name="title_recorded">녹음</string>
+
+    <!--  DOWNLOAD Option-->
+    <string name="title_remove_downloads">에피소드 삭제</string>
+    <string name="title_download_now">지금 다운로드</string>
+    <string name="title_remove">제거하다</string>
+    <string name="info_remove_file">이 에피소드를 삭제하시겠습니까?</string>
+    <string name="title_downloading">다운로드 중</string>
+    <string name="title_loading">로딩 중</string>
+    <string name="title_downloaded_podcast">내 다운로드</string>
+
+    <string name="info_download_error">다운로드된 파일 오류입니다. 나중에 다시 시도하십시오</string>
+    <string name="info_sdcard_error">휴대전화의 저장용량을 확인하세요</string>
+    <string name="info_already_file_downloaded">이 에피소드는 이미 다운로드되었습니다</string>
+    <string name="info_saved_song_success">에피소드를 성공적으로 다운로드했습니다.</string>
+    <string name="info_delete_success">에피소드를 성공적으로 제거했습니다.</string>
+    <string name="info_deleted_error">에피소드 오류 제거</string>
+    <string name="info_rewards_ads_error">이 보상을 받을 수 없도록 동영상을 닫았습니다. 나중에 다시 시도하십시오.</string>
+    <string name="info_rewards_ads_success">보상을 성공적으로 받았습니다. 이제 팟캐스트를 다운로드할 수 있습니다!</string>
+
+
+    <string name="title_country_tab">국가</string>
+    <string name="title_tags_tab">태그</string>
+    <string name="title_genre_tab">장르</string>
+    <string name="title_language_tab">언어</string>
+
+    
+
+</resources>

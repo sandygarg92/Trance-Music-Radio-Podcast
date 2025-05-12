@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_date_times">
+        <item>1 MONTH</item>
+        <item>3 MONTHS</item>
+        <item>6 MONTHS</item>
+        <item>1 YEAR</item>
+    </string-array>
+    <string-array name="array_members">
+        <item>Pay every 1 MONTH</item>
+        <item>Pay every 3 MONTHS</item>
+        <item>Pay every 6 MONTHS</item>
+        <item>Pay once a YEAR</item>
+    </string-array>
+    <string-array name="array_prices">
+        <item>0.99$/1 MONTH</item>
+        <item>2.99$/3 MONTHS</item>
+        <item>5.99$/6 MONTHS</item>
+        <item>11.99$/1 YEAR</item>
+    </string-array>
+    <string-array name="array_product_ids">
+        <item>com.onlineradiofm.trancemusicradio.1month</item>
+        <item>com.onlineradiofm.trancemusicradio.3</item>
+        <item>com.onlineradiofm.trancemusicradio.6</item>
+        <item>com.onlineradiofm.trancemusicradio.1y</item>
+    </string-array>
+    <string-array name="array_reports">
+        <item>Report to Cloud</item>
+        <item>Report by Email</item>
+    </string-array>
+    <array name="cast_expanded_controller_control_buttons">
+        <item>@id/cast_button_type_empty</item>
+        <item>@id/cast_button_type_skip_previous</item>
+        <item>@id/cast_button_type_skip_next</item>
+        <item>@id/cast_button_type_mute_toggle</item>
+    </array>
+    <color name="ads_bg_color">#fbfbfb</color>
+    <color name="ads_bt_bg_color">#ee0290</color>
+    <color name="ads_bt_text_color">@color/white</color>
+    <color name="ads_choice_icon_color">#00abca</color>
+    <color name="ads_header_color">@color/light_color_accent</color>
+    <color name="ads_logo_bg">@color/light_color_accent</color>
+    <color name="ads_logo_text">@color/white</color>
+    <color name="ads_main_text">#de000000</color>
+    <color name="ads_second_text">#9a000000</color>
+    <color name="alpha_colorAccent">#8Ae8198b</color>
+    <color name="bg_buy_end_color">#3527F6</color>
+    <color name="bg_buy_start_color">#02A3EE</color>
+    <color name="bg_purchased_end_color">#FFFFFF</color>
+    <color name="bg_purchased_start_color">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue_light">#1E88E5</color>
+    <color name="cast_icon_color">@color/dark_color_accent</color>
+    <color name="ch_ca_bt_player_bg_color">#2c314f</color>
+    <color name="ch_ca_bt_player_second_text_color">#8Affffff</color>
+    <color name="ch_ca_bt_player_text_color">@color/white</color>
+    <color name="checked_download">#008000</color>
+    <color name="colorWindowBackground">#000</color>
+    <color name="color_member_purchased">#ee0290</color>
+    <color name="color_noti_background">#000000</color>
+    <color name="color_price">#2140DB</color>
+    <color name="color_shadow_text">#CD191919</color>
+    <color name="cpb_default_color">#fda300</color>
+    <color name="dark_action_bar_background">#2c314f</color>
+    <color name="dark_action_bar_text_color">@color/white</color>
+    <color name="dark_bottom_nav_background_color">#2c314f</color>
+    <color name="dark_bottom_nav_ripple_color">#1fffffff</color>
+    <color name="dark_bottom_nav_text_focus_color">@color/dark_color_accent</color>
+    <color name="dark_bottom_nav_text_normal_color">#8Affffff</color>
+    <color name="dark_bottom_player_bg_color">#121212</color>
+    <color name="dark_card_background">#2c314f</color>
+    <color name="dark_color_accent">#6190E8</color>
+    <color name="dark_color_background">#1b1e31</color>
+    <color name="dark_color_primary">#536274</color>
+    <color name="dark_color_primary_dark">#09121c</color>
+    <color name="dark_divider_color">#1fffffff</color>
+    <color name="dark_fav_bg_color">@color/dark_color_accent</color>
+    <color name="dark_icon_color">@color/white</color>
+    <color name="dark_list_bg_color">#2c314f</color>
+    <color name="dark_list_color_divider">#1fffffff</color>
+    <color name="dark_list_color_main_text">@color/white</color>
+    <color name="dark_list_color_secondary_text">#8Affffff</color>
+    <color name="dark_load_more_bg_color">@color/dark_list_bg_color</color>
+    <color name="dark_pager_color_background">#1b1e31</color>
+    <color name="dark_play_accent_color">@color/dark_color_accent</color>
+    <color name="dark_play_all_color">@color/dark_color_accent</color>
+    <color name="dark_play_color_secondary_text">#8Affffff</color>
+    <color name="dark_play_color_text">@color/white</color>
+    <color name="dark_progressbar_color">#3369ff</color>
+    <color name="dark_progressbar_splash">@color/white</color>
+    <color name="dark_ripple_button_color">#8Affffff</color>
+    <color name="dark_see_more_color">@color/dark_color_accent</color>
+    <color name="dark_tab_focus_color">#3369ff</color>
+    <color name="dark_text_hint_color">#4fffffff</color>
+    <color name="dark_text_main_color">@color/white</color>
+    <color name="dark_text_second_color">#8Affffff</color>
+    <color name="default_overlay_color">#AAFFFFFF</color>
+    <color name="delete_color">#3F51B5</color>
+    <color name="dialog_bg_color">@color/white</color>
+    <color name="dialog_color_accent">@color/light_color_accent</color>
+    <color name="dialog_color_hint_text">#4f000000</color>
+    <color name="dialog_color_secondary_text">#8A000000</color>
+    <color name="dialog_color_text">#de000000</color>
+    <color name="dialog_rating_color">#FFD600</color>
+    <color name="give_permission_bg_color">#1db954</color>
+    <color name="google_login_color_text">#8A000000</color>
+    <color name="grey">#dedede</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="ic_launcher_background">#4c06d9</color>
+    <color name="intro_cast_bg_color">#2c314f</color>
+    <color name="light_action_bar_background">@color/white</color>
+    <color name="light_action_bar_text_color">#1b1e31</color>
+    <color name="light_bottom_nav_background_color">@color/white</color>
+    <color name="light_bottom_nav_ripple_color">#1f000000</color>
+    <color name="light_bottom_nav_text_focus_color">#0F54DF</color>
+    <color name="light_bottom_nav_text_normal_color">#8A000000</color>
+    <color name="light_bottom_player_bg_color">#efefef</color>
+    <color name="light_card_background">@color/grey</color>
+    <color name="light_color_accent">#4b6cb7</color>
+    <color name="light_color_background">@color/white</color>
+    <color name="light_color_primary">#ffffff</color>
+    <color name="light_color_primary_dark">#dfdfdf</color>
+    <color name="light_fav_bg_color">#cd00ea</color>
+    <color name="light_icon_color">@color/light_action_bar_text_color</color>
+    <color name="light_list_bg_color">@color/white</color>
+    <color name="light_list_color_divider">#1f000000</color>
+    <color name="light_list_color_main_text">#000000</color>
+    <color name="light_list_color_secondary_text">#8A000000</color>
+    <color name="light_load_more_bg_color">@color/white</color>
+    <color name="light_pager_color_background">#f3f5f6</color>
+    <color name="light_play_accent_color">@color/light_color_accent</color>
+    <color name="light_play_all_color">#7701CA</color>
+    <color name="light_play_color_secondary_text">#8A1b1e31</color>
+    <color name="light_play_color_text">#1b1e31</color>
+    <color name="light_progressbar_color">#0347BD</color>
+    <color name="light_progressbar_splash">@color/light_color_accent</color>
+    <color name="light_ripple_button_color">#8A000000</color>
+    <color name="light_see_more_color">@color/light_color_accent</color>
+    <color name="light_text_hint_color">#4f000000</color>
+    <color name="light_text_main_color">#DE0A0A0A</color>
+    <color name="light_text_second_color">#8A000000</color>
+    <color name="logout_color">#4CAF50</color>
+    <color name="orange_color">#E65428</color>
+    <color name="overlay_color">#1f000000</color>
+    <color name="overlay_header_color">#3f000000</color>
+    <color name="red_300">#E57373</color>
+    <color name="red_400">#EF5350</color>
+    <color name="red_logo">#ff003e</color>
+    <color name="report_color">#FFD600</color>
+    <color name="ripple_effect_color">@color/black</color>
+    <color name="skip_end_color">#979797</color>
+    <color name="skip_start_color">#c2c2c2</color>
+    <color name="skip_text_color">@color/black</color>
+    <color name="tab_color_accent">#4b6cb7</color>
+    <color name="text_buy_color">#040533</color>
+    <color name="text_buy_second_color">#8A040533</color>
+    <color name="text_purchased_color">#ee0290</color>
+    <color name="text_purchased_second_color">#459522</color>
+    <color name="white">#ffffff</color>
+    <color name="white_color_main_text">#deffffff</color>
+    <color name="white_color_secondary_text">#8Affffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="bbn_bottom_navigation_height">56dp</dimen>
+    <dimen name="bbn_bottom_navigation_width">72dp</dimen>
+    <dimen name="bbn_elevation">8dp</dimen>
+    <dimen name="bbn_elevation_tablet">0dp</dimen>
+    <dimen name="bbn_top_shadow_height">6dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="corner_radius">10sp</dimen>
+    <dimen name="corner_radius_tags">4sp</dimen>
+    <dimen name="cpb_default_stroke_width">4dp</dimen>
+    <dimen name="dialog_margin">10sp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="height_ads">50dp</dimen>
+    <dimen name="height_divider_recyclerview">120dp</dimen>
+    <dimen name="height_edit_text">48dp</dimen>
+    <dimen name="height_grid_theme">108dp</dimen>
+    <dimen name="height_icon_permission">180dp</dimen>
+    <dimen name="height_item_category">120dp</dimen>
+    <dimen name="height_pager">8sp</dimen>
+    <dimen name="height_process_bar">30sp</dimen>
+    <dimen name="img_height_ads_advance">150dp</dimen>
+    <dimen name="img_icon_ads_advance">40dp</dimen>
+    <dimen name="img_width_ads_advance">250dp</dimen>
+    <dimen name="margin_ads_advance">20dp</dimen>
+    <dimen name="my_button_width">32dp</dimen>
+    <dimen name="padding_top_dialog">22dp</dimen>
+    <dimen name="row_height_big">88dp</dimen>
+    <dimen name="row_height_button">44dp</dimen>
+    <dimen name="row_height_large">80dp</dimen>
+    <dimen name="row_height_medium">72dp</dimen>
+    <dimen name="row_height_normal">64dp</dimen>
+    <dimen name="row_height_setting">60dp</dimen>
+    <dimen name="row_height_small">50dp</dimen>
+    <dimen name="row_height_tab">54dp</dimen>
+    <dimen name="row_height_tiny">40dp</dimen>
+    <dimen name="size_equalizer">250dp</dimen>
+    <dimen name="size_image_play">230dp</dimen>
+    <dimen name="size_img_big">60sp</dimen>
+    <dimen name="size_img_large">50sp</dimen>
+    <dimen name="size_img_medium">36sp</dimen>
+    <dimen name="size_img_menu">32sp</dimen>
+    <dimen name="size_img_small">24sp</dimen>
+    <dimen name="size_img_tiny">18sp</dimen>
+    <dimen name="size_sleep_timer">220dp</dimen>
+    <dimen name="small_margin">5sp</dimen>
+    <dimen name="small_margin_tags">5sp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="stroke_process">3sp</dimen>
+    <dimen name="tab_indicator_height">4dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="text_size_body_ads">12sp</dimen>
+    <dimen name="text_size_headline_ads">24sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_subhead_ads">16sp</dimen>
+    <dimen name="text_size_tab">10dp</dimen>
+    <dimen name="tiny_margin">3sp</dimen>
+    <dimen name="top_list_margin">6sp</dimen>
+    <dimen name="top_section_margin">10dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="widget_margin_top">4dp</dimen>
+    <item name="bbn_backgroundOverlay_animator" type="id"/>
+    <item name="bbn_layoutManager" type="id"/>
+    <integer name="bbn_background_animation_duration">350</integer>
+    <integer name="bbn_hide_animation_duration">250</integer>
+    <integer name="bbn_item_animation_duration">100</integer>
+    <integer name="cpb_default_max_sweep_angle">300</integer>
+    <integer name="cpb_default_min_sweep_angle">20</integer>
+    <integer name="default_blur_radius">15</integer>
+    <integer name="default_downsample_factor">8</integer>
+    <string name="ad_banner_id" translatable="false">ca-app-pub-9161075271982183/6563242681</string>
+    <string name="ad_interstitial_id" translatable="false">ca-app-pub-9161075271982183/7881313340</string>
+    <string name="ad_native_id" translatable="false">ca-app-pub-9161075271982183/5087629043</string>
+    <string name="ad_open_id" translatable="false">ca-app-pub-9161075271982183/4341184275</string>
+    <string name="ad_reward_id" translatable="false">ca-app-pub-9161075271982183/5255150002</string>
+    <string name="ad_type" translatable="false">admob</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-9161075271982183~5120500204</string>
+    <string name="admob_publisher_id" translatable="false">pub-9161075271982183</string>
+    <string name="app_name">TRANCE MUSIC</string>
+    <item format="float" name="cpb_default_rotation_speed" type="string">1</item>
+    <item format="float" name="cpb_default_sweep_speed" type="string">1</item>
+    <string name="default_web_client_id" translatable="false">138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com</string>
+    <string name="empty_duration" translatable="false">00:00</string>
+    <string name="error_no_equalizer_found">Twój telefon nie obsługuje equalizera</string>
+    <string name="firebase_database_url" translatable="false">https://podcastapp-ccfca.firebaseio.com</string>
+    <string name="format_bitrate">Bitrate: %1$s</string>
+    <string name="format_buffering">Buffering: %1$s</string>
+    <string name="format_buy_pro1">Unsubscribe anytime. Trial period 3 days %1$s</string>
+    <string name="format_delete_account">When you delete your account, you will lose all your data (including your favorite data, profile information…) on %1$s App. Are you sure you want to delete your account now?</string>
+    <string name="format_empty_name">%1$s cannot be empty</string>
+    <string name="format_episode">%1$d episode</string>
+    <string name="format_episodes">%1$d episodes</string>
+    <string name="format_full_member">%1$s</string>
+    <string name="format_info_member">%1$s</string>
+    <string name="format_minute">%1$d min.</string>
+    <string name="format_minutes">%1$d min.</string>
+    <string name="format_ready_to_cast">Ready to cast to %1$s</string>
+    <string name="format_recorded_file">Record_%1$s</string>
+    <string name="format_recording_files">Recording: %1$s</string>
+    <string name="format_recording_maximum">The maximum recording time is %1$s minutes</string>
+    <string name="format_report">Radio %1$s error. Please check</string>
+    <string name="format_request_permission"><![CDATA[Thank for choosing <b>Trance Radio</b>. Please give us the below permission:<br><br><b>SDCARD PERMISSION:</b> It will help you to record the radio file when listening live radio and save favorite radio stations.]]></string>
+    <string name="format_term_and_conditional"><![CDATA[Thank for choosing <b>Trance Radio</b>.<br>By using this app, you must agree to our <a href=\"%2$s\"><b>Terms Of Use</b></a> and our <a href=\"%3$s\"><b>Privacy Policy</b></a>.]]></string>
+    <string name="format_update_success">Updated %1$s successfully</string>
+    <string name="format_version">v%1$s</string>
+    <string name="gcm_defaultSenderId" translatable="false">138627354442</string>
+    <string name="google_api_key" translatable="false">AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI</string>
+    <string name="google_app_id" translatable="false">1:138627354442:android:c485a7e5d114cd01babbb3</string>
+    <string name="google_cast_app_id" translatable="false">3F80E626</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI</string>
+    <string name="google_storage_bucket" translatable="false">podcastapp-ccfca.appspot.com</string>
+    <string name="icon_add"></string>
+    <string name="icon_check"></string>
+    <string name="icon_chevron_left"></string>
+    <string name="icon_chevron_right"></string>
+    <string name="icon_comment"></string>
+    <string name="icon_drag"></string>
+    <string name="icon_eye"></string>
+    <string name="icon_heart"></string>
+    <string name="icon_heart_outline"></string>
+    <string name="icon_info"></string>
+    <string name="icon_menu"></string>
+    <string name="icon_pause"></string>
+    <string name="icon_pause_outline"></string>
+    <string name="icon_play"></string>
+    <string name="icon_play_outline"></string>
+    <string name="icon_share"></string>
+    <string name="info_acknowledge_purchase_error">Acknowledge purchase error</string>
+    <string name="info_add_radio_error">Error adding radio!</string>
+    <string name="info_add_radio_success">Radio has been added successfully!</string>
+    <string name="info_added_all_fav_successfully">Added radio to the local and cloud favorite lists successfully</string>
+    <string name="info_already_file_downloaded">This episode is already downloaded</string>
+    <string name="info_banned_account">Your account has been banned. Please try another one</string>
+    <string name="info_billing_invalid">So Sorry, The upgrading to Premium can not implement on your phone.</string>
+    <string name="info_cancel_anytime">Subscription to remove ads</string>
+    <string name="info_close_app">Do you want to quit the app?</string>
+    <string name="info_confirm_delete_my_radio">Are you sure you want to delete this radio?</string>
+    <string name="info_connect_to_play">Check if you have internet.</string>
+    <string name="info_connection_lost">Turn on the internet and press play.</string>
+    <string name="info_content_share">%1$s for Android!\nDownload the app\n%2$s</string>
+    <string name="info_copyright"> </string>
+    <string name="info_delete_file">Are you sure to delete this file?</string>
+    <string name="info_delete_success">Removed episode successfully</string>
+    <string name="info_deleted_error">Removed episode error</string>
+    <string name="info_download_error">Downloaded file error. Please try again later</string>
+    <string name="info_download_podcast_no_permission">You have turned off the storage permission for this application. This permission will help the app download podcasts or listen to downloaded episodes. Do you want to deviate?</string>
+    <string name="info_email_invalid">Your email is invalid</string>
+    <string name="info_empty">Please enter a keyword!</string>
+    <string name="info_error_queue">We can not cast this radio. Please try again later.</string>
+    <string name="info_error_sdcard">No space in the device, so we can not run the application. Clear memory</string>
+    <string name="info_favorite_display">If you enable this option, your favorite screen will be the first on start the app.</string>
+    <string name="info_header_login">Sign-in with Google to save favourite radios</string>
+    <string name="info_hint_radio_link">Radio link. Must start with http:// or https://</string>
+    <string name="info_hint_search_home">Search</string>
+    <string name="info_hint_search_podcast">Search ANY podcast name or pick a category below</string>
+    <string name="info_intro_cast">Touch to cast radios to your TV</string>
+    <string name="info_invalid_account">You have signed-in on the other device OR your account has not existed. Please sign in again</string>
+    <string name="info_invalid_link">Radio link is invalid</string>
+    <string name="info_invalid_param">Invalid Params</string>
+    <string name="info_item_added_to_play_next">Radio was added to play next</string>
+    <string name="info_item_added_to_queue">Radio was added to the queue</string>
+    <string name="info_loading">Please wait…</string>
+    <string name="info_loading_more">Loading…</string>
+    <string name="info_logout">Are you sure you want to sign out of your account?</string>
+    <string name="info_lose_internet">No internet. Try again!</string>
+    <string name="info_member_more">Removed Ads in %1$s</string>
+    <string name="info_move_file_error">Error while transferring files!</string>
+    <string name="info_move_file_success">The file has been moved to the media folder!</string>
+    <string name="info_name_empty">Your name can not be empty</string>
+    <string name="info_name_existed">Your name has been existed</string>
+    <string name="info_permission_denied">Sorry, permission has not been granted. We cannot implement this action, please try again later.</string>
+    <string name="info_play_error">Station temporarily offline, try again later.</string>
+    <string name="info_podcast_offline">This podcast is offline. Please try again later</string>
+    <string name="info_press_again_to_exit">Press again to exit</string>
+    <string name="info_purchase_cancelled">Purchase Cancelled</string>
+    <string name="info_purchase_timeout_error">Purchase timeout error. Please go back later</string>
+    <string name="info_radio_ended_sub">You can choose a different station.</string>
+    <string name="info_radio_ended_title">Radio stopped broadcasting.</string>
+    <string name="info_record_error_sdcard">Your sdcard is having problem, we can not record file</string>
+    <string name="info_record_error_short">Your recording file is too short, we can not save it</string>
+    <string name="info_record_error_unknown">Unknown Error when recording file</string>
+    <string name="info_recording_file">You are recording radio. Please stop recording before doing this action</string>
+    <string name="info_remove_all_fav_successfully">Removed radio from the local and cloud favorite lists successfully</string>
+    <string name="info_remove_file">Are you sure to remove this episode?</string>
+    <string name="info_report_error">Error, try later again</string>
+    <string name="info_report_success">Successful report</string>
+    <string name="info_rewards_ads_error">You have closed video so you can not receive this reward. Please try again later.</string>
+    <string name="info_rewards_ads_success">Received reward successfully. Now you can download podcast!</string>
+    <string name="info_save_favorite_cloud">Sign in with Google to save favourite radios</string>
+    <string name="info_save_file_error">Unknown Error!We can not save your file</string>
+    <string name="info_save_file_success">Saved recording file successfully</string>
+    <string name="info_saved_file">Do you want to save the recording file?</string>
+    <string name="info_saved_song_success">Downloaded episode successfully</string>
+    <string name="info_sdcard_error">Please check the storage on your phone.</string>
+    <string name="info_see_favorite_cloud">See all your cloud favourite radios</string>
+    <string name="info_server_error">No connection to the server. Please try again later!</string>
+    <string name="info_share_app">Best radio app %1$s Download now %2$s</string>
+    <string name="info_sign_in_success">Congratulation you have signed in successfully!</string>
+    <string name="info_single_radio_error">Error. Please try again later.</string>
+    <string name="info_splash_top">TRANCE MUSIC RADIO</string>
+    <string name="info_tap_login">Tap to sign-in with Google</string>
+    <string name="info_tap_see_profile">Tap to see your profile</string>
+    <string name="info_thanks_purchasing">Thanks for purchasing. Let enjoy app now!</string>
+    <string name="info_update_radio_error">Error while updating!</string>
+    <string name="info_update_radio_success">Radio update successful!</string>
+    <string name="info_upgrade_now">Let upgrade to Premium now</string>
+    <string name="info_upload_fv_done">Uploaded the favourite radio to cloud successfully</string>
+    <string name="info_wrong_user_pass">Wrong email or password</string>
+    <string name="item_purchase_invalid">This item is invalid</string>
+    <string name="made_with_in_wroclaw"/>
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="previous_version">Previous version of the app</string>
+    <string name="project_id" translatable="false">podcastapp-ccfca</string>
+    <string name="required_permissions">Required Permissions</string>
+    <string name="server_client_id">611524958152-bneicqgkke89e09f6s864i1g5g82hapn.apps.googleusercontent.com</string>
+    <string name="title_about_us">About us</string>
+    <string name="title_add">Add</string>
+    <string name="title_add_radio">Add radio</string>
+    <string name="title_add_radio_station">Add Radio Station</string>
+    <string name="title_agree">Yes, I agree</string>
+    <string name="title_back">Back</string>
+    <string name="title_bass">Bass</string>
+    <string name="title_buy_now">START</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_changelog">Info</string>
+    <string name="title_cloud_favorite">Cloud Favourite Radios</string>
+    <string name="title_confirm">Confirm</string>
+    <string name="title_contact_us">Contact Us</string>
+    <string name="title_country_tab">Country</string>
+    <string name="title_custom">Custom</string>
+    <string name="title_dark_mode">Dark Mode</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_delete_account">Delete Account</string>
+    <string name="title_delete_radio">Delete</string>
+    <string name="title_done">Done</string>
+    <string name="title_dont_ask_again">Do not ask again</string>
+    <string name="title_download_now">Download now</string>
+    <string name="title_downloaded_podcast">My Downloads</string>
+    <string name="title_downloading">Downloading</string>
+    <string name="title_edit_radio">Edit radio</string>
+    <string name="title_empty_duration">00:00</string>
+    <string name="title_equalizer">Equalizer</string>
+    <string name="title_facebook">Ad-free version</string>
+    <string name="title_favorite_display">Settings favorite</string>
+    <string name="title_genre_tab">Categories/Genres</string>
+    <string name="title_give_it">Give It Now</string>
+    <string name="title_hint_save_record_file">Enter the name file</string>
+    <string name="title_home_screen">TRANCE MUSIC</string>
+    <string name="title_info">Info</string>
+    <string name="title_instagram">Visit Our Instagram</string>
+    <string name="title_language_tab">Language</string>
+    <string name="title_light_mode">Light Mode</string>
+    <string name="title_live">Live</string>
+    <string name="title_loading">Loading</string>
+    <string name="title_local_device_favorite">Your Favorite Stations</string>
+    <string name="title_manage_subscription">Manage subscription</string>
+    <string name="title_menu_cast">Play On</string>
+    <string name="title_menu_share">Share</string>
+    <string name="title_more_apps">More Radio Apps</string>
+    <string name="title_move_to_media_store">Move to the media folder</string>
+    <string name="title_mp3_link">Mp3</string>
+    <string name="title_my_radio">My radios</string>
+    <string name="title_no">No</string>
+    <string name="title_no_data">No data</string>
+    <string name="title_now_playing">Now Playing</string>
+    <string name="title_off">Off.</string>
+    <string name="title_ok">OK</string>
+    <string name="title_options">Options</string>
+    <string name="title_play_now">Play Now</string>
+    <string name="title_popular_countries">Popular Countries</string>
+    <string name="title_popular_genres">Popular Genres</string>
+    <string name="title_privacy_policy">Privacy Policy</string>
+    <string name="title_pro_version">UPGRADE TO PREMIUM</string>
+    <string name="title_profile">User Profile</string>
+    <string name="title_purchase_error">Purchase Error</string>
+    <string name="title_purchase_success">Purchase Successful!</string>
+    <string name="title_radio_link">Radio link</string>
+    <string name="title_radio_name">Radio name</string>
+    <string name="title_rate_me">Rate me</string>
+    <string name="title_recorded">Recorded</string>
+    <string name="title_recorded_files">Recorded File</string>
+    <string name="title_remove">Remove</string>
+    <string name="title_remove_downloads">Remove episode</string>
+    <string name="title_rename">Rename</string>
+    <string name="title_report_radio">Report radio</string>
+    <string name="title_reverb">Reverb</string>
+    <string name="title_save">Save</string>
+    <string name="title_search">Search</string>
+    <string name="title_see_more">View more</string>
+    <string name="title_setting_ads">Setting Advertisement</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_share">Share</string>
+    <string name="title_sign_in">Sign In With Google</string>
+    <string name="title_sign_out">Sign Out</string>
+    <string name="title_skip">SKIP</string>
+    <string name="title_skip_now">SKIP</string>
+    <string name="title_sleep_mode">Sleep Timer</string>
+    <string name="title_tab_favorite">Favorite</string>
+    <string name="title_tab_library">Libraries</string>
+    <string name="title_tab_live_radio">Home</string>
+    <string name="title_tab_podcast">Podcasts</string>
+    <string name="title_tab_profile">Profile</string>
+    <string name="title_tab_recorded">My Records</string>
+    <string name="title_tab_search">Stations</string>
+    <string name="title_tab_setting">Settings</string>
+    <string name="title_tags_tab">Tags</string>
+    <string name="title_term_of_use">Terms of Use</string>
+    <string name="title_trending_podcasts">Trending Podcasts</string>
+    <string name="title_trending_radios">New stations</string>
+    <string name="title_twitter">Visit Our Twitter</string>
+    <string name="title_unknown">Unknown</string>
+    <string name="title_unknown_device">Unknown Device</string>
+    <string name="title_unknown_name">Unknown Name</string>
+    <string name="title_update">Update</string>
+    <string name="title_virtualizer">Virtualizer</string>
+    <string name="title_warning">Attention</string>
+    <string name="title_website">Visit Our Website</string>
+    <string name="title_yes">Yes</string>
+    <string name="withoutrecording">If you do not agree to the permissions, click SKIP. \ You will be able to use the application without recording.</string>
+    <style name="AppTextAppearance" parent="TextAppearance.AppCompat.Menu">
+        <item name="android:textSize">@dimen/text_size_body</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+    </style>
+    <style name="AppTheme.AdAttribution">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:textColor">@color/ads_logo_text</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:text">Ad</item>
+        <item name="android:background">@color/ads_logo_bg</item>
+        <item name="android:width">15dp</item>
+        <item name="android:height">15dp</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppThemeDarkFull" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/dark_color_primary</item>
+        <item name="colorPrimaryDark">@color/dark_color_primary_dark</item>
+        <item name="colorAccent">@color/dark_color_accent</item>
+        <item name="cpbStyle">@style/CircularProgressBar</item>
+        <item name="android:fontFamily">@font/ft_app_regular</item>
+
+        
+        <item name="mediaRouteTheme">@style/MediaRouterThemeDark</item>
+        <item name="castMiniControllerStyle">@style/CustomCastMiniController</item>
+        <item name="castExpandedControllerStyle">@style/CustomCastExpandedController</item>
+    </style>
+    <style name="AppThemeFull.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="AppThemeFull.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppThemeLightFull" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/light_color_primary</item>
+        <item name="colorPrimaryDark">@color/light_color_primary_dark</item>
+        <item name="colorAccent">@color/light_color_accent</item>
+        <item name="cpbStyle">@style/CircularProgressBar</item>
+        <item name="android:fontFamily">@font/ft_app_regular</item>
+
+        
+        <item name="mediaRouteTheme">@style/MediaRouterThemeDark</item>
+        <item name="castMiniControllerStyle">@style/CustomCastMiniController</item>
+        <item name="castExpandedControllerStyle">@style/CustomCastExpandedController</item>
+
+    </style>
+    <style name="BottomNavigationViewTextStyleActive">
+        <item name="android:fontFamily">@font/ft_app_medium</item>
+    </style>
+    <style name="BottomNavigationViewTextStyleInActive">
+        <item name="android:fontFamily">@font/ft_app_regular</item>
+    </style>
+    <style name="CircularProgressBar" parent="android:Widget.Holo.ProgressBar">
+        <item name="cpb_color">@color/white</item>
+        <item name="cpb_stroke_width">4dp</item>
+        <item name="cpb_min_sweep_angle">20</item>
+        <item name="cpb_max_sweep_angle">300</item>
+        <item name="cpb_sweep_speed">1</item>
+        <item name="cpb_rotation_speed">1</item>
+    </style>
+    <style name="CustomCastExpandedController" parent="CastExpandedController">
+        <item name="castControlButtons">@array/cast_expanded_controller_control_buttons</item>
+    </style>
+    <style name="CustomCastMiniController" parent="CastMiniController">
+        <item name="castShowImageThumbnail">true</item>
+        <item name="castBackground">@color/ch_ca_bt_player_bg_color</item>
+        <item name="castButtonColor">@color/white</item>
+        <item name="castProgressBarColor">@color/white</item>
+        <item name="castPlayButtonDrawable">@drawable/ic_play_arrow_white_36dp</item>
+        <item name="castPauseButtonDrawable">@drawable/ic_pause_white_36dp</item>
+        <item name="castTitleTextAppearance">@style/CustomCastMiniControllerTitle</item>
+        <item name="castSubtitleTextAppearance">@style/CustomCastMiniControllerSubTitle</item>
+    </style>
+    <style name="CustomCastMiniControllerSubTitle" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textColor">@color/ch_ca_bt_player_second_text_color</item>
+    </style>
+    <style name="CustomCastMiniControllerTitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textColor">@color/ch_ca_bt_player_text_color</item>
+    </style>
+    <style name="CustomSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">#C95E5E</item>
+        <item name="colorSwitchThumbNormal">#565656</item>
+        <item name="android:colorForeground">#383838</item>
+    </style>
+    <style name="DialogTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="MediaRouteButtonStyleDark" parent="Widget.MediaRouter.Light.MediaRouteButton">
+        <item name="mediaRouteButtonTint">@color/cast_icon_color</item>
+    </style>
+    <style name="MediaRouterThemeDark" parent="Theme.MediaRouter">
+        <item name="mediaRouteButtonStyle">@style/MediaRouteButtonStyleDark</item>
+    </style>
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">@dimen/text_size_tab</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="background">@color/light_color_primary</item>
+        <item name="titleTextStyle">@style/MyActionBarTitleText</item>
+    </style>
+    <style name="MyActionBarDrawerArrowStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@color/white</item>
+    </style>
+    <style name="MyActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <declare-styleable name="CircularProgressBar">
+        <attr format="reference" name="cpbStyle"/>
+        <attr format="color" name="cpb_color"/>
+        <attr format="reference" name="cpb_colors"/>
+        <attr format="dimension" name="cpb_stroke_width"/>
+        <attr format="integer" name="cpb_min_sweep_angle"/>
+        <attr format="integer" name="cpb_max_sweep_angle"/>
+        <attr format="float" name="cpb_sweep_speed"/>
+        <attr format="float" name="cpb_rotation_speed"/>
+    </declare-styleable>
+    <declare-styleable name="CircularProgressView">
+        <attr format="integer" name="max"/>
+        <attr format="boolean" name="shadow"/>
+        <attr format="boolean" name="progressThumb"/>
+        <attr format="integer" name="startingAngle"/>
+        <attr format="integer" name="progressCircle"/>
+        <attr format="dimension" name="progressBarThickness"/>
+        <attr format="color" name="progressBarColor"/>
+        <attr format="boolean" name="progressBarRounded"/>
+        <attr format="color" name="backgroundColor"/>
+        <attr format="boolean" name="backgroundAlphaEnabled"/>
+        <attr format="boolean" name="reverse"/>
+    </declare-styleable>
+</resources>

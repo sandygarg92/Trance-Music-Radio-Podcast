@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    it can be facebook or admob-->
+    <string name="ad_type" translatable="false">admob</string>
+
+    <!--    this is only for admob if you want to use Facebook, you still need to have this app id-->
+    <string name="admob_app_id" translatable="false">ca-app-pub-9161075271982183~5120500204</string>
+    <string name="admob_publisher_id" translatable="false">pub-9161075271982183</string>
+
+    <!--    3 ids for banner,interstitial, native-->
+    <string name="ad_banner_id" translatable="false">ca-app-pub-9161075271982183/6563242681</string>
+    <string name="ad_interstitial_id" translatable="false">ca-app-pub-9161075271982183/7881313340</string>
+    <string name="ad_native_id" translatable="false">ca-app-pub-9161075271982183/5087629043</string>
+    <string name="ad_reward_id" translatable="false">ca-app-pub-9161075271982183/5255150002</string>
+    <string name="ad_open_id" translatable="false">ca-app-pub-9161075271982183/4341184275</string>
+
+</resources>

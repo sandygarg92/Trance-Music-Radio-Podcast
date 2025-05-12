@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Native ads advance-->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.AdAttribution">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:textColor">@color/ads_logo_text</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:text">Ad</item>
+        <item name="android:background">@color/ads_logo_bg</item>
+        <item name="android:width">15dp</item>
+        <item name="android:height">15dp</item>
+    </style>
+
+    <!--NATIVE ADS COLOR-->
+    <color name="ads_logo_bg">@color/light_color_accent</color>
+    <color name="ads_logo_text">@color/white</color>
+    <color name="ads_bt_text_color">@color/white</color>
+    <color name="ads_bt_bg_color">#ee0290</color>
+    <color name="ads_bg_color">#fbfbfb</color>
+    <color name="ads_main_text">#de000000</color>
+    <color name="ads_second_text">#9a000000</color>
+    <color name="ads_header_color">@color/light_color_accent</color>
+    <color name="ads_choice_icon_color">#00abca</color>
+
+<!--    native ads dimens-->
+    <dimen name="height_ads">50dp</dimen>
+    <dimen name="margin_ads_advance">20dp</dimen>
+    <dimen name="img_icon_ads_advance">40dp</dimen>
+    <dimen name="img_width_ads_advance">250dp</dimen>
+    <dimen name="img_height_ads_advance">150dp</dimen>
+    <dimen name="text_size_headline_ads">24sp</dimen>
+    <dimen name="text_size_subhead_ads">16sp</dimen>
+    <dimen name="text_size_body_ads">12sp</dimen>
+
+</resources>

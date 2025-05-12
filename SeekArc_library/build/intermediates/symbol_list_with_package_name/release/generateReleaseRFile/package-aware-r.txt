@@ -1,0 +1,32 @@
+com.triggertrap.seekarc
+attr arcColor
+attr arcWidth
+attr clockwise
+attr enabled
+attr progressColor
+attr progressWidth
+attr progress_arc
+attr rotation_arc
+attr roundEdges
+attr seekArcStyle
+attr seekarc_max
+attr startAngle
+attr sweepAngle
+attr thumb
+attr thumbOffset
+attr touchInside
+color default_blue_light
+color progress_gray
+color progress_gray_dark
+drawable ic_launcher
+drawable scrubber_control_disabled_holo
+drawable scrubber_control_focused_holo
+drawable scrubber_control_normal_holo
+drawable scrubber_control_pressed_holo
+drawable seek_arc_control_selector
+drawable thumb_default
+string app_name
+style SeekArc
+style SeekArcLight
+styleable SeekArc arcColor arcWidth clockwise enabled progressColor progressWidth progress_arc rotation_arc roundEdges seekarc_max startAngle sweepAngle thumb thumbOffset touchInside
+styleable SeekArcTheme seekArcStyle

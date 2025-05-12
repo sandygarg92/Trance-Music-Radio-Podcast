@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TRANCE MUSIC</string>
+    <string name="info_copyright"> </string>
+    <string name="title_home_screen">TRANCE MUSIC</string>
+    <string name="info_splash_top">TRANCE MUSIC RADIO</string>
+
+
+
+
+    <!--    Login Strings-->
+    <string name="server_client_id">611524958152-bneicqgkke89e09f6s864i1g5g82hapn.apps.googleusercontent.com</string>
+
+    <string name="made_with_in_wroclaw"></string>
+
+    <string name="title_settings">Settings</string>
+    <string name="info_loading">Please wait…</string>
+    <string name="title_yes">Yes</string>
+    <string name="title_no">No</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_info">Info</string>
+    <string name="title_options">Options</string>
+    <string name="title_confirm">Confirm</string>
+    <string name="title_warning">Attention</string>
+    <string name="title_share">Share</string>
+    <string name="title_back">Back</string>
+    <string name="title_unknown">Unknown</string>
+    <string name="title_about_us">About us</string>
+    <string name="title_done">Done</string>
+    <string name="title_search">Search</string>
+    <string name="title_no_data">No data</string>
+    <string name="title_rate_me">Rate me</string>
+
+    <string name="info_lose_internet">No internet. Try again!</string>
+    <string name="info_empty">Please enter a keyword!</string>
+    <string name="info_close_app">Do you want to quit the app?</string>
+    <string name="info_server_error">No connection to the server. Please try again later!</string>
+    <string name="info_press_again_to_exit">Press again to exit</string>
+    <string name="info_loading_more">Loading…</string>
+
+    <string name="icon_play">&#xea7d;</string>
+    <string name="icon_add">&#xea81;</string>
+    <string name="icon_check">&#xe867;</string>
+    <string name="icon_chevron_right">&#xe876;</string>
+    <string name="icon_menu">&#xe8cf;</string>
+    <string name="icon_pause">&#xea64;</string>
+    <string name="icon_heart">&#xe9b6;</string>
+    <string name="icon_heart_outline">&#xe9b5;</string>
+    <string name="icon_share">&#xeac0;</string>
+    <string name="icon_comment">&#xe8a1;</string>
+    <string name="icon_play_outline">&#xea7b;</string>
+    <string name="icon_pause_outline">&#xea60;</string>
+    <string name="icon_info">&#xe9d5;</string>
+    <string name="icon_chevron_left">&#xe875;</string>
+    <string name="icon_drag">&#xea0d;</string>
+    <string name="icon_eye">&#xe943;</string>
+
+    <string name="info_error_sdcard">No space in the device, so we can not run the application. Clear memory</string>
+    <string name="info_permission_denied">Sorry, permission has not been granted. We cannot implement this action, please try again later.</string>
+
+    <string name="info_share_app">Best radio app %1$s Download now %2$s</string>
+    <string name="title_more_apps">More Radio Apps</string>
+    <string name="title_contact_us">Contact Us</string>
+    <string name="title_menu_share">Share</string>
+
+    <string name="title_privacy_policy">Privacy Policy</string>
+    <string name="title_term_of_use">Terms of Use</string>
+    <string name="title_facebook">Ad-free version</string>
+    <string name="title_twitter">Visit Our Twitter</string>
+    <string name="title_website">Visit Our Website</string>
+    <string name="title_instagram">Visit Our Instagram</string>
+
+    <string name="format_buffering">Buffering: %1$s</string>
+    <string name="format_bitrate">Bitrate: %1$s</string>
+
+    <string name="info_content_share">%1$s for Android!\nDownload the app\n%2$s</string>
+    <string name="info_connect_to_play">Check if you have internet.</string>
+    <string name="info_play_error">Station temporarily offline, try again later.</string>
+
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="info_single_radio_error">Error. Please try again later.</string>
+
+    <string name="title_sleep_mode">Sleep Timer</string>
+    <string name="title_off">Off.</string>
+    <string name="format_minutes">%1$d min.</string>
+    <string name="format_minute">%1$d min.</string>
+
+    <string name="info_radio_ended_title">Radio stopped broadcasting.</string>
+    <string name="info_radio_ended_sub">You can choose a different station.</string>
+    <string name="info_connection_lost">Turn on the internet and press play.</string>
+
+    <string name="format_term_and_conditional"><![CDATA[Thank for choosing <b>Trance Radio</b>.<br>By using this app, you must agree to our <a href=\"%2$s\"><b>Terms Of Use</b></a> and our <a href=\"%3$s\"><b>Privacy Policy</b></a>.]]></string>
+    <string name="title_agree">Yes, I agree</string>
+    <string name="format_request_permission"><![CDATA[Thank for choosing <b>Trance Radio</b>. Please give us the below permission:<br><br><b>SDCARD PERMISSION:</b> It will help you to record the radio file when listening live radio and save favorite radio stations.]]></string>
+    <string name="title_give_it">Give It Now</string>
+
+    <string name="title_setting_ads">Setting Advertisement</string>
+
+    <string name="title_tab_recorded">My Records</string>
+    <string name="title_recorded_files">Recorded File</string>
+
+    <string name="info_recording_file">You are recording radio. Please stop recording before doing this action</string>
+    <string name="info_saved_file">Do you want to save the recording file?</string>
+
+    <string name="info_record_error_short">Your recording file is too short, we can not save it</string>
+    <string name="info_record_error_sdcard">Your sdcard is having problem, we can not record file</string>
+    <string name="info_record_error_unknown">Unknown Error when recording file</string>
+
+    <string name="format_recording_files">Recording: %1$s</string>
+    <string name="format_recording_maximum">The maximum recording time is %1$s minutes</string>
+    <string name="format_recorded_file">Record_%1$s</string>
+    <string name="title_save">Save</string>
+    <string name="title_hint_save_record_file">Enter the name file</string>
+    <string name="info_save_file_success">Saved recording file successfully</string>
+    <string name="info_save_file_error">Unknown Error!We can not save your file</string>
+    <string name="info_delete_file">Are you sure to delete this file?</string>
+
+    <string name="title_rename">Rename</string>
+    <string name="title_delete">Delete</string>
+
+    <string name="info_name_empty">Your name can not be empty</string>
+    <string name="info_name_existed">Your name has been existed</string>
+
+    <!--======Add IAP purchase id in here=====-->
+    <string-array name="array_product_ids">
+        <item>com.onlineradiofm.trancemusicradio.1month</item>
+        <item>com.onlineradiofm.trancemusicradio.3</item>
+        <item>com.onlineradiofm.trancemusicradio.6</item>
+        <item>com.onlineradiofm.trancemusicradio.1y</item>
+    </string-array>
+
+    <string-array name="array_prices">
+        <item>0.99$/1 MONTH</item>
+        <item>2.99$/3 MONTHS</item>
+        <item>5.99$/6 MONTHS</item>
+        <item>11.99$/1 YEAR</item>
+    </string-array>
+
+    <string-array name="array_members">
+        <item>Pay every 1 MONTH</item>
+        <item>Pay every 3 MONTHS</item>
+        <item>Pay every 6 MONTHS</item>
+        <item>Pay once a YEAR</item>
+    </string-array>
+
+    <string-array name="array_date_times">
+        <item>1 MONTH</item>
+        <item>3 MONTHS</item>
+        <item>6 MONTHS</item>
+        <item>1 YEAR</item>
+    </string-array>
+
+    <string name="title_pro_version">UPGRADE TO PREMIUM</string>
+    <string name="title_purchase_success">Purchase Successful!</string>
+    <string name="title_purchase_error">Purchase Error</string>
+    <string name="format_info_member">%1$s</string>
+    <string name="info_thanks_purchasing">Thanks for purchasing. Let enjoy app now!</string>
+    <string name="info_member_more">Removed Ads in %1$s</string>
+    <string name="info_upgrade_now">Let upgrade to Premium now</string>
+    <string name="format_buy_pro1">Unsubscribe anytime. Trial period 3 days %1$s</string>
+    <string name="info_cancel_anytime">Subscription to remove ads</string>
+
+    <string name="format_full_member">%1$s</string>
+
+    <string name="title_buy_now">START</string>
+    <string name="title_skip">SKIP</string>
+
+    <string name="info_email_invalid">Your email is invalid</string>
+    <string name="item_purchase_invalid">This item is invalid</string>
+    <string name="info_billing_invalid">So Sorry, The upgrading to Premium can not implement on your phone.</string>
+
+    <!--    DARK MODE-->
+    <string name="title_dark_mode">Dark Mode</string>
+    <string name="title_light_mode">Light Mode</string>
+    <string name="format_update_success">Updated %1$s successfully</string>
+
+    <string name="title_trending_radios">New stations</string>
+    <string name="title_see_more">View more</string>
+
+    <string name="info_purchase_timeout_error">Purchase timeout error. Please go back later</string>
+    <string name="info_purchase_cancelled">Purchase Cancelled</string>
+    <string name="info_acknowledge_purchase_error">Acknowledge purchase error</string>
+
+    <string name="empty_duration" translatable="false">00:00</string>
+    <string name="format_version">v%1$s</string>
+
+    <!--    PODCAST STRING-->
+    <string name="title_skip_now">SKIP</string>
+    <string name="title_trending_podcasts">Trending Podcasts</string>
+    <string name="title_play_now">Play Now</string>
+    <string name="info_podcast_offline">This podcast is offline. Please try again later</string>
+    <string name="format_episode">%1$d episode</string>
+    <string name="format_episodes">%1$d episodes</string>
+    <string name="previous_version">Previous version of the app</string>
+
+
+
+    <string name="title_empty_duration">00:00</string>
+    <string name="title_cloud_favorite">Cloud Favourite Radios</string>
+    <string name="info_header_login">Sign-in with Google to save favourite radios</string>
+    <string name="info_save_favorite_cloud">Sign in with Google to save favourite radios</string>
+    <string name="info_see_favorite_cloud">See all your cloud favourite radios</string>
+    <string name="title_sign_in">Sign In With Google</string>
+    <string name="title_local_device_favorite">Your Favorite Stations</string>
+
+    <string name="info_banned_account">Your account has been banned. Please try another one</string>
+    <string name="info_invalid_account">You have signed-in on the other device OR your account has not existed. Please sign in again</string>
+    <string name="info_wrong_user_pass">Wrong email or password</string>
+    <string name="info_invalid_param">Invalid Params</string>
+    <string name="info_tap_see_profile">Tap to see your profile</string>
+    <string name="info_tap_login">Tap to sign-in with Google</string>
+    <string name="title_sign_out">Sign Out</string>
+    <string name="title_delete_account">Delete Account</string>
+    <string name="title_profile">User Profile</string>
+    <string name="title_unknown_name">Unknown Name</string>
+    <string name="format_delete_account">When you delete your account, you will lose all your data (including your favorite data, profile information…) on %1$s App. Are you sure you want to delete your account now?</string>
+    <string name="info_sign_in_success">Congratulation you have signed in successfully!</string>
+    <string name="info_logout">Are you sure you want to sign out of your account?</string>
+    <string name="info_upload_fv_done">Uploaded the favourite radio to cloud successfully</string>
+    <string name="info_added_all_fav_successfully">Added radio to the local and cloud favorite lists successfully</string>
+    <string name="info_remove_all_fav_successfully">Removed radio from the local and cloud favorite lists successfully</string>
+    <string name="title_changelog">Info</string>
+
+
+    <!--    New String-->
+    <string name="title_tab_favorite">Favorite</string>
+    <string name="title_tab_live_radio">Home</string>
+    <string name="title_tab_podcast">Podcasts</string>
+    <string name="title_tab_search">Stations</string>
+    <string name="title_tab_library">Libraries</string>
+    <string name="title_tab_setting">Settings</string>
+    <string name="title_tab_profile">Profile</string>
+    <string name="title_popular_genres">Popular Genres</string>
+    <string name="title_popular_countries">Popular Countries</string>
+    <string name="info_hint_search_home">Search</string>
+    <string name="title_recorded">Recorded</string>
+
+    <!--  DOWNLOAD Option-->
+    <string name="title_remove_downloads">Remove episode</string>
+    <string name="title_download_now">Download now</string>
+    <string name="title_remove">Remove</string>
+    <string name="info_remove_file">Are you sure to remove this episode?</string>
+    <string name="title_downloading">Downloading</string>
+    <string name="title_loading">Loading</string>
+    <string name="title_downloaded_podcast">My Downloads</string>
+
+    <string name="info_download_error">Downloaded file error. Please try again later</string>
+    <string name="info_sdcard_error">Please check the storage on your phone.</string>
+    <string name="info_already_file_downloaded">This episode is already downloaded</string>
+    <string name="info_saved_song_success">Downloaded episode successfully</string>
+    <string name="info_delete_success">Removed episode successfully</string>
+    <string name="info_deleted_error">Removed episode error</string>
+    <string name="info_rewards_ads_error">You have closed video so you can not receive this reward. Please try again later.</string>
+    <string name="info_rewards_ads_success">Received reward successfully. Now you can download podcast!</string>
+
+
+
+    <!--  New Podcast String-->
+    <string name="info_hint_search_podcast">Search ANY podcast name or pick a category below</string>
+
+    <!--  Add your radio-->
+    <string name="title_my_radio">My radios</string>
+    <string name="title_add_radio_station">Add Radio Station</string>
+    <string name="title_add_radio">Add radio</string>
+    <string name="title_edit_radio">Edit radio</string>
+    <string name="title_delete_radio">Delete</string>
+    <string name="title_add">Add</string>
+    <string name="title_update">Update</string>
+    <string name="title_radio_name">Radio name</string>
+    <string name="title_radio_link">Radio link</string>
+    <string name="info_hint_radio_link">Radio link. Must start with http:// or https://</string>
+    <string name="title_mp3_link">Mp3</string>
+    <string name="title_live">Live</string>
+    <string name="format_empty_name">%1$s cannot be empty</string>
+    <string name="info_invalid_link">Radio link is invalid</string>
+    <string name="info_add_radio_success">Radio has been added successfully!</string>
+    <string name="info_add_radio_error">Error adding radio!</string>
+    <string name="title_dont_ask_again">Do not ask again</string>
+
+    <string name="info_update_radio_success">Radio update successful!</string>
+    <string name="info_update_radio_error">Error while updating!</string>
+    <string name="info_confirm_delete_my_radio">Are you sure you want to delete this radio?</string>
+    <string name="info_download_podcast_no_permission">You have turned off the storage permission for this application. This permission will help the app download podcasts or listen to downloaded episodes. Do you want to deviate?</string>
+    <string name="title_move_to_media_store">Move to the media folder</string>
+    <string name="info_move_file_error">Error while transferring files!</string>
+    <string name="info_move_file_success">The file has been moved to the media folder!</string>
+    <string name="required_permissions">Required Permissions</string>
+    <string name="withoutrecording">If you do not agree to the permissions, click SKIP. \ You will be able to use the application without recording.</string>
+    <string name="title_manage_subscription">Manage subscription</string>
+
+    <string name="title_country_tab">Country</string>
+    <string name="title_tags_tab">Tags</string>
+    <string name="title_genre_tab">Categories/Genres</string>
+    <string name="title_language_tab">Language</string>
+
+
+
+</resources>

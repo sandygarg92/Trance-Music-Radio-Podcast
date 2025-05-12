@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2018. Radio Polska - All Rights Reserved.
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at.
+  ~
+  ~         http://radiopolska.com/sourcecode/policy
+  ~
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/my_radio_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/light_card_background"
+            app:cardCornerRadius="@dimen/corner_radius"
+            app:cardElevation="2dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/ripple_effect_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true">
+
+                <RelativeLayout
+                    android:id="@+id/layout_my_radio"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/row_height_big"
+                    android:background="@color/light_list_bg_color">
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/layout_radio_img"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/dialog_margin">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="@dimen/dialog_margin"
+                            android:layout_marginBottom="@dimen/dialog_margin"
+                            android:scaleType="centerCrop"
+                            android:background="@color/light_color_accent"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintDimensionRatio="1:1"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            android:padding="@dimen/dialog_margin"
+                            app:tint="@color/white"
+                            app:srcCompat="@drawable/ic_tab_live_24dp"
+                            />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_my_radio"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/dialog_margin"
+                        android:layout_marginEnd="@dimen/dialog_margin"
+                        android:layout_toStartOf="@+id/img_radio_chevron"
+                        android:layout_toEndOf="@+id/layout_radio_img"
+                        android:text="@string/title_my_radio"
+                        android:textColor="@color/light_list_color_main_text"
+                        android:textSize="@dimen/text_size_subhead"
+                        app:fontFamily="@font/montserrat_medium" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/img_radio_chevron"
+                        android:layout_width="@dimen/size_img_medium"
+                        android:layout_height="@dimen/size_img_medium"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="@dimen/small_margin"
+                        android:gravity="center"
+                        android:padding="0dp"
+                        android:text="@string/icon_chevron_right"
+                        android:textColor="@color/light_list_color_divider"
+                        android:textSize="@dimen/size_img_small"
+                        app:fontFamily="@font/ft_material_icon" />
+
+                </RelativeLayout>
+            </com.balysv.materialripple.MaterialRippleLayout>
+        </androidx.cardview.widget.CardView>
+
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/add_radio_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/light_card_background"
+            app:cardCornerRadius="@dimen/corner_radius"
+            app:cardElevation="2dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/ripple_effect_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true">
+
+                <RelativeLayout
+                    android:id="@+id/layout_add_radio"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/row_height_big"
+                    android:background="@color/light_list_bg_color">
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/layout_add_radio_img"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/dialog_margin">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="@dimen/dialog_margin"
+                            android:layout_marginBottom="@dimen/dialog_margin"
+                            android:scaleType="centerCrop"
+                            android:background="@color/light_color_accent"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintDimensionRatio="1:1"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            android:padding="@dimen/dialog_margin"
+                            app:tint="@color/white"
+                            app:srcCompat="@drawable/ic_tab_add_24dp"
+                            />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_add_radio"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/dialog_margin"
+                        android:layout_marginEnd="@dimen/dialog_margin"
+                        android:layout_toStartOf="@+id/img_add_radio_chevron"
+                        android:layout_toEndOf="@+id/layout_add_radio_img"
+                        android:text="@string/title_add_radio_station"
+                        android:textColor="@color/light_list_color_main_text"
+                        android:textSize="@dimen/text_size_subhead"
+                        app:fontFamily="@font/montserrat_medium" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/img_add_radio_chevron"
+                        android:layout_width="@dimen/size_img_medium"
+                        android:layout_height="@dimen/size_img_medium"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="@dimen/small_margin"
+                        android:gravity="center"
+                        android:padding="0dp"
+                        android:text="@string/icon_chevron_right"
+                        android:textColor="@color/light_list_color_divider"
+                        android:textSize="@dimen/size_img_small"
+                        app:fontFamily="@font/ft_material_icon" />
+
+                </RelativeLayout>
+            </com.balysv.materialripple.MaterialRippleLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/download_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/light_card_background"
+            app:cardCornerRadius="@dimen/corner_radius"
+            app:cardElevation="2dp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/ripple_effect_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true">
+
+                <RelativeLayout
+                    android:id="@+id/layout_download_podcast"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/row_height_big"
+                    android:background="@color/light_list_bg_color">
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/layout_img"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/dialog_margin">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:layout_marginTop="@dimen/dialog_margin"
+                            android:layout_marginBottom="@dimen/dialog_margin"
+                            android:scaleType="centerCrop"
+                            android:background="@color/light_color_accent"
+                            app:layout_constraintBottom_toBottomOf="parent"
+                            app:layout_constraintDimensionRatio="1:1"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent"
+                            android:padding="@dimen/dialog_margin"
+                            app:tint="@color/white"
+                            app:srcCompat="@drawable/ic_tab_podcast_24dp"
+                            />
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_downloaded_podcast"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/dialog_margin"
+                        android:layout_marginEnd="@dimen/dialog_margin"
+                        android:layout_toStartOf="@+id/img_chevron"
+                        android:layout_toEndOf="@+id/layout_img"
+                        android:text="@string/title_downloaded_podcast"
+                        android:textColor="@color/light_list_color_main_text"
+                        android:textSize="@dimen/text_size_subhead"
+                        app:fontFamily="@font/montserrat_medium" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/img_chevron"
+                        android:layout_width="@dimen/size_img_medium"
+                        android:layout_height="@dimen/size_img_medium"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="@dimen/small_margin"
+                        android:gravity="center"
+                        android:padding="0dp"
+                        android:text="@string/icon_chevron_right"
+                        android:textColor="@color/light_list_color_divider"
+                        android:textSize="@dimen/size_img_small"
+                        app:fontFamily="@font/ft_material_icon" />
+
+                </RelativeLayout>
+            </com.balysv.materialripple.MaterialRippleLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_record"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dialog_margin"
+            android:layout_marginEnd="@dimen/dialog_margin"
+            android:paddingTop="@dimen/small_margin"
+            android:paddingBottom="@dimen/top_section_margin"
+            android:singleLine="true"
+            android:text="@string/title_recorded"
+            android:textColor="@color/light_text_main_color"
+            android:textSize="@dimen/text_size_subhead"
+            app:fontFamily="@font/montserrat_medium" />
+
+    </LinearLayout>
+</layout>

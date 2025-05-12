@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>iam_freq</key>
+        <value>1</value>
+    </entry>
+    <entry>
+        <key>open_ads_freq</key>
+        <value>1</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

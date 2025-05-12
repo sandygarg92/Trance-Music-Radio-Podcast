@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="array_date_times">
+        <item>1 THÁNG</item>
+        <item>3 THÁNG</item>
+        <item>6 THÁNG</item>
+        <item>1 NĂM</item>
+    </string-array>
+    <string-array name="array_members">
+        <item>HÀNG THÁNG</item>
+        <item>3 THÁNG</item>
+        <item>6 THÁNG</item>
+        <item>HÀNG NĂM</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d thông báo mới</item>
+    <item quantity="other">%d thông báo mới</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Chỉ đường về nhà"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Di chuyển lên"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Tùy chọn khác"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"TẮT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BẬT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Truy vấn tìm kiếm"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="bottomsheet_action_collapse">Thu gọn bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand">Mở rộng bảng dưới cùng</string>
+    <string name="bottomsheet_action_expand_halfway">Mở rộng một nửa</string>
+    <string name="bottomsheet_drag_handle_clicked">Đã nhấn đúp nút kéo</string>
+    <string name="bottomsheet_drag_handle_content_description">Nút kéo</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Trả lời"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Từ chối"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Kết thúc"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Cuộc gọi đến"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Cuộc gọi đang thực hiện"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Đang sàng lọc cuộc gọi đến"</string>
+    <string name="cast_ad_label">Quảng cáo</string>
+    <string name="cast_casting_to_device">Đang truyền tới %1$s</string>
+    <string name="cast_closed_captions">Phụ đề chi tiết</string>
+    <string name="cast_closed_captions_unavailable">Không có sẵn phụ đề chi tiết</string>
+    <string name="cast_connecting_to_device">Đang kết nối với %1$s</string>
+    <string name="cast_device_chooser_searching_for_devices">Đang tìm thiết bị</string>
+    <string name="cast_device_chooser_title">Truyền đến</string>
+    <string name="cast_disconnect">Ngắt kết nối</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
+    <string name="cast_expanded_controller_ad_image_description">Hình ảnh sẽ được hiển thị khi bộ thu truyền đang phát quảng cáo</string>
+    <string name="cast_expanded_controller_ad_in_progress">Đang trong tiến trình quảng cáo…</string>
+    <string name="cast_expanded_controller_background_image">Ảnh bìa album</string>
+    <string name="cast_expanded_controller_live_head_description">Vị trí hiện tại ở đầu luồng trực tiếp</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Phát trực tuyến</string>
+    <string name="cast_expanded_controller_loading">Đang tải…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Bỏ qua quảng cáo</string>
+    <string name="cast_expanded_controller_skip_ad_text">Bạn có thể bỏ qua quảng cáo sau %1$d…</string>
+    <string name="cast_forward">Tua đi</string>
+    <string name="cast_forward_10">Tua đi 10 giây</string>
+    <string name="cast_forward_30">Tua đi 30 giây</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_live_label">TRỰC TIẾP</string>
+    <string name="cast_mute">Tắt tiếng</string>
+    <string name="cast_notification_connected_message">Đã kết nối với %1$s</string>
+    <string name="cast_notification_connecting_message">Đang kết nối với %1$s</string>
+    <string name="cast_notification_default_channel_name">Cast</string>
+    <string name="cast_notification_disconnect">Ngắt kết nối</string>
+    <string name="cast_pause">Tạm dừng</string>
+    <string name="cast_play">Phát</string>
+    <string name="cast_rewind">Tua lại</string>
+    <string name="cast_rewind_10">Tua lại 10 giây</string>
+    <string name="cast_rewind_30">Tua lại 30 giây</string>
+    <string name="cast_seek_bar">Kiểm soát tìm kiếm phát lại</string>
+    <string name="cast_skip_next">Chuyển đến mục tiếp theo</string>
+    <string name="cast_skip_prev">Chuyển đến mục trước</string>
+    <string name="cast_stop">Dừng</string>
+    <string name="cast_stop_live_stream">Dừng luồng trực tiếp</string>
+    <string name="cast_tracks_chooser_dialog_audio">Âm thanh</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Hủy</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Phụ đề chi tiết</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Bản nhạc %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">Không có gì</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Phụ đề</string>
+    <string name="cast_unmute">Bật tiếng</string>
+    <string name="cast_zero_devices_found">Không tìm thấy thiết bị nào.\n</string>
+    <string name="cast_zero_devices_learn_more_description"><a href="https://support.google.com/chromecastbuiltin/answer/3006709">Tìm hiểu thêm</a> về cách bạn có thể truyền nội dung tới các thiết bị khác.</string>
+    <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
+    <string name="character_counter_overflowed_content_description">Đã vượt quá giới hạn ký tự %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Xóa văn bản</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Bật</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s sẽ không hoạt động nếu bạn không bật dịch vụ của Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Cài đặt</string>
+    <string name="common_google_play_services_install_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Thiết bị của bạn bị thiếu dịch vụ này.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Phạm vi cung cấp Dịch vụ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s đang gặp sự cố với Dịch vụ Google Play. Hãy thử lại.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s sẽ không chạy nếu không có Dịch vụ Google Play. Thiết bị của bạn không hỗ trợ các dịch vụ này.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Cập nhật</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s sẽ không chạy trừ khi bạn cập nhật Dịch vụ Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s sẽ không chạy nếu không có dịch vụ của Google Play. Dịch vụ này hiện đang cập nhật.</string>
+    <string name="common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Đã sao chép đường liên kết vào bảng nhớ tạm"</string>
+    <string name="error_a11y_label">Lỗi: không hợp lệ</string>
+    <string name="error_icon_content_description">Lỗi</string>
+    <string name="exo_download_completed">Đã hoàn tất tải xuống</string>
+    <string name="exo_download_description">Tải xuống</string>
+    <string name="exo_download_downloading">Đang tải xuống</string>
+    <string name="exo_download_failed">Không tải xuống được</string>
+    <string name="exo_download_notification_channel_name">Tài nguyên đã tải xuống</string>
+    <string name="exo_download_paused">Đã tạm dừng tải xuống</string>
+    <string name="exo_download_paused_for_network">Đang chờ có mạng để tải xuống</string>
+    <string name="exo_download_paused_for_wifi">Đang chờ có Wi-Fi để tải xuống</string>
+    <string name="exo_download_removing">Đang xóa các mục đã tải xuống</string>
+    <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Sao chép đường liên kết"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Mở trong trình duyệt"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Chia sẻ đường liên kết"</string>
+    <string name="format_bitrate">Tốc độ bit: %1$s</string>
+    <string name="format_buffering">Đệm: %1$s</string>
+    <string name="format_buy_pro1">KHÔNG QUẢNG CÁO</string>
+    <string name="format_delete_account">Khi xóa tài khoản của mình, bạn sẽ mất tất cả dữ liệu của mình (bao gồm dữ liệu yêu thích, thông tin hồ sơ…) trên %1$s Ứng dụng. Bạn có chắc chắn muốn xóa tài khoản của mình ngay bây giờ không?</string>
+    <string name="format_episode">%1$d tập phim</string>
+    <string name="format_episodes">%1$d tập phim</string>
+    <string name="format_info_member">Bạn là %1$s</string>
+    <string name="format_minute">%1$d min.</string>
+    <string name="format_minutes">%1$d min.</string>
+    <string name="format_recorded_file">Ghi_%1$s</string>
+    <string name="format_recording_files">Ghi âm: %1$s</string>
+    <string name="format_recording_maximum">Thời gian ghi tối đa là %1$s phút</string>
+    <string name="format_request_permission"><![CDATA[Cảm ơn vì đã lựa chọn <b>Radio App</b>. Vui lòng cung cấp cho chúng tôi sự cho phép dưới đây:<br><br><b>GIẤY PHÉP THẺ SDCARD:</b> Nó sẽ giúp bạn ghi lại tập tin radio khi nghe radio trực tiếp và lưu các kênh radio yêu thích.]]></string>
+    <string name="format_term_and_conditional"><![CDATA[Cảm ơn vì đã lựa chọn <b>Radio App</b>.<br>Bằng cách sử dụng ứng dụng này, bạn phải đồng ý với <a href=\"%2$s\"><b>Điều khoản sử dụng</b></a> và <a href=\"%3$s\"><b>Chính sách bảo mật</b></a>.]]></string>
+    <string name="format_update_success">Đã cập nhật %1$s thành công</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"Khác"</string>
+    <string name="icon_content_description">Biểu tượng hộp thoại</string>
+    <string name="info_acknowledge_purchase_error">Xác nhận lỗi mua hàng</string>
+    <string name="info_added_all_fav_successfully">Đã thêm đài phát thanh vào danh sách yêu thích cục bộ và đám mây thành công</string>
+    <string name="info_already_file_downloaded">Tập này đã được tải xuống</string>
+    <string name="info_banned_account">Tài khoản của bạn đã bị cấm. Vui lòng thử một cái khác</string>
+    <string name="info_billing_invalid">Rất tiếc, việc nâng cấp lên Premium không thể triển khai trên điện thoại của bạn</string>
+    <string name="info_cancel_anytime">3 NGÀY MIỄN PHÍ</string>
+    <string name="info_close_app">Bạn có muốn thoát khỏi ứng dụng không?</string>
+    <string name="info_connect_to_play">Kiểm tra xem bạn có internet không.</string>
+    <string name="info_connection_lost">Bật internet và nhấn play</string>
+    <string name="info_content_share">%1$s dành cho Android!\nTải xuống ứng dụng\n%2$s</string>
+    <string name="info_delete_file">Bạn có chắc chắn xóa tệp này không?</string>
+    <string name="info_delete_success">Đã xóa tập thành công</string>
+    <string name="info_deleted_error">Lỗi tập đã xóa</string>
+    <string name="info_download_error">Lỗi tệp đã tải xuống. Vui lòng thử lại sau</string>
+    <string name="info_email_invalid">Địa chỉ email của bạn không hợp lệ</string>
+    <string name="info_empty">Vui lòng nhập một từ khóa!</string>
+    <string name="info_error_sdcard">Không có dung lượng trong thiết bị, vì vậy chúng tôi không thể chạy ứng dụng. Dọn dẹp bộ nhớ</string>
+    <string name="info_header_login">Đăng nhập bằng Google để lưu các đài yêu thích</string>
+    <string name="info_hint_search_home">Tìm kiếm</string>
+    <string name="info_invalid_account">Bạn đã đăng nhập trên thiết bị khác HOẶC tài khoản của bạn chưa tồn tại. Vui lòng đăng nhập lại</string>
+    <string name="info_invalid_param">Tham số không hợp lệ</string>
+    <string name="info_loading">Vui lòng chờ…</string>
+    <string name="info_loading_more">Đang tải…</string>
+    <string name="info_logout">Bạn có chắc chắn muốn đăng xuất khỏi tài khoản của mình không?</string>
+    <string name="info_lose_internet">Không có mạng. Thử lại!</string>
+    <string name="info_member_more">Quảng cáo đã Xóa trong %1$s</string>
+    <string name="info_name_empty">Tên của bạn không được để trống</string>
+    <string name="info_name_existed">Tên của bạn đã tồn tại</string>
+    <string name="info_permission_denied">Xin lỗi, quyền chưa được cấp. Chúng tôi không thể triển khai hành động này, vui lòng thử lại sau.</string>
+    <string name="info_play_error">Trạm tạm thời ngoại tuyến, hãy thử lại sau</string>
+    <string name="info_podcast_offline">Podcast này đang ngoại tuyến. Vui lòng thử lại sau</string>
+    <string name="info_press_again_to_exit">Nhấn lại để thoát</string>
+    <string name="info_purchase_cancelled">Mua hàng đã bị hủy</string>
+    <string name="info_purchase_timeout_error">Lỗi hết thời gian mua hàng. Vui lòng quay lại sau</string>
+    <string name="info_radio_ended_sub">Bạn có thể chọn một trạm khác</string>
+    <string name="info_radio_ended_title">Đài đã ngừng phát sóng</string>
+    <string name="info_record_error_sdcard">Thẻ sdcard của bạn đang gặp sự cố, chúng tôi không thể ghi tệp</string>
+    <string name="info_record_error_short">Tệp ghi âm của bạn quá ngắn, chúng tôi không thể lưu được</string>
+    <string name="info_record_error_unknown">Lỗi không xác định khi ghi tệp</string>
+    <string name="info_recording_file">Bạn đang ghi âm đài. Vui lòng dừng ghi trước khi thực hiện hành động này</string>
+    <string name="info_remove_all_fav_successfully">Đã xóa đài khỏi danh sách yêu thích cục bộ và trên đám mây thành công</string>
+    <string name="info_remove_file">Bạn có chắc chắn xóa tập này không?</string>
+    <string name="info_rewards_ads_error">Bạn đã đóng video nên không thể nhận phần thưởng này. Vui lòng thử lại sau</string>
+    <string name="info_rewards_ads_success">Đã nhận phần thưởng thành công. Bây giờ bạn có thể tải xuống podcast!</string>
+    <string name="info_save_favorite_cloud">Đăng nhập bằng Google để lưu các đài yêu thích</string>
+    <string name="info_save_file_error">Lỗi không xác định! Chúng tôi không thể lưu tệp của bạn</string>
+    <string name="info_save_file_success">Đã lưu tệp ghi thành công</string>
+    <string name="info_saved_file">Bạn có muốn lưu tệp ghi âm không?</string>
+    <string name="info_saved_song_success">Đã tải xuống tập thành công</string>
+    <string name="info_sdcard_error">Vui lòng kiểm tra bộ nhớ trên điện thoại của bạn</string>
+    <string name="info_see_favorite_cloud">Xem tất cả các đài yêu thích trên đám mây của bạn</string>
+    <string name="info_server_error">Không có kết nối với máy chủ. Vui lòng thử lại sau!</string>
+    <string name="info_share_app">Ứng dụng radio tốt nhất %1$s Tải ngay %2$s</string>
+    <string name="info_sign_in_success">Chúc mừng bạn đã đăng nhập thành công!</string>
+    <string name="info_single_radio_error">Lỗi. Vui lòng thử lại sau.</string>
+    <string name="info_tap_login">Nhấn để đăng nhập với Google</string>
+    <string name="info_tap_see_profile">Nhấn để xem hồ sơ của bạn</string>
+    <string name="info_thanks_purchasing">Cảm ơn đã mua hàng. Hãy tận hưởng ứng dụng ngay bây giờ!</string>
+    <string name="info_upgrade_now">Hãy nâng cấp lên Premium ngay bây giờ</string>
+    <string name="info_upload_fv_done">Đã tải thành công đài yêu thích lên đám mây</string>
+    <string name="info_wrong_user_pass">Email hoặc mật khẩu sai</string>
+    <string name="item_purchase_invalid">Mục này không hợp lệ</string>
+    <string name="item_view_role_description">Thẻ</string>
+    <string name="made_with_in_wroclaw"/>
+    <string name="material_clock_toggle_content_description">Chọn SA hoặc CH</string>
+    <string name="material_hour_24h_suffix">%1$s giờ</string>
+    <string name="material_hour_selection">Chọn giờ</string>
+    <string name="material_hour_suffix">%1$s giờ</string>
+    <string name="material_minute_selection">Chọn phút</string>
+    <string name="material_minute_suffix">%1$s phút</string>
+    <string name="material_timepicker_am">SA</string>
+    <string name="material_timepicker_clock_mode_description">Chuyển sang chế độ đồng hồ để nhập thời gian.</string>
+    <string name="material_timepicker_hour">Giờ</string>
+    <string name="material_timepicker_minute">Phút</string>
+    <string name="material_timepicker_pm">CH</string>
+    <string name="material_timepicker_select_time">Chọn thời gian</string>
+    <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
+    <string name="media_notification_channel_name">Truyền</string>
+    <string msgid="2939063992730535343" name="mr_button_content_description">"Truyền"</string>
+    <string msgid="6073720094880410356" name="mr_cast_button_connected">"Truyền. Đã kết nối"</string>
+    <string msgid="6629927151350192407" name="mr_cast_button_connecting">"Truyền. Đang kết nối"</string>
+    <string msgid="8071109333469380363" name="mr_cast_button_disconnected">"Truyền. Đã ngắt kết nối"</string>
+    <string msgid="2175930138959078155" name="mr_cast_dialog_title_view_placeholder">"Không có thông tin nào"</string>
+    <string msgid="6114250663023140921" name="mr_chooser_searching">"Đang tìm thiết bị"</string>
+    <string msgid="1419936397646839840" name="mr_chooser_title">"Truyền tới"</string>
+    <string msgid="3330502667672708728" name="mr_controller_album_art">"Ảnh bìa album"</string>
+    <string msgid="9171231064758955152" name="mr_controller_casting_screen">"Đang truyền màn hình"</string>
+    <string msgid="5684434439232634509" name="mr_controller_close_description">"Đóng"</string>
+    <string msgid="2585048604188129749" name="mr_controller_collapse_group">"Thu gọn"</string>
+    <string msgid="7812275474138309497" name="mr_controller_disconnect">"Ngắt kết nối"</string>
+    <string msgid="4521419834052044261" name="mr_controller_expand_group">"Mở rộng"</string>
+    <string msgid="855271725131981086" name="mr_controller_no_info_available">"Không có thông tin nào"</string>
+    <string msgid="5495452265246139458" name="mr_controller_no_media_selected">"Chưa chọn phương tiện nào"</string>
+    <string msgid="747801650871398383" name="mr_controller_pause">"Tạm dừng"</string>
+    <string msgid="1253345086594430054" name="mr_controller_play">"Phát"</string>
+    <string msgid="5497722768305745508" name="mr_controller_stop">"Dừng"</string>
+    <string msgid="804210341192624074" name="mr_controller_stop_casting">"Dừng truyền"</string>
+    <string msgid="2955862765169128170" name="mr_controller_volume_slider">"Thanh trượt âm lượng"</string>
+    <string msgid="4115858704575247342" name="mr_dialog_default_group_name">"Nhóm"</string>
+    <string msgid="4307018456678388936" name="mr_dialog_groupable_header">"Thêm thiết bị"</string>
+    <string msgid="6068257520605505468" name="mr_dialog_transferable_header">"Phát trên nhóm"</string>
+    <string msgid="7449553026175453403" name="mr_system_route_name">"Hệ thống"</string>
+    <string msgid="4088331695424166162" name="mr_user_route_category_name">"Thiết bị"</string>
+    <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
+    <string name="mtrl_checkbox_state_description_checked">Đã đánh dấu</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Đã đánh dấu một phần</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Chưa đánh dấu</string>
+    <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Hơn %1$d thông báo mới</string>
+    <string name="mtrl_picker_a11y_next_month">Chuyển sang tháng tiếp theo</string>
+    <string name="mtrl_picker_a11y_prev_month">Chuyển về tháng trước</string>
+    <string name="mtrl_picker_announce_current_range_selection">Ngày bắt đầu được chọn: %1$s – Ngày kết thúc được chọn: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Lựa chọn hiện tại: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">không có</string>
+    <string name="mtrl_picker_cancel">Hủy</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Chọn ngày</string>
+    <string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Ngày kết thúc %1$s</string>
+    <string name="mtrl_picker_invalid_format">Định dạng không hợp lệ.</string>
+    <string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Sử dụng: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Phạm vi không hợp lệ.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Chuyển đến năm hiện tại %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Chuyển tới năm %1$d</string>
+    <string name="mtrl_picker_out_of_range">Nằm ngoài phạm vi: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Ngày bắt đầu – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Ngày kết thúc</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Chọn dải ô</string>
+    <string name="mtrl_picker_range_header_unselected">Ngày bắt đầu – Ngày kết thúc</string>
+    <string name="mtrl_picker_save">Lưu</string>
+    <string name="mtrl_picker_start_date_description">Ngày bắt đầu %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Ngày</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Ngày kết thúc</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Ngày bắt đầu</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Hôm nay %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Chuyển sang chế độ nhập lịch</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Nhấn để chuyển sang chế độ xem theo lịch</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Chuyển sang chế độ nhập văn bản</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Nhấn để chuyển sang chế độ xem theo năm</string>
+    <string name="mtrl_timepicker_cancel">Huỷ</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="native_body">Nội dung</string>
+    <string name="native_headline">Tiêu đề</string>
+    <string name="native_media_view">Nội dung nghe nhìn</string>
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="notifications_permission_confirm">Cho phép</string>
+    <string name="notifications_permission_decline">Không cho phép</string>
+    <string name="notifications_permission_title">Cho phép ứng dụng gửi thông báo cho bạn?</string>
+    <string name="offline_dialog_image_description">Biểu tượng</string>
+    <string name="offline_dialog_text">Cảm ơn bạn đã quan tâm.\nChúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại.</string>
+    <string name="offline_notification_title">Bạn đã kết nối mạng trở lại! Hãy tiếp tục từ thời điểm chúng ta dừng lại lần trước</string>
+    <string name="offline_notification_title_with_advertiser">Bạn đã kết nối mạng trở lại! Tiếp tục tìm hiểu về %s</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_decline">Để sau</string>
+    <string name="offline_opt_in_message">Chúng tôi sẽ gửi thông báo cho bạn kèm theo đường liên kết đến trang web của nhà quảng cáo.</string>
+    <string name="offline_opt_in_title">Mở quảng cáo khi bạn có kết nối mạng trở lại.</string>
+    <string name="password_toggle_content_description">Hiện mật khẩu</string>
+    <string name="previous_version">Phiên bản trước của ứng dụng</string>
+    <string name="rate_dialog_cancel">Nhắc lại sau</string>
+    <string name="rate_dialog_message">Nếu bạn thích ứng dụng này, bạn có thể vui lòng bỏ ra chút ít thời gian để đánh giá nó? Bạn sẽ chỉ mất khoảng 1 phút để thực hiện. Cảm ơn vì đã ủng hộ!</string>
+    <string name="rate_dialog_no">Không, cảm ơn</string>
+    <string name="rate_dialog_ok">Đánh giá ngay</string>
+    <string name="rate_dialog_title">Đánh giá ứng dụng</string>
+    <string name="s1">Lưu hình ảnh</string>
+    <string name="s2">Cho phép Quảng cáo lưu trữ hình ảnh trong thư viện Ảnh?</string>
+    <string name="s3">Chấp nhận</string>
+    <string name="s4">Từ chối</string>
+    <string name="s5">Tạo sự kiện lịch</string>
+    <string name="s6">Cho phép Quảng cáo tạo sự kiện lịch?</string>
+    <string name="s7">Quảng cáo thử nghiệm</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tìm kiếm"</string>
+    <string name="searchview_clear_text_content_description">Xoá văn bản</string>
+    <string name="searchview_navigation_content_description">Quay lại</string>
+    <string name="side_sheet_accessibility_pane_title">Trang bên</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_about_us">Về chúng tôi</string>
+    <string name="title_agree">Vâng tôi đồng ý</string>
+    <string name="title_back">Mặt sau</string>
+    <string name="title_buy_now">BẮT ĐẦU</string>
+    <string name="title_cancel">Hủy bỏ</string>
+    <string name="title_changelog">Thông tin</string>
+    <string name="title_cloud_favorite">Bộ đàm yêu thích trên đám mây</string>
+    <string name="title_confirm">Xác nhận</string>
+    <string name="title_contact_us">Liên hệ chúng tôi</string>
+    <string name="title_country_tab">Quốc gia</string>
+    <string name="title_dark_mode">Chế độ tối</string>
+    <string name="title_delete">Xóa bỏ</string>
+    <string name="title_delete_account">Xóa tài khoản</string>
+    <string name="title_done">Xong</string>
+    <string name="title_download_now">Tải ngay</string>
+    <string name="title_downloaded_podcast">Tải xuống của tôi</string>
+    <string name="title_downloading">Đang tải xuống</string>
+    <string name="title_facebook">Phiên bản không có quảng cáo</string>
+    <string name="title_genre_tab">Thể loại</string>
+    <string name="title_give_it">Cung cấp ngay</string>
+    <string name="title_hint_save_record_file">Nhập tên tệp</string>
+    <string name="title_info">Thông tin</string>
+    <string name="title_instagram">Ghé thăm Instagram của chúng tôi</string>
+    <string name="title_language_tab">Ngôn ngữ</string>
+    <string name="title_light_mode">Chế độ sáng</string>
+    <string name="title_loading">Đang tải</string>
+    <string name="title_local_device_favorite">Đài yêu thích tại địa phương</string>
+    <string name="title_menu_share">Đăng lại</string>
+    <string name="title_more_apps">Các ứng dụng khác</string>
+    <string name="title_no">Không</string>
+    <string name="title_no_data">Không có dữ liệu</string>
+    <string name="title_off">Tắt</string>
+    <string name="title_ok">VÂNG</string>
+    <string name="title_options">Tùy chọn</string>
+    <string name="title_play_now">Bắt đầu chơi</string>
+    <string name="title_popular_countries">Các quốc gia phổ biến</string>
+    <string name="title_popular_genres">Thể loại phổ biến</string>
+    <string name="title_privacy_policy">Chính sách bảo mật</string>
+    <string name="title_pro_version">NÂNG CẤP LÊN HẠNG SANG</string>
+    <string name="title_profile">Thông tin người dùng</string>
+    <string name="title_purchase_error">Lỗi mua hàng</string>
+    <string name="title_purchase_success">Mua hàng thành công!</string>
+    <string name="title_rate_me">Đánh giá tôi</string>
+    <string name="title_recorded">Đã ghi lại</string>
+    <string name="title_recorded_files">Tệp đã ghi</string>
+    <string name="title_remove">Di dời</string>
+    <string name="title_remove_downloads">Xóa tập</string>
+    <string name="title_rename">Đổi tên</string>
+    <string name="title_save">Cứu</string>
+    <string name="title_search">Tìm kiếm</string>
+    <string name="title_see_more">Xem thêm</string>
+    <string name="title_setting_ads">Đặt quảng cáo</string>
+    <string name="title_settings">Cài đặt</string>
+    <string name="title_share">Đăng lại</string>
+    <string name="title_sign_in">Đăng nhập bằng Google</string>
+    <string name="title_sign_out">Đăng xuất</string>
+    <string name="title_skip">NHẢY</string>
+    <string name="title_skip_now">NHẢY</string>
+    <string name="title_sleep_mode">Hẹn giờ ngủ</string>
+    <string name="title_tab_favorite">Yêu thích</string>
+    <string name="title_tab_library">Thư viện</string>
+    <string name="title_tab_live_radio">Đài</string>
+    <string name="title_tab_podcast">Podcasts</string>
+    <string name="title_tab_profile">Hồ sơ</string>
+    <string name="title_tab_recorded">Hồ sơ của tôi</string>
+    <string name="title_tab_search">Thể loại</string>
+    <string name="title_tab_setting">Cài đặt</string>
+    <string name="title_tags_tab">Khác</string>
+    <string name="title_term_of_use">Điều khoản sử dụng</string>
+    <string name="title_trending_podcasts">Podcast thịnh hành</string>
+    <string name="title_trending_radios">Các trạm mới</string>
+    <string name="title_twitter">Ghé thăm Twitter của chúng tôi</string>
+    <string name="title_unknown">không xác định</string>
+    <string name="title_unknown_name">Tên không xác định</string>
+    <string name="title_warning">Xác nhận</string>
+    <string name="title_website">Truy cập trang web của chúng tôi</string>
+    <string name="title_yes">đúng</string>
+    <string name="watermark_label_prefix">AdMob – </string>
+</resources>

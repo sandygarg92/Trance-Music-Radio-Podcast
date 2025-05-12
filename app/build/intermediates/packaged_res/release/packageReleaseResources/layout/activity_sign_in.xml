@@ -1,0 +1,177 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_bg"
+    android:layout_width="match_parent"
+    android:background="@color/light_color_background"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <include
+                android:id="@+id/my_toolbar"
+                layout="@layout/item_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <androidx.core.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:id="@+id/layout_container"
+                android:layout_above="@+id/layout_bottom"
+                android:layout_below="@+id/my_toolbar"
+                android:background="@color/light_pager_color_background"
+                android:scrollbars="vertical"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/img_logo"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/height_icon_permission"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="@dimen/size_img_small"
+                        app:srcCompat="@drawable/login_logo" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_header_login"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/activity_horizontal_margin"
+                        android:layout_marginTop="@dimen/activity_vertical_margin"
+                        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                        app:fontFamily="@font/montserrat_medium"
+                        android:gravity="center_horizontal"
+                        android:text="@string/title_cloud_favorite"
+                        android:textColor="@color/light_color_accent"
+                        android:textSize="@dimen/text_size_headline"
+                        android:textStyle="bold" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_info_header_login"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/dialog_margin"
+                        android:layout_marginEnd="@dimen/dialog_margin"
+                        android:gravity="center_horizontal"
+                        android:text="@string/info_header_login"
+                        android:textColor="@color/light_text_main_color"
+                        android:textSize="@dimen/text_size_subhead" />
+
+                    <com.balysv.materialripple.MaterialRippleLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:mrl_rippleAlpha="0.2"
+                        android:layout_marginTop="@dimen/size_img_medium"
+                        app:mrl_rippleColor="@color/black"
+                        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                        android:layout_marginStart="@dimen/activity_horizontal_margin"
+                        app:mrl_rippleHover="true"
+                        app:mrl_rippleOverlay="true">
+                        <RelativeLayout
+                            android:id="@+id/sign_in_button"
+                            android:layout_width="match_parent"
+                            android:background="@color/grey"
+                            android:layout_height="@dimen/row_height_button">
+                            <ImageView
+                                android:layout_width="@dimen/size_img_medium"
+                                android:layout_centerVertical="true"
+                                android:padding="@dimen/small_margin"
+                                android:layout_marginStart="@dimen/dialog_margin"
+                                android:src="@drawable/ic_google_sign_in"
+                                android:layout_height="@dimen/size_img_medium"/>
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:textColor="@color/google_login_color_text"
+                                android:textSize="@dimen/text_size_subhead"
+                                android:textStyle="bold"
+                                android:text="@string/title_sign_in"
+                                android:layout_centerInParent="true"
+                                android:layout_height="wrap_content">
+
+                            </TextView>
+                        </RelativeLayout>
+                    </com.balysv.materialripple.MaterialRippleLayout>
+
+                </LinearLayout>
+            </androidx.core.widget.NestedScrollView>
+
+            <RelativeLayout
+                android:id="@+id/layout_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/size_img_medium"
+                android:background="@color/light_pager_color_background"
+                android:layout_alignParentBottom="true"
+                android:orientation="horizontal">
+
+                <com.balysv.materialripple.MaterialRippleLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_toStartOf="@+id/divider"
+                    app:mrl_rippleAlpha="0.2"
+                    app:mrl_rippleColor="@color/ripple_effect_color"
+                    app:mrl_rippleHover="true"
+                    app:mrl_rippleOverlay="true">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_policy"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:paddingStart="@dimen/dialog_margin"
+                        android:paddingEnd="@dimen/dialog_margin"
+                        android:singleLine="true"
+                        android:text="@string/title_privacy_policy"
+                        android:textColor="@color/light_text_second_color"
+                        android:textSize="@dimen/text_size_subhead"
+                        android:textStyle="bold" />
+                </com.balysv.materialripple.MaterialRippleLayout>
+
+
+                <View
+                    android:id="@+id/divider"
+                    android:layout_width="@dimen/divider"
+                    android:layout_height="@dimen/size_img_tiny"
+                    android:layout_centerInParent="true"
+                    android:background="@color/light_text_second_color" />
+
+                <com.balysv.materialripple.MaterialRippleLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_toEndOf="@+id/divider"
+                    app:mrl_rippleAlpha="0.2"
+                    app:mrl_rippleColor="@color/ripple_effect_color"
+                    app:mrl_rippleHover="true"
+                    app:mrl_rippleOverlay="true">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_tos"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:paddingStart="@dimen/dialog_margin"
+                        android:paddingEnd="@dimen/dialog_margin"
+                        android:singleLine="true"
+                        android:text="@string/title_term_of_use"
+                        android:textColor="@color/light_text_second_color"
+                        android:textSize="@dimen/text_size_subhead"
+                        android:textStyle="bold" />
+                </com.balysv.materialripple.MaterialRippleLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_bg"
+    android:background="@android:color/white"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/required_permissions"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+            android:textColor="@color/grey_80"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:src="@drawable/img_wizard_2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:text="ACCESS TO SDCARD"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+            android:textColor="@color/grey_80"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_info"
+            android:layout_marginTop="@dimen/spacing_medium"
+            android:text="@string/format_request_permission"
+            android:gravity="center"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
+            android:textColor="@color/grey_60" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_allow"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_rounded_red"
+            android:text="@string/title_agree"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:text="@string/withoutrecording"
+            android:gravity="center"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
+            android:textColor="@color/grey_60" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_skip"
+            android:layout_width="200dp"
+            android:layout_height="@dimen/row_height_tiny"
+            android:layout_marginTop="@dimen/small_margin"
+            android:background="@drawable/btn_rounded_skip"
+            android:text="@string/title_skip_now"
+            android:textAllCaps="true"
+            android:layout_margin="4dp"
+            android:textColor="@color/skip_text_color"
+            android:textSize="@dimen/text_size_body"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/spacing_large"
+            android:layout_marginTop="@dimen/spacing_xlarge"
+            android:orientation="horizontal">
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_img_medium"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/small_margin"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/divider"
+            app:mrl_rippleAlpha="0.2"
+            app:mrl_rippleColor="@color/ripple_effect_color"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+            <TextView
+                android:id="@+id/tv_policy"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingEnd="@dimen/dialog_margin"
+                android:paddingStart="@dimen/dialog_margin"
+                android:singleLine="true"
+                android:text="@string/title_privacy_policy"
+                android:textColor="@color/grey_80"
+                android:textSize="@dimen/text_size_subhead"
+                android:textStyle="bold"/>
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="@dimen/divider"
+            android:layout_height="@dimen/size_img_tiny"
+            android:layout_centerInParent="true"
+            android:background="@color/grey_80">
+
+        </View>
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/divider"
+            app:mrl_rippleAlpha="0.2"
+            app:mrl_rippleColor="@color/ripple_effect_color"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+            <TextView
+                android:id="@+id/tv_tos"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:paddingEnd="@dimen/dialog_margin"
+                android:paddingStart="@dimen/dialog_margin"
+                android:singleLine="true"
+                android:text="@string/title_term_of_use"
+                android:textColor="@color/grey_80"
+                android:textSize="@dimen/text_size_subhead"
+                android:textStyle="bold"/>
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

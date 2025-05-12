@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/size_img_large"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:background="@drawable/bg_nav_header"
+                    android:padding="@dimen/dialog_margin"
+                    app:layout_constraintDimensionRatio="2:0.8"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <LinearLayout
+                        android:id="@+id/layoutInfoMember"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/img_avatar"
+                            android:layout_width="@dimen/size_img_big"
+                            android:layout_height="@dimen/size_img_big"
+                            android:layout_gravity="center_horizontal"
+                            android:background="@android:color/transparent"
+                            app:srcCompat="@mipmap/ic_launcher_round" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:id="@+id/tv_user_name"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/small_margin"
+                            android:gravity="center_horizontal"
+                            android:text="@string/app_name"
+                            app:fontFamily="@font/ft_app_medium"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/text_size_subhead"
+                            android:textStyle="bold" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:id="@+id/tv_info_member"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="@string/info_tap_login"
+                            android:textColor="@color/white"
+                            android:alpha="0.8"
+                            app:fontFamily="@font/ft_regular"
+                            android:textSize="@dimen/text_size_body"
+                            />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:id="@+id/tv_version"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="@string/format_version"
+                            android:layout_marginTop="@dimen/small_margin"
+                            android:textColor="@color/white_color_secondary_text"
+                            android:textSize="@dimen/text_size_small"
+                            />
+                    </LinearLayout>
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/img_member"
+                        android:layout_width="@dimen/size_img_small"
+                        android:layout_height="@dimen/size_img_small"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentBottom="true"
+                        android:background="@android:color/transparent"
+                        android:visibility="gone"
+                        app:srcCompat="@drawable/ic_medal_1month_60dp" />
+                </RelativeLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <LinearLayout
+                android:id="@+id/layoutItemSetting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"/>
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layoutBtnSignOut"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/dialog_margin"
+                android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/dark_ripple_button_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true">
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/btn_sign_out"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/row_height_button"
+                    android:background="@color/logout_color"
+                    android:gravity="center"
+                    android:text="@string/title_sign_out"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_subhead"
+                    android:textStyle="bold" />
+            </com.balysv.materialripple.MaterialRippleLayout>
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layoutBtnDelete"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/activity_horizontal_margin"
+                android:layout_marginTop="@dimen/dialog_margin"
+                android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/dark_ripple_button_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true">
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/btn_delete_account"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/row_height_button"
+                    android:background="@color/delete_color"
+                    android:gravity="center"
+                    android:text="@string/title_delete_account"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_subhead"
+                    android:textStyle="bold" />
+            </com.balysv.materialripple.MaterialRippleLayout>
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</RelativeLayout>

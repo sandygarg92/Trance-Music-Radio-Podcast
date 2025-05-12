@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="title_settings">Настройки</string>
+    <string name="info_loading">Пожалуйста,подождите…</string>
+    <string name="title_yes">Да</string>
+    <string name="title_no">Нет</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Отмена</string>
+    <string name="title_info">Информация</string>
+    <string name="title_options">Опции</string>
+    <string name="title_confirm">Подтвердить</string>
+    <string name="title_warning">Предупреждение</string>
+    <string name="title_share">Поделиться</string>
+    <string name="title_back">Назад</string>
+    <string name="title_unknown">Неизвестный</string>
+    <string name="title_about_us">О нас</string>
+    <string name="title_done">Готово</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_no_data">Нет данных</string>
+    <string name="title_rate_me">Оставить отзыв</string>
+
+    <string name="info_lose_internet">Подключение к Интернету отсутствует. Проверьте еще раз,пожалуйста!</string>
+    <string name="info_empty">Введите ключевое слово!</string>
+    <string name="info_close_app">Вы хотите выйти из приложения?</string>
+    <string name="info_server_error">Мы не можем подключиться к серверу. Пожалуйста,попробуйте еще раз!</string>
+    <string name="info_press_again_to_exit">Нажмите кнопку «Назад» еще раз,чтобы закрыть приложение.</string>
+    <string name="info_loading_more">Загрузка…</string>
+
+    <string name="icon_play">&#xea7d;</string>
+    <string name="icon_add">&#xea81;</string>
+    <string name="icon_check">&#xe867;</string>
+    <string name="icon_chevron_right">&#xe876;</string>
+    <string name="icon_menu">&#xe8cf;</string>
+    <string name="icon_pause">&#xea64;</string>
+    <string name="icon_heart">&#xe9b6;</string>
+    <string name="icon_heart_outline">&#xe9b5;</string>
+    <string name="icon_share">&#xeac0;</string>
+    <string name="icon_comment">&#xe8a1;</string>
+    <string name="icon_play_outline">&#xea7b;</string>
+    <string name="icon_pause_outline">&#xea60;</string>
+    <string name="icon_info">&#xe9d5;</string>
+
+    <string name="info_error_sdcard">Ваша память заполнена, поэтому мы не можем запустить приложение. Пожалуйста, очистите память</string>
+
+    <string name="info_share_app">Начнем с %1$s сейчас %2$s</string>
+    <string name="title_more_apps">Другие приложения</string>
+    <string name="title_contact_us">Связаться с нами</string>
+    <string name="title_menu_share">Поделиться</string>
+
+
+    <string name="title_tab_favorite">Любимые</string>
+    <string name="title_privacy_policy">Политика конфиденциальности</string>
+    <string name="title_term_of_use">Условия пользования</string>
+    <string name="title_facebook">Посетите наш Facebook</string>
+    <string name="title_twitter">Посетите наш Twitter</string>
+    <string name="title_website">Посетите наш Website</string>
+    <string name="title_instagram">Посетите наш Instagram</string>
+
+    <string name="format_buffering">Buffering: %1$s</string>
+    <string name="format_bitrate">Битрейт: %1$s</string>
+
+    <string name="info_content_share">%1$s on Android!\nПроверьте это\n%2$s</string>
+    <string name="info_connect_to_play">Пожалуйста, подключитесь к Интернету, чтобы воспроизвести это радио</string>
+    <string name="info_play_error">Извините, мы не можем воспроизвести эту станцию в это время, мы вернемся как можно скорее</string>
+
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="info_single_radio_error">Ошибка данных. Проверьте еще раз, пожалуйста</string>
+
+    <string name="title_sleep_mode">Режим сна</string>
+    <string name="title_off">Выкл</string>
+    <string name="format_minutes">%1$s минут</string>
+    <string name="format_minute">%1$s минут</string>
+
+    <string name="info_radio_ended_title">Воспроизведение закончилось</string>
+    <string name="info_radio_ended_sub">Вы можете переключиться на новое радио.</string>
+    <string name="info_connection_lost">Подключитесь к интернету и повторите</string>
+
+    <string name="format_request_permission"><![CDATA[<b>Для записи радиостанций и скачивания подкастов приложению необходим доступ к памяти</b>]]></string>
+    <string name="info_permission_denied">В доступе отказано. Вы можете нажать Пропустить, чтобы перейти на главный экран</string>
+    <string name="title_give_it">OK</string>
+    <string name="title_tab_recorded">Мои записи</string>
+    <string name="title_recorded_files">Записанный файл</string>
+
+    <string name="info_recording_file">Вы записываете радио. Пожалуйста, остановите запись перед выполнением этого действия</string>
+    <string name="info_saved_file">Вы хотите сохранить файл записи?</string>
+
+    <string name="info_record_error_short">Ваш файл записи слишком короткий, мы не можем его сохранить</string>
+    <string name="info_record_error_sdcard">Ваша SD-карта имеет проблемы, мы не можем записать файл</string>
+    <string name="info_record_error_unknown">Неизвестная ошибка при записи файла</string>
+
+    <string name="format_recording_files">Запись: %1$s</string>
+    <string name="format_recording_maximum">Максимальное время записи %1$s минут</string>
+    <string name="format_recorded_file">Запись_%1$s</string>
+    <string name="title_save">Сохранить</string>
+    <string name="title_hint_save_record_file">Введите имя файла</string>
+    <string name="info_save_file_success">Запись успешно сохранена</string>
+    <string name="info_save_file_error">Неизвестная ошибка! Мы не можем сохранить ваш файл</string>
+    <string name="info_delete_file">Вы уверены, что хотите удалить этот файл?</string>
+    <string name="format_term_and_conditional"><![CDATA[Спасибо за выбор <b>%1$s</b>.<br>Используя это приложение, вы должны согласиться с нашими <a href=\"%2$s\"><b>Условиями использования</b></a> и <a href=\"%3$s\"><b>Политикой конфиденциальности</b></a>.]]></string>
+    <string name="title_agree">Да, я согласен</string>
+
+    <string name="title_rename">Переименовать</string>
+    <string name="title_delete">Удалить</string>
+
+    <string name="info_name_empty">Ваше имя не может быть пустым</string>
+    <string name="info_name_existed">Это имя уже существует</string>
+    <string name="title_dark_mode">Темная тема</string>
+    <string name="title_light_mode">Дневной режим</string>
+    <string name="format_update_success">%1$s</string>
+
+    <string name="title_trending_radios">Новые станции</string>
+    <string name="title_see_more">Показать еще</string>
+
+    <string name="info_purchase_timeout_error">Ошибка тайм-аута покупки. Пожалуйста, вернитесь позже</string>
+    <string name="info_purchase_cancelled">Покупка отменена</string>
+    <string name="info_acknowledge_purchase_error">Подтвердить ошибку покупки</string>
+
+    <string name="empty_duration" translatable="false">00:00</string>
+    <string name="format_version">Версия: %1$s</string>
+
+
+    <!--    PODCAST STRING-->
+    <string name="title_skip_now">Пропустить</string>
+    <string name="title_trending_podcasts">Популярные подкасты</string>
+    <string name="title_play_now">Воспроизвести</string>
+    <string name="info_podcast_offline">Этот подкаст не в сети. Пожалуйста, попробуйте позже</string>
+
+    <string name="title_pro_version">ПЕРЕЙТИ НА ПРЕМИУМ</string>
+    <string name="title_purchase_success">Покупка прошла успешно!</string>
+    <string name="title_purchase_error">Ошибка покупки</string>
+    <string name="format_info_member">Вы %1$s</string>
+    <string name="info_thanks_purchasing">Спасибо за покупку. Давайте наслаждаться приложением сейчас!</string>
+    <string name="info_member_more">Удалены Объявления в %1$s</string>
+    <string name="info_upgrade_now">Обновить до Премиум сейчас</string>
+    <string name="format_buy_pro1">Пробный период 3 дня</string>
+    <string name="info_cancel_anytime">Подписка на удаление рекламы</string>
+
+    <string name="format_full_member">ВЫ %1$s. Ваши объявления будут удалены на 1 год</string>
+
+    <string name="title_buy_now">НАЧАТЬ</string>
+    <string name="title_skip">Пропустить</string>
+    <string name="info_tap_see_profile">Нажмите, чтобы просмотреть свой профиль</string>
+    <string name="info_tap_login">Нажмите для входа в Google</string>
+    <string name="info_email_invalid">Ваш электронный адрес недействителен</string>
+    <string name="item_purchase_invalid">Этот пункт недействителен</string>
+    <string name="info_billing_invalid">Извините, обновление до Premium не может быть реализовано на вашем телефоне.</string>
+
+    <!--    New String-->
+    <string name="title_tab_live_radio">Станции</string>
+    <string name="title_tab_podcast">Подкасты</string>
+    <string name="title_tab_search">Поиск</string>
+    <string name="title_tab_library">Библиотека</string>
+    <string name="title_tab_setting">Настройки</string>
+    <string name="title_tab_profile">Профиль</string>
+    <string name="title_popular_genres">Популярные жанры</string>
+    <string name="title_popular_countries">Популярные страны</string>
+    <string name="info_hint_search_home">Поиск</string>
+    <string name="title_recorded">Список записанных</string>
+
+
+    <string-array name="array_members">
+        <item>ЕЖЕМЕСЯЧНО</item>
+        <item>3 МЕСЯЦА</item>
+        <item>6 МЕСЯЦЕВ</item>
+        <item>ЕЖЕГОДНО</item>
+    </string-array>
+
+    <!--  DOWNLOAD Option-->
+    <string name="title_remove_downloads">Удалить</string>
+    <string name="title_download_now">Скачать сейчас</string>
+    <string name="title_remove">Удалить</string>
+    <string name="info_remove_file">Вы уверены, что удалить этот эпизод?</string>
+    <string name="title_downloading">Скачивание</string>
+    <string name="title_loading">Загрузка</string>
+    <string name="title_downloaded_podcast">Мои загрузки</string>
+
+    <string name="info_download_error">Ошибка загруженного файла. Пожалуйста, повторите попытку позже</string>
+    <string name="info_sdcard_error">Пожалуйста, проверьте память на вашем телефоне.</string>
+    <string name="info_already_file_downloaded">Этот эпизод уже загружен</string>
+    <string name="info_saved_song_success">Успешно загружен!</string>
+    <string name="info_delete_success">Удален успешно!</string>
+    <string name="info_deleted_error">Ошибка удаления</string>
+    <string name="info_rewards_ads_error">Вы закрыли видео, поэтому не можете получить эту награду. Пожалуйста, повторите попытку позже.</string>
+    <string name="info_rewards_ads_success">Награда успешно получена. Теперь вы можете скачать подкаст!</string>
+
+    <!--  New Podcast String-->
+    <string name="info_hint_search_podcast">Поиск подкаста по ключевому слову</string>
+
+
+    <!--  Add your radio-->
+    <string name="title_my_radio">Мои станции</string>
+    <string name="title_add_radio">Добавить</string>
+    <string name="title_edit_radio">Изменить</string>
+    <string name="title_delete_radio">Удалить</string>
+    <string name="title_add">Добавить</string>
+    <string name="title_update">Обновить</string>
+    <string name="title_radio_name">Название</string>
+    <string name="title_radio_link">Ссылка на поток</string>
+    <string name="info_hint_radio_link">Ссылка на радио. Должен начинаться с http:// or https://</string>
+    <string name="title_mp3_link">Mp3</string>
+    <string name="title_live">Live</string>
+    <string name="format_empty_name">%1$s не должно быть пустым</string>
+    <string name="info_invalid_link">Ссылка на радио недействительна</string>
+    <string name="info_add_radio_success">Радио добавлено успешно!</string>
+    <string name="info_add_radio_error">Не удалось добавить радио!</string>
+    <string name="title_dont_ask_again">Не спрашивайте снова</string>
+
+    <string name="info_update_radio_success">Обновление радио успешно выполнено!</string>
+    <string name="info_update_radio_error">Ошибка при обновлении!</string>
+    <string name="info_confirm_delete_my_radio">Вы уверены, что хотите удалить это радио?</string>
+    <string name="info_download_podcast_no_permission">Вы отключили доступ к хранилищу для этого приложения. Это разрешение поможет приложению загружать подкасты или прослушивать загруженные эпизоды. Вы хотите отменить?</string>
+    <string name="title_move_to_media_store">Перейдите в папку с медиафайлами</string>
+    <string name="info_move_file_error">Ошибка при передаче файлов!</string>
+    <string name="info_move_file_success">Файл перемещен в папку media!</string>
+    <string name="required_permissions">Требуемые разрешения</string>
+    <string name="withoutrecording">Если вы не согласны с разрешениями, нажмите Пропустить. \ Вы сможете использовать приложение без записи.</string>
+
+    <string name="title_country_tab">Страны</string>
+    <string name="title_tags_tab">Теги</string>
+    <string name="title_genre_tab">Жанры</string>
+    <string name="title_language_tab">Языки</string>
+
+</resources>

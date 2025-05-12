@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Google Cast Option-->
+    <string name="google_cast_app_id" translatable="false">3F80E626</string>
+    <string name="info_intro_cast">Touch to cast radios to your TV</string>
+    <string name="title_menu_cast">Play On</string>
+    <string name="title_now_playing">Now Playing</string>
+    <string name="format_ready_to_cast">Ready to cast to %1$s</string>
+    <string name="title_unknown_device">Unknown Device</string>
+
+    <string name="info_error_queue">We can not cast this radio. Please try again later.</string>
+    <string name="info_item_added_to_play_next">Radio was added to play next</string>
+    <string name="info_item_added_to_queue">Radio was added to the queue</string>
+
+    <string name="title_favorite_display">Settings favorite</string>
+    <string name="info_favorite_display">If you enable this option, your favorite screen will be the first on start the app.</string>
+
+    <string name="title_report_radio">Report radio</string>
+    <string name="info_report_success">Successful report</string>
+    <string name="info_report_error">Error, try later again</string>
+    <string name="format_report">Radio %1$s error. Please check</string>
+
+    <string-array name="array_reports">
+        <item>Report to Cloud</item>
+        <item>Report by Email</item>
+    </string-array>
+
+</resources>

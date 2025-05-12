@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:paddingStart="@dimen/dialog_margin"
+        android:paddingEnd="@dimen/dialog_margin"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/layout_control"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:layout_marginTop="@dimen/dialog_margin">
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layout_download"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/light_ripple_button_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true"
+                app:mrl_rippleRoundedCorners="@dimen/dialog_margin">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btn_download"
+                    android:layout_width="@dimen/size_img_medium"
+                    android:layout_height="@dimen/size_img_medium"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_download_36dp"
+                    app:tint="@color/light_play_color_text" />
+            </com.balysv.materialripple.MaterialRippleLayout>
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layout_record"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/light_ripple_button_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true"
+                app:mrl_rippleRoundedCorners="@dimen/dialog_margin">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btn_record"
+                    android:layout_width="@dimen/size_img_medium"
+                    android:layout_height="@dimen/size_img_medium"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_record_white_36dp" />
+            </com.balysv.materialripple.MaterialRippleLayout>
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layout_replay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/small_margin"
+                android:layout_toStartOf="@+id/layout_prev"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/light_ripple_button_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true"
+                app:mrl_rippleRoundedCorners="@dimen/dialog_margin">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btn_replay"
+                    android:layout_width="@dimen/size_img_medium"
+                    android:layout_height="@dimen/size_img_medium"
+                    android:layout_centerVertical="true"
+                    app:srcCompat="@drawable/ic_replay_15_36dp"
+                    app:tint="@color/light_play_color_text" />
+            </com.balysv.materialripple.MaterialRippleLayout>
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layout_prev"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toStartOf="@+id/fb_play"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/light_ripple_button_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true"
+                app:mrl_rippleRoundedCorners="@dimen/dialog_margin">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btn_prev"
+                    android:layout_width="@dimen/size_img_medium"
+                    android:layout_height="@dimen/size_img_medium"
+                    android:layout_centerVertical="true"
+                    android:layout_toStartOf="@+id/fb_play"
+                    app:tint="@color/light_play_color_text"
+                    app:srcCompat="@drawable/ic_skip_previous_white_36dp"
+                    />
+            </com.balysv.materialripple.MaterialRippleLayout>
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fb_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:src="@drawable/ic_play_arrow_white_36dp"
+                app:backgroundTint="@color/light_play_accent_color"
+                />
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layout_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/fb_play"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/light_ripple_button_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true"
+                app:mrl_rippleRoundedCorners="@dimen/dialog_margin">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btn_next"
+                    android:layout_width="@dimen/size_img_medium"
+                    android:layout_height="@dimen/size_img_medium"
+                    android:layout_centerVertical="true"
+                    android:layout_toEndOf="@+id/fb_play"
+                    app:tint="@color/light_play_color_text"
+                    app:srcCompat="@drawable/ic_skip_next_white_36dp"
+                    />
+            </com.balysv.materialripple.MaterialRippleLayout>
+
+            <com.balysv.materialripple.MaterialRippleLayout
+                android:id="@+id/layout_forward"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/layout_next"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/small_margin"
+                app:mrl_rippleAlpha="0.2"
+                app:mrl_rippleColor="@color/light_ripple_button_color"
+                app:mrl_rippleHover="true"
+                app:mrl_rippleOverlay="true"
+                app:mrl_rippleRoundedCorners="@dimen/dialog_margin">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btn_forward"
+                    android:layout_width="@dimen/size_img_medium"
+                    android:layout_height="@dimen/size_img_medium"
+                    app:srcCompat="@drawable/ic_forward_15_36dp"
+                    app:tint="@color/light_play_color_text" />
+            </com.balysv.materialripple.MaterialRippleLayout>
+
+            <com.like.LikeButton
+                android:id="@+id/btn_favorite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                app:anim_scale_factor="2"
+                app:icon_size="@dimen/size_img_small"
+                app:like_drawable="@drawable/ic_heart_pink_36dp"
+                app:liked="false"
+                app:unlike_drawable="@drawable/ic_heart_outline_black_36dp"/>
+        </RelativeLayout>
+
+<!--        <com.wang.avi.AVLoadingIndicatorView-->
+<!--            android:id="@+id/play_progressBar"-->
+<!--            style="@style/AVLoadingIndicatorView"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_centerInParent="true"-->
+<!--            app:indicatorColor="@color/light_play_accent_color"-->
+<!--            app:indicatorName="BallScaleMultipleIndicator" />-->
+
+    </RelativeLayout>
+</layout>

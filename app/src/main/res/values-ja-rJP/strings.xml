@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="title_settings">設定</string>
+    <string name="info_loading">お待ち下さい…</string>
+    <string name="title_yes">はい</string>
+    <string name="title_no">番号</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">キャンセル</string>
+    <string name="title_info">情報</string>
+    <string name="title_options">オプション</string>
+    <string name="title_confirm">確認</string>
+    <string name="title_warning">警告</string>
+    <string name="title_share">これを共有</string>
+    <string name="title_back">戻る</string>
+    <string name="title_unknown">わからない</string>
+    <string name="title_about_us">私たちに関しては</string>
+    <string name="title_done">準備</string>
+    <string name="title_search">検索</string>
+    <string name="title_no_data">データが存在しません</string>
+    <string name="title_rate_me">フィードバックを残す</string>
+
+    <string name="info_lose_internet">インターネットに接続できません。 再度確認してください！</string>
+    <string name="info_empty">キーワードを入力してください！</string>
+    <string name="info_close_app">アプリケーションを終了しますか？</string>
+    <string name="info_server_error">サーバーに接続できません。 もう一度やり直してください！</string>
+    <string name="info_press_again_to_exit">もう一度[戻る]ボタンを押して、アプリケーションを閉じます。</string>
+    <string name="info_loading_more">読み込み中…</string>
+
+   
+
+    <string name="info_error_sdcard">メモリがいっぱいなので、アプリケーションを起動できません。 あなたの記憶をクリアしてください</string>
+
+    <string name="info_share_app">から始めましょう %1$s 今 %2$s</string>
+    <string name="title_more_apps">その他のアプリケーション</string>
+    <string name="title_contact_us">お問い合わせ</string>
+    <string name="title_menu_share">これを共有</string>
+
+
+    <string name="title_tab_favorite">お気に入り</string>
+    <string name="title_privacy_policy">プライバシーポリシー</string>
+    <string name="title_term_of_use">利用規約</string>
+    <string name="title_facebook">Facebookにアクセス</string>
+    <string name="title_twitter">Twitterにアクセス</string>
+    <string name="title_website">当社のウェブサイトを訪問</string>
+    <string name="title_instagram">Instagramにアクセス</string>
+
+    <string name="format_buffering">Buffering: %1$s</string>
+    <string name="format_bitrate">ビットレート: %1$s</string>
+
+    <string name="info_content_share">%1$s Androidで！\n確認してください\n%2$s</string>
+    <string name="info_connect_to_play">このラジオを再生するには、インターネットに接続してください</string>
+    <string name="info_play_error">申し訳ありませんが、現時点ではこのステーションを再生できません。できるだけ早く戻ってきます。</string>
+
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="info_single_radio_error">データエラー。 再度確認してください</string>
+
+    <string name="title_sleep_mode">スリープモード</string>
+    <string name="title_off">オフ</string>
+    <string name="format_minutes">%1$s 分</string>
+    <string name="format_minute">%1$s 分</string>
+
+    <string name="info_radio_ended_title">プレイが終了しました</string>
+    <string name="info_radio_ended_sub">新しいラジオに切り替えることができます。</string>
+    <string name="info_connection_lost">インターネットに接続して繰り返します</string>
+
+    <string name="format_request_permission"><![CDATA[選択していただきありがとうございます <b>%1$s</b>. 以下の許可をお願いします:<br><br><b>SDCARD 許可:</b> これにより、お気に入りのラジオリストを保持でき、アプリケーションを再インストールしたときにデータが失われることはありません。 不要な場合は、[今すぐスキップ]ボタンをクリックしてホーム画面に移動します。]]></string>
+    <string name="info_permission_denied">アクセス拒否。 [スキップ]をクリックしてホーム画面に移動できます</string>
+    <string name="title_give_it">OK</string>
+    <string name="title_tab_recorded">私のノート</string>
+    <string name="title_recorded_files">記録されたファイル</string>
+
+    <string name="info_recording_file">あなたはラジオを録音しています。 これを行う前に、記録を停止してください。</string>
+    <string name="info_saved_file">録音ファイルを保存しますか？</string>
+
+    <string name="info_record_error_short">録音ファイルが短すぎるため、保存できません</string>
+    <string name="info_record_error_sdcard">SDカードに問題があり、ファイルを書き込めません</string>
+    <string name="info_record_error_unknown">ファイルの書き込み中に不明なエラーが発生しました</string>
+
+    <string name="format_recording_files">録音: %1$s</string>
+    <string name="format_recording_maximum">最大録音時間 %1$s 分</string>
+    <string name="format_recorded_file">記録_%1$s</string>
+    <string name="title_save">保存する</string>
+    <string name="title_hint_save_record_file">ファイル名を入力してください</string>
+    <string name="info_save_file_success">レコードが正常に保存されました</string>
+    <string name="info_save_file_error">未知のエラー！ ファイルを保存できません</string>
+    <string name="info_delete_file">このファイルを削除してもよろしいですか？</string>
+    <string name="format_term_and_conditional"><![CDATA[選んでくれてありがとう <b>%1$s</b>.<br>このアプリケーションを使用することにより、あなたは私たちに同意する必要があります <a href=\"%2$s\"><b>利用規約</b></a> と <a href=\"%3$s\"><b>プライバシーポリシー</b></a>.]]></string>
+    <string name="title_agree">はい私は同意する</string>
+
+    <string name="title_rename">名前を変更</string>
+    <string name="title_delete">消去</string>
+
+    <string name="info_name_empty">あなたの名前を空にすることはできません</string>
+    <string name="info_name_existed">この名前はすでに存在します</string>
+    <string name="title_dark_mode">暗いテーマ</string>
+    <string name="title_light_mode">デイモード</string>
+    <string name="format_update_success">%1$s</string>
+
+    <string name="title_trending_radios">人気のラジオ局</string>
+    <string name="title_see_more">もっと見せる</string>
+
+    <string name="info_purchase_timeout_error">購入タイムアウトエラー。 また後で来てください</string>
+    <string name="info_purchase_cancelled">購入がキャンセルされました</string>
+    <string name="info_acknowledge_purchase_error">購入エラーの確認</string>
+
+    <string name="empty_duration" translatable="false">00:00</string>
+    <string name="format_version">バージョン: %1$s</string>
+
+
+    <!--    PODCAST STRING-->
+    <string name="title_skip_now">今すぐスキップ</string>
+    <string name="title_trending_podcasts">人気のポッドキャスト</string>
+    <string name="title_play_now">演奏する</string>
+    <string name="info_podcast_offline">このポッドキャストはオフラインです。 後でもう一度やり直してください</string>
+
+    <string name="title_pro_version">プレミアムに移動</string>
+    <string name="title_purchase_success">購入は成功しました！</string>
+    <string name="title_purchase_error">購入エラー</string>
+    <string name="format_info_member">%1$s</string>
+    <string name="info_thanks_purchasing">ご購入いただきありがとうございます。 今すぐアプリを楽しみましょう！</string>
+    <string name="info_member_more">で削除された広告 %1$s</string>
+    <string name="info_upgrade_now">今すぐプレミアムにアップグレード</string>
+    <string name="format_buy_pro1">広告なし</string>
+
+    <string name="format_full_member">%1$s</string>
+
+    <string name="title_buy_now">始める</string>
+    <string name="title_skip">スキップ</string>
+    <string name="info_tap_see_profile">クリックしてプロフィールを表示</string>
+    <string name="info_tap_login">クリックしてGoogleにログインします</string>
+    <string name="info_email_invalid">あなたのメールアドレスは無効です</string>
+    <string name="item_purchase_invalid">このアイテムは無効です</string>
+    <string name="info_billing_invalid">申し訳ありませんが、プレミアムへのアップグレードはお使いの携帯電話に実装できません。</string>
+
+    <!--    New String-->
+    <string name="title_tab_live_radio">ステーション</string>
+    <string name="title_tab_podcast">ポッドキャスト</string>
+    <string name="title_tab_search">検索</string>
+    <string name="title_tab_library">図書館</string>
+    <string name="title_tab_setting">設定</string>
+    <string name="title_tab_profile">プロフィール</string>
+    <string name="info_cancel_anytime">3日間無料</string>
+    <string name="title_popular_genres">人気のジャンル</string>
+    <string name="title_popular_countries">人気の国</string>
+    <string name="info_hint_search_home">検索</string>
+    <string name="title_recorded">記録リスト</string>
+
+
+    <string-array name="array_members">
+        <item>毎月</item>
+        <item>3ヶ月</item>
+        <item>6ヵ月</item>
+        <item>毎年</item>
+    </string-array>
+
+    <!--  DOWNLOAD Option-->
+    <string name="title_remove_downloads">消去</string>
+    <string name="title_download_now">ダウンロード中</string>
+    <string name="title_remove">消去</string>
+    <string name="info_remove_file">このエピソードを削除してもよろしいですか？</string>
+    <string name="title_downloading">ダウンロード</string>
+    <string name="title_loading">読み込み中</string>
+    <string name="title_downloaded_podcast">私のダウンロード</string>
+
+    <string name="info_download_error">アップロードされたファイルエラー。 後でもう一度やり直してください。</string>
+    <string name="info_sdcard_error">お使いの携帯電話のメモリを確認してください。</string>
+    <string name="info_already_file_downloaded">このエピソードはすでにダウンロードされています</string>
+    <string name="info_saved_song_success">正常にアップロードされました！</string>
+    <string name="info_delete_success">正常に削除されました！</string>
+    <string name="info_deleted_error">削除エラー</string>
+    <string name="info_rewards_ads_error">動画を閉じたため、この賞を受け取ることはできません。 後でもう一度やり直してください。</string>
+    <string name="info_rewards_ads_success">受賞に成功しました。 これでポッドキャストをダウンロードできます！</string>
+
+    <string name="title_country_tab">国</string>
+    <string name="title_tags_tab">タグ</string>
+    <string name="title_genre_tab">ジャンル</string>
+    <string name="title_language_tab">言語</string>
+
+</resources>

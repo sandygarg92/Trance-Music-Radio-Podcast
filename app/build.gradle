@@ -1,0 +1,172 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+android {
+    compileSdkVersion 35
+
+    signingConfigs {
+        debug {
+            storeFile file('musicfree.jks')
+            keyAlias 'musicfree'
+            keyPassword 'musicfree'
+            storePassword 'musicfree'
+        }
+    }
+
+    buildFeatures {
+        viewBinding true
+        dataBinding true
+    }
+
+    namespace "com.onlineradiofm.trancemusicradio"
+
+    defaultConfig {
+        applicationId "com.onlineradiofm.trancemusicradio"
+        minSdkVersion 24
+        targetSdkVersion 35
+        versionCode 178
+        versionName "8.8"
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+
+        //add this line to ignore schemas problem
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments = ["room.schemaLocation": "$projectDir/schemas".toString()]
+            }
+        }
+
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    /* 4) Exclude duplicate licenses */
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    //for emotion string
+    aaptOptions {
+        additionalParameters "--no-version-vectors"
+    }
+}
+
+
+dependencies {
+    //implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation project(':SeekArc_library')
+    implementation project(':nativetemplates')
+    // implementation project(':indicatorseekbar')
+    implementation 'com.github.wicaodian:Seekbar-Indicator:1.0.4'
+    implementation 'com.afollestad.material-dialogs:core:0.9.6.0'
+    implementation 'androidx.multidex:multidex:2.0.1'
+    
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.browser:browser:1.8.0'
+    implementation 'androidx.legacy:legacy-support-v13:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.4.2'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    implementation 'androidx.exifinterface:exifinterface:1.3.3'
+    implementation 'androidx.vectordrawable:vectordrawable:1.1.0'
+    implementation 'androidx.work:work-runtime:2.7.1'
+    
+    //noinspection PlaySdkIndexDeprecated
+    implementation 'com.google.android.play:asset-delivery:2.3.0'
+    implementation 'com.google.android.play:feature-delivery:2.1.0'
+    implementation 'com.google.android.play:review:2.0.2'
+    implementation 'com.google.android.play:app-update:2.1.0'
+    implementation 'com.google.android.material:material:1.7.0-alpha03'
+    implementation 'com.google.android.gms:play-services-ads:21.3.0'
+    implementation 'com.google.android.gms:play-services-gcm:17.0.0'
+    implementation 'com.google.android.gms:play-services-location:21.0.1'
+    implementation 'com.google.android.exoplayer:exoplayer-core:2.19.1'
+    implementation 'com.google.android.exoplayer:exoplayer-dash:2.19.1'
+    implementation 'com.google.android.exoplayer:exoplayer-hls:2.19.1'
+    implementation 'com.google.android.gms:play-services-auth:20.3.0'
+    implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1'
+    // implementation 'com.google.android.play:core:1.10.3'
+
+    //add for chromecast
+    implementation 'androidx.mediarouter:mediarouter:1.3.1'
+    implementation 'com.google.android.gms:play-services-cast-framework:21.2.0'
+
+    // Add the In-App Messaging dependency:
+    implementation platform('com.google.firebase:firebase-bom:30.3.1')
+
+    // Declare the dependencies for the Remote Config and Analytics libraries
+    // When using the BoM, you don't specify versions in Firebase library dependencies
+    implementation 'com.google.firebase:firebase-config'
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-messaging'
+
+    implementation 'com.google.code.gson:gson:2.9.0'
+    implementation 'com.squareup.okio:okio:3.0.0-alpha.9'
+    implementation 'com.github.hotchemi:android-rate:1.0.1'
+    implementation 'jp.wasabeef:glide-transformations:4.3.0'
+    implementation 'com.balysv:material-ripple:1.0.2'
+    implementation 'com.squareup.okhttp3:okhttp:4.9.3'
+
+    implementation 'com.github.jd-alexander:LikeButton:0.2.3'
+    // implementation 'com.wang.avi:library:2.1.3'
+
+    implementation 'com.github.bumptech.glide:glide:4.13.2'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.13.2'
+    // implementation 'com.jackandphantom.android:circularimageview:1.2.0'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.android.billingclient:billing:7.1.1'
+
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-simplexml:2.6.3'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.9.3'
+
+    implementation 'com.h6ah4i.android.widget.verticalseekbar:verticalseekbar:0.7.0'
+
+    //room database gradle
+    // Room (use only androidx, avoid old 'android.arch')
+    def room_version = "2.7.1" // or latest stable
+
+    annotationProcessor "androidx.room:room-compiler:$room_version" // or use kapt for Kotlin
+    //annotationProcessor 'android.arch.persistence.room:compiler:1.1.1'
+    implementation "androidx.room:room-rxjava2:$room_version"
+    implementation "androidx.room:room-runtime:$room_version"
+    //implementation 'android.arch.persistence.room:runtime:1.1.1'
+
+    // Lifecycle (match versions for compatibility)
+    def lifecycle_version = "2.8.7"
+    implementation "androidx.lifecycle:lifecycle-common-java8:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"
+    //implementation 'android.arch.lifecycle:extensions:1.1.1'
+
+    //animation
+
+    implementation "com.airbnb.android:lottie:5.2.0"
+
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
+
+}
+apply plugin: 'com.google.gms.google-services'
+

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:visibility="invisible">
+
+    <RelativeLayout
+        android:id="@+id/layout_small_control"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size_img_big"
+        android:background="@color/light_bottom_player_bg_color">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_song"
+            android:layout_width="@dimen/size_img_big"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_light_play_default" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/small_margin"
+            android:layout_marginEnd="@dimen/small_margin"
+            android:layout_toStartOf="@+id/layout_bt_action"
+            android:layout_toEndOf="@+id/img_song"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_radio_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="@string/app_name"
+                android:textColor="@color/light_play_color_text"
+                android:textSize="@dimen/text_size_body"
+                app:fontFamily="@font/ft_app_medium"
+                 />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:singleLine="true"
+                android:text="@string/info_copyright"
+                android:textColor="@color/light_play_color_secondary_text"
+                android:textSize="@dimen/text_size_body" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_bt_action"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/dialog_margin"
+            android:orientation="horizontal"
+            android:visibility="invisible">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/btn_small_prev"
+                android:layout_width="@dimen/size_img_medium"
+                android:layout_height="@dimen/size_img_medium"
+                app:srcCompat="@drawable/ic_skip_previous_white_36dp"
+                app:tint="@color/light_play_color_text" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/btn_small_play"
+                android:layout_width="@dimen/size_img_medium"
+                android:layout_height="@dimen/size_img_medium"
+                android:layout_marginStart="@dimen/dialog_margin"
+                app:srcCompat="@drawable/ic_play_arrow_white_36dp"
+                app:tint="@color/light_play_color_text" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/btn_small_next"
+                android:layout_width="@dimen/size_img_medium"
+                android:layout_height="@dimen/size_img_medium"
+                android:layout_marginStart="@dimen/dialog_margin"
+                app:srcCompat="@drawable/ic_skip_next_white_36dp"
+                app:tint="@color/light_play_color_text" />
+
+        </LinearLayout>
+
+        <com.onlineradiofm.trancemusicradio.ypylibs.view.CircularProgressBar
+            android:id="@+id/img_status_loading"
+            android:layout_width="@dimen/size_img_small"
+            android:layout_height="@dimen/size_img_small"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/activity_horizontal_margin"
+            app:cpb_color="@color/light_play_accent_color"
+            app:cpb_stroke_width="@dimen/stroke_process" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/drag_drop_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible">
+
+        <ImageView
+            android:id="@+id/img_fake_touch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <fragment
+            android:id="@+id/fragment_drag_drop"
+            android:name="com.onlineradiofm.trancemusicradio.fragment.FragmentDragDrop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </FrameLayout>
+
+
+</RelativeLayout>

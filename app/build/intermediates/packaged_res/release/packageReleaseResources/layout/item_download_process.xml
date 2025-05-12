@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:tag="layout/item_download_process_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <LinearLayout
+            android:id="@+id/layout_download_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/dialog_bg_color"
+            android:orientation="vertical"
+            android:paddingStart="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/padding_top_dialog"
+            android:paddingEnd="@dimen/activity_horizontal_margin"
+            android:paddingBottom="@dimen/padding_top_dialog">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_title_download"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/title_downloading"
+                android:textColor="@color/dialog_color_text"
+                android:textSize="@dimen/text_size_title"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/padding_top_dialog">
+
+                <com.onlineradiofm.trancemusicradio.ypylibs.view.CircularProgressView
+                    android:id="@+id/circle_view"
+                    android:layout_width="@dimen/size_sleep_timer"
+                    android:layout_height="@dimen/size_sleep_timer"
+                    android:layout_centerInParent="true"
+                    app:backgroundColor="@color/dialog_color_hint_text"
+                    app:max="100"
+                    app:progressBarColor="@color/dialog_color_accent"
+                    app:progressBarRounded="true"
+                    app:progressBarThickness="@dimen/dialog_margin"
+                    app:shadow="false" />
+
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/tv_percentage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/title_loading"
+                    android:textColor="@color/dialog_color_text"
+                    android:textSize="@dimen/text_size_subhead"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/btn_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginTop="@dimen/dialog_margin"
+                android:text="@string/title_cancel"
+                android:textAllCaps="true"
+                android:textColor="@color/delete_color"
+                android:textSize="@dimen/text_size_body" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+         

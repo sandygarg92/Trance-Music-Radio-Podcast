@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircularProgressBar">
+        <attr name="cpbStyle" format="reference" />
+        <attr name="cpb_color" format="color" />
+        <attr name="cpb_colors" format="reference" />
+        <attr name="cpb_stroke_width" format="dimension" />
+        <attr name="cpb_min_sweep_angle" format="integer" />
+        <attr name="cpb_max_sweep_angle" format="integer" />
+        <attr name="cpb_sweep_speed" format="float" />
+        <attr name="cpb_rotation_speed" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="CircularProgressView">
+        <attr name="max" format="integer"/>
+        <attr name="shadow" format="boolean"/>
+        <attr name="progressThumb" format="boolean"/>
+        <attr name="startingAngle" format="integer"/>
+        <attr name="progressCircle" format="integer"/>
+        <attr name="progressBarThickness" format="dimension"/>
+        <attr name="progressBarColor" format="color"/>
+        <attr name="progressBarRounded" format="boolean"/>
+        <attr name="backgroundColor" format="color"/>
+        <attr name="backgroundAlphaEnabled" format="boolean"/>
+        <attr name="reverse" format="boolean"/>
+    </declare-styleable>
+
+
+</resources>

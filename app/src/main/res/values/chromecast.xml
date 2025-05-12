@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cast_expanded_controller_control_buttons">
+        <item>@id/cast_button_type_empty</item>
+        <item>@id/cast_button_type_skip_previous</item>
+        <item>@id/cast_button_type_skip_next</item>
+        <item>@id/cast_button_type_mute_toggle</item>
+    </array>
+
+    <!--Customize ICON CAST ON ACTION BAR-->
+    <style name="MediaRouterThemeDark" parent="Theme.MediaRouter">
+        <item name="mediaRouteButtonStyle">@style/MediaRouteButtonStyleDark</item>
+    </style>
+
+    <style name="MediaRouteButtonStyleDark" parent="Widget.MediaRouter.Light.MediaRouteButton">
+        <item name="mediaRouteButtonTint">@color/cast_icon_color</item>
+    </style>
+
+    <!--Customize MINI CONTROL CAST-->
+    <style name="CustomCastMiniController" parent="CastMiniController">
+        <item name="castShowImageThumbnail">true</item>
+        <item name="castBackground">@color/ch_ca_bt_player_bg_color</item>
+        <item name="castButtonColor">@color/white</item>
+        <item name="castProgressBarColor">@color/white</item>
+        <item name="castPlayButtonDrawable">@drawable/ic_play_arrow_white_36dp</item>
+        <item name="castPauseButtonDrawable">@drawable/ic_pause_white_36dp</item>
+        <item name="castTitleTextAppearance">@style/CustomCastMiniControllerTitle</item>
+        <item name="castSubtitleTextAppearance">@style/CustomCastMiniControllerSubTitle</item>
+    </style>
+
+    <style name="CustomCastMiniControllerTitle" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:textColor">@color/ch_ca_bt_player_text_color</item>
+    </style>
+    <style name="CustomCastMiniControllerSubTitle" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textColor">@color/ch_ca_bt_player_second_text_color</item>
+    </style>
+
+    <!--Customize EXPAND CAST BUTTON-->
+    <style name="CustomCastExpandedController" parent="CastExpandedController">
+        <item name="castControlButtons">@array/cast_expanded_controller_control_buttons</item>
+    </style>
+
+    <!--    ================CHROMECAST COLOR====================-->
+    <color name="ch_ca_bt_player_bg_color">#2c314f</color>
+    <color name="ch_ca_bt_player_text_color">@color/white</color>
+    <color name="ch_ca_bt_player_second_text_color">#8Affffff</color>
+
+    <!--background introduction of cast-->
+    <color name="intro_cast_bg_color">#2c314f</color>
+    <color name="cast_icon_color">@color/dark_color_accent</color>
+    <!--    ================END CHROMECAST COLOR====================-->
+
+    <!--    Report color icon-->
+    <color name="report_color">#FFD600</color>
+</resources>

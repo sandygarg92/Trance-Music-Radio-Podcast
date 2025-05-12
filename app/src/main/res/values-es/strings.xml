@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  
+
+    <string name="title_settings">Ajustes</string>
+    <string name="info_loading">Espere por favor…</string>
+    <string name="title_yes">Sí</string>
+    <string name="title_no">No</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Cancelar</string>
+    <string name="title_info">Información</string>
+    <string name="title_options">Opciones</string>
+    <string name="title_confirm">Confirmar</string>
+    <string name="title_warning">Atención</string>
+    <string name="title_share">Cuota</string>
+    <string name="title_back">Atrás</string>
+    <string name="title_unknown">Unknown</string>
+    <string name="title_about_us">Sobre nosotros</string>
+    <string name="title_done">OK</string>
+    <string name="title_search">Búsqueda</string>
+    <string name="title_no_data">Sin datos</string>
+    <string name="title_rate_me">Califícame</string>
+
+    <string name="info_lose_internet">Sin internet. ¡Intentar otra vez!</string>
+    <string name="info_empty">¡Por favor ingrese una palabra clave!</string>
+    <string name="info_close_app">¿Quieres salir de la aplicación?</string>
+    <string name="info_server_error">Sin conexión con el servidor. ¡Por favor, inténtelo de nuevo más tarde!</string>
+    <string name="info_press_again_to_exit">Pulse de nuevo para salir</string>
+    <string name="info_loading_more">Cargando…</string>
+
+   
+
+    <string name="info_error_sdcard">No hay espacio en el dispositivo, por lo que no podemos ejecutar la aplicación. Memoria clara</string>
+    <string name="info_permission_denied">Lo sentimos, no se ha concedido el permiso. No podemos implementar esta acción, inténtalo de nuevo más tarde.</string>
+
+    <string name="info_share_app">La mejor aplicación de radio %1$s Descargar ahora %2$s</string>
+    <string name="title_more_apps">Más aplicaciones</string>
+    <string name="title_contact_us">Contacta con nosotros</string>
+    <string name="title_menu_share">Cuota</string>
+
+    <string name="title_privacy_policy">Política de privacidad</string>
+    <string name="title_term_of_use">Términos de Uso</string>
+    
+
+    <string name="format_buffering">Buffering: %1$s</string>
+    <string name="format_bitrate">Bitrate: %1$s</string>
+
+    <string name="info_content_share">%1$s ¡para Android!\nDescarga la aplicación\n%2$s</string>
+    <string name="info_connect_to_play">Comprueba si tienes internet.</string>
+    <string name="info_play_error">Estación temporalmente fuera de línea, vuelva a intentarlo más tarde.</string>
+
+    
+    <string name="info_single_radio_error">Error. Por favor, inténtelo de nuevo más tarde.</string>
+
+    <string name="title_sleep_mode">Tiempo de dormir</string>
+    <string name="title_off">Off.</string>
+    <string name="format_minutes">%1$d min.</string>
+    <string name="format_minute">%1$d min.</string>
+
+    <string name="info_radio_ended_title">La radio dejó de transmitir.</string>
+    <string name="info_radio_ended_sub">Puede elegir una estación diferente.</string>
+    <string name="info_connection_lost">Enciende Internet y presiona play.</string>
+
+    <string name="format_term_and_conditional"><![CDATA[Gracias por escoger <b>EDM Radio</b>.<br>Al utilizar esta aplicación, debe aceptar nuestros <a href=\"%2$s\"><b>Términos de Uso</b></a> y <a href=\"%3$s\"><b>Política de privacidad</b></a>.]]></string>
+    <string name="title_agree">Si, Acepto</string>
+    <string name="format_request_permission"><![CDATA[Gracias por escoger <b>EDM Radio</b>. Por favor dénos el siguiente permiso:<br><br><b>PERMISO DE TARJETA SD:</b> Le ayudará a grabar el archivo de radio cuando escuche radio en vivo y guardar estaciones de radio favoritas.]]></string>
+    <string name="title_give_it">Dale ahora</string>
+
+    <string name="title_setting_ads">Configuración de publicidad</string>
+
+    <string name="title_tab_recorded">Mis registros</string>
+    <string name="title_recorded_files">Archivo grabado</string>
+
+    <string name="info_recording_file">Estás grabando radio. Deje de grabar antes de realizar esta acción.</string>
+    <string name="info_saved_file">¿Desea guardar el archivo de grabación?</string>
+
+    <string name="info_record_error_short">Su archivo de grabación es demasiado corto, no podemos guardarlo</string>
+    <string name="info_record_error_sdcard">Su tarjeta SD tiene un problema, no podemos grabar el archivo</string>
+    <string name="info_record_error_unknown">Error desconocido al grabar archivo</string>
+
+    <string name="format_recording_files">Grabación: %1$s</string>
+    <string name="format_recording_maximum">El tiempo máximo de grabación es %1$s minutos</string>
+    <string name="format_recorded_file">Registro_%1$s</string>
+    <string name="title_save">Guardar</string>
+    <string name="title_hint_save_record_file">Ingrese el nombre del archivo</string>
+    <string name="info_save_file_success">Archivo de grabación guardado con éxito</string>
+    <string name="info_save_file_error">¡Error desconocido! No podemos guardar su archivo</string>
+    <string name="info_delete_file">¿Estás seguro de eliminar este archivo?</string>
+
+    <string name="title_rename">Rebautizar</string>
+    <string name="title_delete">Borrar</string>
+
+    <string name="info_name_empty">Tu nombre no puede estar vacío</string>
+    <string name="info_name_existed">Tu nombre ha existido</string>
+
+   
+
+    <string-array name="array_prices">
+        <item>0.99$/1 MES</item>
+        <item>2.99$/3 MESES</item>
+        <item>5.99$/6 MESES</item>
+        <item>11.99$/1 YEAR</item>
+    </string-array>
+
+    <string-array name="array_members">
+        <item>Paga cada 1 MES</item>
+        <item>Paga cada 3 MESES</item>
+        <item>Paga cada 6 MESES</item>
+        <item>Paga una vez al AÑO</item>
+    </string-array>
+
+    <string-array name="array_date_times">
+        <item>1 MES</item>
+        <item>3 MESES</item>
+        <item>6 MESES</item>
+        <item>1 AÑO</item>
+    </string-array>
+
+    <string name="title_pro_version">MEJORADO A PREMIUM</string>
+    <string name="title_purchase_success">¡Compra exitosa!</string>
+    <string name="title_purchase_error">Error de compra</string>
+    <string name="info_thanks_purchasing">Gracias por comprar ¡Deja que disfrutes de la aplicación ahora!</string>
+    <string name="info_member_more">Anuncios eliminados en %1$s</string>
+    <string name="info_upgrade_now">Vamos a actualizar a Premium ahora</string>
+    <string name="format_buy_pro1">Darse de baja en cualquier momento. Período de prueba 3 días</string>
+    <string name="info_cancel_anytime">Suscripción para eliminar anuncios</string>
+
+   
+
+    <string name="title_buy_now">COMIENZO</string>
+    <string name="title_skip">SALTEAR</string>
+
+    <string name="info_email_invalid">Tu Correo Electrónico es Inválido</string>
+    <string name="item_purchase_invalid">Este artículo no es válido</string>
+    <string name="info_billing_invalid">Lo sentimos, la actualización a Premium no se puede implementar en su teléfono.</string>
+
+    <!--    DARK MODE-->
+    <string name="title_dark_mode">Modo Oscuro</string>
+    <string name="title_light_mode">Modo Luz</string>
+    <string name="format_update_success">Actualizado %1$s exitosamente</string>
+
+    <string name="title_trending_radios">Estaciones nuevas</string>
+    <string name="title_see_more">Ver más</string>
+
+    <string name="info_purchase_timeout_error">Error de tiempo de espera de compra. Por favor, vuelve más tarde.</string>
+    <string name="info_purchase_cancelled">Compra cancelada</string>
+    <string name="info_acknowledge_purchase_error">Confirmar error de compra</string>
+
+    
+
+    <!--    PODCAST STRING-->
+    <string name="title_skip_now">SALTEAR</string>
+    <string name="title_trending_podcasts">Podcasts de tendencias</string>
+    <string name="title_play_now">Reproducir ahora</string>
+    <string name="info_podcast_offline">Este podcast está fuera de línea. Por favor, inténtelo de nuevo más tarde</string>
+    <string name="format_episode">%1$d episodio</string>
+    <string name="format_episodes">%1$d episodios</string>
+    <string name="previous_version">Versión anterior de la aplicación</string>
+
+    
+
+   
+    <string name="title_cloud_favorite">Radios favoritas de la nube</string>
+    <string name="info_header_login">Inicie sesión con Google para guardar radios favoritas</string>
+    <string name="info_save_favorite_cloud">Inicia sesión con Google para guardar radios favoritas</string>
+    <string name="info_see_favorite_cloud">Vea todas sus radios favoritas en la nube</string>
+    <string name="title_sign_in">Inicia sesión con Google</string>
+    <string name="title_local_device_favorite">Radios locales favoritas</string>
+
+    <string name="info_banned_account">Tu cuenta ha sido baneada. Por favor, intente con otro</string>
+    <string name="info_invalid_account">Ha iniciado sesión en el otro dispositivo O su cuenta no existe. Inicie sesión de nuevo</string>
+    <string name="info_wrong_user_pass">Correo o contraseña equivocada</string>
+    <string name="info_invalid_param">Parámetros no válidos</string>
+    <string name="info_tap_see_profile">Toca para ver tu perfil</string>
+    <string name="info_tap_login">Toca para iniciar sesión con Google</string>
+    <string name="title_sign_out">Desconectar</string>
+    <string name="title_delete_account">Borrar cuenta</string>
+    <string name="title_profile">Perfil del usuario</string>
+    <string name="title_unknown_name">Nombre desconocido</string>
+    <string name="format_delete_account">Cuando elimine su cuenta, perderá todos sus datos (incluidos sus datos favoritos, información de perfil…) en %1$s aplicación. ¿Está seguro de que desea eliminar su cuenta ahora?</string>
+    <string name="info_sign_in_success">¡Felicitaciones, ha iniciado sesión correctamente!</string>
+    <string name="info_logout">¿Estás seguro de que quieres cerrar sesión en tu cuenta?</string>
+    <string name="info_upload_fv_done">Subí la radio favorita a la nube con éxito</string>
+    <string name="info_added_all_fav_successfully">Se agregó la radio a las listas de favoritos locales y en la nube con éxito</string>
+    <string name="info_remove_all_fav_successfully">Se eliminó la radio de las listas de favoritos locales y en la nube con éxito</string>
+    <string name="title_changelog">Información</string>
+
+
+    <!--    New String-->
+    <string name="title_tab_favorite">Favorito</string>
+    <string name="title_tab_live_radio">Radios</string>
+    <string name="title_tab_podcast">Podcasts</string>
+    <string name="title_tab_search">Búsqueda</string>
+    <string name="title_tab_library">Bibliotecas</string>
+    <string name="title_tab_setting">Ajustes</string>
+    <string name="title_tab_profile">Perfil</string>
+    <string name="title_popular_genres">Géneros Populares</string>
+    <string name="title_popular_countries">Países populares</string>
+    <string name="info_hint_search_home">Búsqueda</string>
+    <string name="title_recorded">Grabado</string>
+
+    <!--  DOWNLOAD Option-->
+    <string name="title_remove_downloads">Eliminar episodio</string>
+    <string name="title_download_now">Descargar ahora</string>
+    <string name="title_remove">Remover</string>
+    <string name="info_remove_file">¿Estás seguro de eliminar este episodio?</string>
+    <string name="title_downloading">Downloading</string>
+    <string name="title_loading">Cargando</string>
+    <string name="title_downloaded_podcast">Mis descargas</string>
+
+    <string name="info_download_error">Error de archivo descargado. Por favor, inténtelo de nuevo más tarde</string>
+    <string name="info_sdcard_error">Por favor, compruebe el almacenamiento en su teléfono.</string>
+    <string name="info_already_file_downloaded">Este episodio ya está descargado.</string>
+    <string name="info_saved_song_success">Episodio descargado con éxito</string>
+    <string name="info_delete_success">Episodio eliminado con éxito</string>
+    <string name="info_deleted_error">Error de episodio eliminado</string>
+    <string name="info_rewards_ads_error">Has cerrado el vídeo por lo que no puedes recibir esta recompensa. Por favor, inténtelo de nuevo más tarde.</string>
+    <string name="info_rewards_ads_success">Recompensa recibida con éxito. ¡Ya puedes descargar podcasts!</string>
+
+    <string name="title_country_tab">País</string>
+    <string name="title_tags_tab">Tags</string>
+    <string name="title_genre_tab">Género</string>
+    <string name="title_language_tab">Lenguaje</string>
+
+</resources>

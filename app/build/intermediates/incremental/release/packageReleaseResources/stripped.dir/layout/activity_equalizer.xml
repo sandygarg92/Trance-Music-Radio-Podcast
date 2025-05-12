@@ -1,0 +1,188 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <include
+                android:id="@+id/my_toolbar"
+                layout="@layout/item_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ScrollView
+                android:id="@+id/scroll_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/activity_horizontal_margin"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+                    android:paddingBottom="@dimen/size_img_medium"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_header"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:splitMotionEvents="false">
+
+                        <androidx.appcompat.widget.AppCompatSpinner
+                            android:id="@+id/spinner_preset"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/row_height_small"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="@dimen/small_margin"
+                            android:layout_toStartOf="@+id/equalizer_switch" />
+
+                        <androidx.appcompat.widget.SwitchCompat
+                            android:id="@+id/equalizer_switch"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:id="@+id/layout_bands"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/dialog_margin"
+                        android:gravity="center_horizontal"
+                        android:orientation="horizontal"
+                        android:splitMotionEvents="false"/>
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="@dimen/dialog_margin"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:id="@+id/layoutBassVir"
+                            android:layout_width="0dp"
+                            android:layout_height="0dp"
+                            android:background="@android:color/transparent"
+                            android:orientation="horizontal"
+                            android:weightSum="2"
+                            app:layout_constraintDimensionRatio="1:0.6"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent">
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1">
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_above="@+id/tv_bass">
+
+                                    <com.triggertrap.seekarc.SeekArc
+                                        android:id="@+id/seekBass"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_gravity="center_horizontal"
+                                        app:arcWidth="3dp"
+                                        android:padding="@dimen/size_img_medium"
+                                        app:rotation_arc="180"
+                                        app:seekarc_max="100"
+                                        app:startAngle="30"
+                                        app:sweepAngle="300" />
+
+                                    <TextView
+                                        android:id="@+id/tv_info_bass"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerInParent="true"
+                                        android:singleLine="true"
+                                        android:text="0"
+                                        android:textColor="@color/light_text_main_color"
+                                        android:textSize="@dimen/text_size_title" />
+                                </RelativeLayout>
+
+                                <TextView
+                                    android:id="@+id/tv_bass"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentBottom="true"
+                                    android:layout_centerHorizontal="true"
+                                    android:singleLine="true"
+                                    android:text="@string/title_bass"
+                                    android:textColor="@color/light_text_main_color"
+                                    android:textSize="@dimen/text_size_subhead"
+                                    android:textStyle="bold" />
+                            </RelativeLayout>
+
+                            <RelativeLayout
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1">
+
+                                <RelativeLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_above="@+id/tv_virtualizer">
+
+                                    <com.triggertrap.seekarc.SeekArc
+                                        android:id="@+id/seekVir"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:layout_gravity="center"
+                                        app:arcWidth="3dp"
+                                        app:rotation_arc="180"
+                                        android:padding="@dimen/size_img_medium"
+                                        app:seekarc_max="100"
+                                        app:startAngle="30"
+                                        app:sweepAngle="300" />
+
+                                    <TextView
+                                        android:id="@+id/tv_info_virtualizer"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_centerInParent="true"
+                                        android:singleLine="true"
+                                        android:text="0"
+                                        android:textColor="@color/light_text_main_color"
+                                        android:textSize="@dimen/text_size_title" />
+                                </RelativeLayout>
+
+                                <TextView
+                                    android:id="@+id/tv_virtualizer"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentBottom="true"
+                                    android:layout_centerHorizontal="true"
+                                    android:singleLine="true"
+                                    android:text="@string/title_virtualizer"
+                                    android:textColor="@color/light_text_main_color"
+                                    android:textSize="@dimen/text_size_subhead"
+                                    android:textStyle="bold" />
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+                </LinearLayout>
+
+            </ScrollView>
+        </LinearLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+</RelativeLayout>

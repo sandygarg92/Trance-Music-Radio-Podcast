@@ -1,0 +1,48 @@
+<!--
+  ~ Copyright (c) 2018. YPY Global - All Rights Reserved.
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at.
+  ~
+  ~         http://ypyglobal.com/sourcecode/policy
+  ~
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_tab_live"
+        android:icon="@drawable/ic_tab_live_24dp"
+        android:title="@string/title_tab_live_radio" />
+
+    <item
+        android:id="@+id/action_tab_favorite"
+        android:icon="@drawable/ic_tab_favorite_24dp"
+        android:title="@string/title_tab_favorite" />
+
+    <item
+        android:id="@+id/action_tab_search"
+        android:icon="@drawable/ic_tab_search_24dp"
+        android:title="@string/title_tab_search" />
+
+    <item
+        android:id="@+id/action_tab_podcast"
+        android:icon="@drawable/ic_tab_podcast_24dp"
+        android:title="@string/title_tab_podcast" />
+
+    <item
+        android:id="@+id/action_tab_library"
+        android:icon="@drawable/ic_tab_my_library_24dp"
+        android:title="@string/title_tab_library" />
+
+    <!--    <item-->
+    <!--        android:id="@+id/action_tab_library"-->
+    <!--        android:icon="@drawable/ic_tab_my_library_24dp"-->
+    <!--        android:title="@string/title_tab_library" />-->
+
+
+</menu>

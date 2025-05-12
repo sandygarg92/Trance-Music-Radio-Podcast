@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:tag="layout/item_seekbar_volume_0">
+
+        <com.wicaodian.widget.IndicatorSeekBar
+            android:id="@+id/seekBar_volume"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/img_volume_max"
+            android:layout_toEndOf="@+id/img_volume_off"
+            app:isb_max="100"
+            app:isb_progress="50"
+            app:isb_show_indicator="none"
+            app:isb_thumb_color="@color/light_color_accent"
+            app:isb_track_background_color="@color/light_play_color_secondary_text"
+            app:isb_track_progress_color="@color/light_color_accent" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_volume_off"
+            android:layout_width="@dimen/size_img_small"
+            android:layout_height="@dimen/size_img_small"
+            android:layout_centerVertical="true"
+            app:srcCompat="@drawable/ic_volume_off_36dp"
+            app:tint="@color/light_play_color_text" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_volume_max"
+            android:layout_width="@dimen/size_img_small"
+            android:layout_height="@dimen/size_img_small"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            app:srcCompat="@drawable/ic_volume_max_36dp"
+            app:tint="@color/light_play_color_text" />
+
+    </RelativeLayout>
+
+         

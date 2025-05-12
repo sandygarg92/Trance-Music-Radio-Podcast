@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" android:tag="layout/dialog_storage_permission_0">
+
+        <TextView
+            android:id="@+id/tv_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/dialog_margin"
+            android:paddingEnd="@dimen/dialog_margin"
+            android:text="@string/info_download_podcast_no_permission"
+            android:textColor="@color/dialog_color_text"
+            android:textSize="@dimen/text_size_subhead" />
+
+        <androidx.appcompat.widget.AppCompatCheckBox
+            android:id="@+id/cb_dont_ask"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_size_subhead"
+            android:layout_marginStart="@dimen/widget_margin"
+            android:text="@string/title_dont_ask_again"
+            android:textStyle="italic"
+            android:layout_marginTop="@dimen/dialog_margin"
+            android:textColor="@color/dialog_color_text" />
+
+    </LinearLayout>
+         

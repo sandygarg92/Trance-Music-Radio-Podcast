@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:24:1-36:12
+INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:24:1-36:12
+	package
+		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:25:5-38
+		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:27:5-30
+	xmlns:android
+		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:24:11-69
+	android:versionCode
+		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:26:5-28
+application
+ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:29:5-34:19
+	android:label
+		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml:30:9-35
+uses-sdk
+INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml
+INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/AndroidManifest.xml

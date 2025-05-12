@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="array_date_times">
+        <item>1 mies.</item>
+        <item>3 mies.</item>
+        <item>6 mies.</item>
+        <item>1 rok</item>
+    </string-array>
+    <string-array name="array_members">
+        <item>Podstawowy</item>
+        <item>Pro</item>
+        <item>Gold</item>
+        <item>VIP</item>
+    </string-array>
+    <string-array name="array_prices">
+        <item>1.99 ZŁ</item>
+        <item>5.99 ZŁ</item>
+        <item>9.99 ZŁ</item>
+        <item>21.99 ZŁ</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nowe powiadomienie</item>
+    <item quantity="few">%d nowe powiadomienia</item>
+    <item quantity="many">%d nowych powiadomień</item>
+    <item quantity="other">%d nowego powiadomienia</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Przejdź na stronę główną"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaż wszystko"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"WŁ."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zapytanie"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="bottomsheet_action_collapse">Zwiń planszę dolną</string>
+    <string name="bottomsheet_action_expand">Rozwiń planszę dolną</string>
+    <string name="bottomsheet_action_expand_halfway">Rozwiń do połowy</string>
+    <string name="bottomsheet_drag_handle_clicked">Dwukrotnie kliknięto uchwyt do przeciągania</string>
+    <string name="bottomsheet_drag_handle_content_description">Uchwyt do przeciągania</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Odbierz"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Wideo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Odrzuć"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Rozłącz"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Połączenie przychodzące"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Trwa połączenie"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtruję połączenie przychodzące"</string>
+    <string name="cast_ad_label">Reklama</string>
+    <string name="cast_casting_to_device">Przesyłam na: %1$s</string>
+    <string name="cast_closed_captions">Napisy</string>
+    <string name="cast_closed_captions_unavailable">Napisy są niedostępne</string>
+    <string name="cast_connecting_to_device">Łączę z urządzeniem %1$s</string>
+    <string name="cast_device_chooser_searching_for_devices">Szukam urządzeń</string>
+    <string name="cast_device_chooser_title">Przesyłaj na</string>
+    <string name="cast_disconnect">Odłącz</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
+    <string name="cast_expanded_controller_ad_image_description">Obraz wyświetlany, gdy odbiornik przesyłanych danych odtwarza reklamę</string>
+    <string name="cast_expanded_controller_ad_in_progress">Trwa wyświetlanie reklamy…</string>
+    <string name="cast_expanded_controller_background_image">Okładka albumu</string>
+    <string name="cast_expanded_controller_live_head_description">Bieżąca pozycja znajduje się na czele transmisji na żywo</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Transmisja na żywo</string>
+    <string name="cast_expanded_controller_loading">Ładuję…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Pomiń reklamę</string>
+    <string name="cast_expanded_controller_skip_ad_text">Możesz pominąć reklamę za %1$d…</string>
+    <string name="cast_forward">Przewiń do przodu</string>
+    <string name="cast_forward_10">Przewiń do przodu o 10 sekund</string>
+    <string name="cast_forward_30">Przewiń do przodu o 30 sekund</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_live_label">NA ŻYWO</string>
+    <string name="cast_mute">Wycisz</string>
+    <string name="cast_notification_connected_message">Połączono z %1$s</string>
+    <string name="cast_notification_connecting_message">Łączę z %1$s</string>
+    <string name="cast_notification_default_channel_name">Cast</string>
+    <string name="cast_notification_disconnect">Odłącz</string>
+    <string name="cast_pause">Wstrzymaj</string>
+    <string name="cast_play">Odtwórz</string>
+    <string name="cast_rewind">Przewiń do tyłu</string>
+    <string name="cast_rewind_10">Przewiń do tyłu o 10 sekund</string>
+    <string name="cast_rewind_30">Przewiń do tyłu o 30 sekund</string>
+    <string name="cast_seek_bar">Element sterujący odtwarzania/przewijania</string>
+    <string name="cast_skip_next">Przeskocz do następnego elementu</string>
+    <string name="cast_skip_prev">Przeskocz do poprzedniego elementu</string>
+    <string name="cast_stop">Zatrzymaj</string>
+    <string name="cast_stop_live_stream">Zatrzymaj transmisję na żywo</string>
+    <string name="cast_tracks_chooser_dialog_audio">Dźwięk</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Anuluj</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Napisy</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Punkt filmu %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">Brak</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Napisy</string>
+    <string name="cast_unmute">Wyłącz wyciszenie</string>
+    <string name="cast_zero_devices_found">Nie znaleziono urządzeń.\n</string>
+    <string name="cast_zero_devices_learn_more_description"><a href="https://support.google.com/chromecastbuiltin/answer/3006709">Dowiedz się więcej</a> o sposobach przesyłania treści na inne urządzenia.</string>
+    <string name="character_counter_content_description">%1$d z %2$d znaków</string>
+    <string name="character_counter_overflowed_content_description">Przekroczono limit znaków (%1$d z %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Wyczyść tekst</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Włącz</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Aplikacja %1$s nie będzie działać, jeśli nie włączysz Usług Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Włącz Usługi Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Zainstaluj</string>
+    <string name="common_google_play_services_install_text">%1$s nie będzie działać, jeśli nie zainstalujesz na urządzeniu Usług Google Play.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Pobierz Usługi Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostępność Usług Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Błąd Usług Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nie będzie działać bez Usług Google Play, które nie są obecnie obsługiwane przez urządzenie.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Aktualizuj</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Aplikacja %1$s nie będzie działać, jeśli nie zaktualizujesz Usług Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Zaktualizuj Usługi Google Play</string>
+    <string name="common_google_play_services_updating_text">Aplikacja %1$s nie będzie działać bez Usług Google Play, które są obecnie aktualizowane.</string>
+    <string name="common_google_play_services_wear_update_text">Wymagana jest nowa wersja Usług Google Play. Wkrótce nastąpi automatyczna aktualizacja.</string>
+    <string name="common_open_on_phone">Otwórz na telefonie</string>
+    <string name="common_signin_button_text">Zaloguj się</string>
+    <string name="common_signin_button_text_long">Zaloguj się przez Google</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link skopiowany do schowka"</string>
+    <string name="error_a11y_label">Błąd: nieprawidłowe</string>
+    <string name="error_icon_content_description">Błąd</string>
+    <string name="exo_download_completed">Zakończono pobieranie</string>
+    <string name="exo_download_description">Pobierz</string>
+    <string name="exo_download_downloading">Pobieram</string>
+    <string name="exo_download_failed">Nie udało się pobrać</string>
+    <string name="exo_download_notification_channel_name">Pobieranie</string>
+    <string name="exo_download_paused">Wstrzymano pobieranie</string>
+    <string name="exo_download_paused_for_network">Pobierane pliki oczekują na sieć</string>
+    <string name="exo_download_paused_for_wifi">Pobierane pliki oczekują na Wi-Fi</string>
+    <string name="exo_download_removing">Usuwam pobrane</string>
+    <string name="exposed_dropdown_menu_content_description">Pokaż menu</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopiuj link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Otwórz w przeglądarce"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Udostępnij link"</string>
+    <string name="format_bitrate">Bitrate: %1$s</string>
+    <string name="format_buffering">Buforowanie: %1$s</string>
+    <string name="format_buy_pro1">Brak reklam przez: %1$s</string>
+    <string name="format_delete_account">Po usunięciu konta utracisz wszystkie swoje dane (w tym ulubione stacje, informacje o profilu…) w aplikacji %1$s . Czy na pewno chcesz teraz usunąć swoje konto?</string>
+    <string name="format_empty_name">%1$s nie może być puste</string>
+    <string name="format_episode">%1$d epizod</string>
+    <string name="format_episodes">%1$d epizody</string>
+    <string name="format_info_member">Pakiet %1$s</string>
+    <string name="format_minute">%1$d min.</string>
+    <string name="format_minutes">%1$d min.</string>
+    <string name="format_recorded_file">Plik_%1$s</string>
+    <string name="format_recording_files">Nagrywam: %1$s</string>
+    <string name="format_recording_maximum">Maksymalny czas nagrania to %1$s minut.</string>
+    <string name="format_request_permission"><![CDATA[<b>Nagrywanie streamów i  pobieranie podcastów.</b>]]></string>
+    <string name="format_term_and_conditional"><![CDATA[Dziękujemy za pobranie naszej aplikacji <b>%1$s</b>.<br>Aby korzystać z aplikacji wyraź zgodę na naszą <a href=\"%3$s\"><b>Politykę Prywatności</b></a>.]]></string>
+    <string name="format_update_success">Ustawiono %1$s .</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"Inne"</string>
+    <string name="icon_add"></string>
+    <string name="icon_check"></string>
+    <string name="icon_chevron_left"></string>
+    <string name="icon_chevron_right"></string>
+    <string name="icon_comment"></string>
+    <string name="icon_content_description">Ikona okna</string>
+    <string name="icon_drag"></string>
+    <string name="icon_eye"></string>
+    <string name="icon_heart"></string>
+    <string name="icon_heart_outline"></string>
+    <string name="icon_info"></string>
+    <string name="icon_menu"></string>
+    <string name="icon_pause"></string>
+    <string name="icon_pause_outline"></string>
+    <string name="icon_play"></string>
+    <string name="icon_play_outline"></string>
+    <string name="icon_share"></string>
+    <string name="info_acknowledge_purchase_error">Potwierdź błąd zakupu</string>
+    <string name="info_add_radio_error">Błąd podczas dodawania radia!</string>
+    <string name="info_add_radio_success">Radio zostało dodane pomyślnie!</string>
+    <string name="info_added_all_fav_successfully">Pomyślnie dodano radio do listy ulubionych w chmurze oraz telefonie.</string>
+    <string name="info_already_file_downloaded">Ten odcinek jest już pobrany</string>
+    <string name="info_banned_account">Twoje konto zostało zablokowane. Spróbuj innego</string>
+    <string name="info_billing_invalid">Przepraszamy, ten telefon nie obsługuje pakietu premium.</string>
+    <string name="info_cancel_anytime">Anuluj w dowolnym momencie</string>
+    <string name="info_close_app">Chcesz wyjść z aplikacji?</string>
+    <string name="info_confirm_delete_my_radio">Czy na pewno chcesz usunąć to radio?</string>
+    <string name="info_connect_to_play">Sprawdź czy masz internet.</string>
+    <string name="info_connection_lost">Włącz internet i wciśnij play.</string>
+    <string name="info_content_share">%1$s na Androida!\nPobierz aplikację\n%2$s</string>
+    <string name="info_delete_file">Na pewno chcesz usunąć ten plik?</string>
+    <string name="info_delete_success">Usunięto odcinek</string>
+    <string name="info_deleted_error">Błąd podczas usuwania</string>
+    <string name="info_download_error">Błąd pobranego pliku. Spróbuj ponownie później</string>
+    <string name="info_download_podcast_no_permission">Wyłączyłeś zezwolenie na przechowywanie dla tej aplikacji. To pozwolenie pomoże aplikacji pobierać podcasty lub słuchać pobrane odcinki. Czy chcesz zewolić ?</string>
+    <string name="info_email_invalid">Nieprawidłowy e-mail</string>
+    <string name="info_empty">Proszę podać słowo kluczowe!</string>
+    <string name="info_error_sdcard">Brak miejsca w urządzeniu, dlatego nie możemy uruchomić aplikacji. Wyczyść pamięć</string>
+    <string name="info_header_login">Zaloguj się z Google aby zapisać ulubione stacje</string>
+    <string name="info_hint_radio_link">Link radia. Musi zaczynać się z http:// or https://</string>
+    <string name="info_hint_search_home">Wpisz kluczowe słowo</string>
+    <string name="info_hint_search_podcast">Szukaj podcastu według kluczowego słowa</string>
+    <string name="info_invalid_account">Zalogowałeś się na innym urządzeniu LUB Twoje konto nie istnieje. Zaloguj się ponownie</string>
+    <string name="info_invalid_link">Link do radia jest nieprawidłowy</string>
+    <string name="info_invalid_param">Nieprawidłowe parametry</string>
+    <string name="info_loading">Proszę czekać…</string>
+    <string name="info_loading_more">Pobieram więcej…</string>
+    <string name="info_logout">Czy na pewno chcesz wylogować się ze swojego konta?</string>
+    <string name="info_lose_internet">Brak internetu. Spróbuj ponownie!</string>
+    <string name="info_member_more">Reklamy wyłączone na %1$s</string>
+    <string name="info_move_file_error">Błąd podczas przeniesienia plików!</string>
+    <string name="info_move_file_success">Plik został przniesiony do folderu media!</string>
+    <string name="info_name_empty">Nazwa nie może być pusta</string>
+    <string name="info_name_existed">Ta nazwa już istnieje</string>
+    <string name="info_permission_denied">Przepraszamy, nie przyznano uprawnień. Nie możemy wdrożyć tej akcji, spróbuj ponownie później.</string>
+    <string name="info_play_error">Stacja chwilowo offline, spróbuj później.</string>
+    <string name="info_podcast_offline">Ten podcast jest offline. Spróbuj ponownie później.</string>
+    <string name="info_press_again_to_exit">Wciśnij ponownie aby wyjść</string>
+    <string name="info_purchase_cancelled">Zakup anulowany</string>
+    <string name="info_purchase_timeout_error">Błąd przekroczenia limitu czasu zakupu. Wróć później</string>
+    <string name="info_radio_ended_sub">Możesz wybrać inną stację.</string>
+    <string name="info_radio_ended_title">Radio przestało nadawać.</string>
+    <string name="info_record_error_sdcard">Problem z zapisaniem pliku. Sprawdź kartę pamięci.</string>
+    <string name="info_record_error_short">Nagranie jest za krótkie, (minimum 5 sekund)</string>
+    <string name="info_record_error_unknown">Wystąpił nieznany błąd.</string>
+    <string name="info_recording_file">Trwa nagrywanie. Proszę najpierw zakończyć nagrywanie.</string>
+    <string name="info_remove_all_fav_successfully">Usunięto radio z listy w telefonie oraz w chmurze</string>
+    <string name="info_remove_file">Na pewno chcesz usunąć ten odcinek?</string>
+    <string name="info_rewards_ads_error">Zamknąłeś film, więc nie możesz odebrać tej nagrody. Spróbuj ponownie później.</string>
+    <string name="info_rewards_ads_success">Otrzymano nagrodę pomyślnie. Teraz możesz pobrać podcast!</string>
+    <string name="info_save_favorite_cloud">Zaloguj się z Google aby zapisać ulubione stacje</string>
+    <string name="info_save_file_error">Nieoczekiwany błąd! Nie można zapisać pliku</string>
+    <string name="info_save_file_success">Plik został zapisany</string>
+    <string name="info_saved_file">Chcesz zapisać nagrany plik?</string>
+    <string name="info_saved_song_success">Pomyślnie pobrano odcinek</string>
+    <string name="info_sdcard_error">Sprawdź pamięć w telefonie.</string>
+    <string name="info_see_favorite_cloud">Zobacz wszystkie ulubione stacje</string>
+    <string name="info_server_error">Brak połączenia z serverem. Spróbuj ponownie później!</string>
+    <string name="info_share_app">Najlepsza aplikacja radiowa %1$s Pobierz teraz %2$s</string>
+    <string name="info_sign_in_success">Gratulacje, udało Ci się zalogować!</string>
+    <string name="info_single_radio_error">Błąd. Spróbuj później.</string>
+    <string name="info_tap_login">Kliknij, aby zalogować się w Google</string>
+    <string name="info_tap_see_profile">Kliknij aby zobaczyć swój profil</string>
+    <string name="info_thanks_purchasing">Dziękujemy za zakup. Miłego korzystania!</string>
+    <string name="info_update_radio_error">Błąd podczas aktualizacji!</string>
+    <string name="info_update_radio_success">Aktualizacja radia zakończona sukcesem!</string>
+    <string name="info_upgrade_now">Kup wersję premium teraz</string>
+    <string name="info_upload_fv_done">Pomyślnie przesłano ulubione radio do chmury</string>
+    <string name="info_wrong_user_pass">Nieprawidłowy email lub hasło</string>
+    <string name="item_purchase_invalid">Nieprawidłowy wybór</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="material_clock_toggle_content_description">Wybierz: przed południem czy po południu</string>
+    <string name="material_hour_24h_suffix">%1$s godz.</string>
+    <string name="material_hour_selection">Wybierz godzinę</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Wybierz minuty</string>
+    <string name="material_minute_suffix">%1$s minut</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Aby wprowadzić czas, włącz tryb zegara.</string>
+    <string name="material_timepicker_hour">Godzina</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Określ czas</string>
+    <string name="material_timepicker_text_input_mode_description">Aby wprowadzić czas, włącz tryb wprowadzania tekstu.</string>
+    <string name="media_notification_channel_name">Cast</string>
+    <string msgid="2939063992730535343" name="mr_button_content_description">"Przesyłanie"</string>
+    <string msgid="6073720094880410356" name="mr_cast_button_connected">"Przesyłanie. Połączono."</string>
+    <string msgid="6629927151350192407" name="mr_cast_button_connecting">"Przesyłanie. Łączę."</string>
+    <string msgid="8071109333469380363" name="mr_cast_button_disconnected">"Przesyłanie. Odłączono."</string>
+    <string msgid="2175930138959078155" name="mr_cast_dialog_title_view_placeholder">"Brak informacji"</string>
+    <string msgid="6114250663023140921" name="mr_chooser_searching">"Szukam urządzeń"</string>
+    <string msgid="1419936397646839840" name="mr_chooser_title">"Przesyłaj na"</string>
+    <string msgid="3330502667672708728" name="mr_controller_album_art">"Okładka albumu"</string>
+    <string msgid="9171231064758955152" name="mr_controller_casting_screen">"Przesyłam ekran"</string>
+    <string msgid="5684434439232634509" name="mr_controller_close_description">"Zamknij"</string>
+    <string msgid="2585048604188129749" name="mr_controller_collapse_group">"Zwiń"</string>
+    <string msgid="7812275474138309497" name="mr_controller_disconnect">"Odłącz"</string>
+    <string msgid="4521419834052044261" name="mr_controller_expand_group">"Rozwiń"</string>
+    <string msgid="855271725131981086" name="mr_controller_no_info_available">"Brak informacji"</string>
+    <string msgid="5495452265246139458" name="mr_controller_no_media_selected">"Nie wybrano multimediów"</string>
+    <string msgid="747801650871398383" name="mr_controller_pause">"Wstrzymaj"</string>
+    <string msgid="1253345086594430054" name="mr_controller_play">"Odtwórz"</string>
+    <string msgid="5497722768305745508" name="mr_controller_stop">"Zatrzymaj"</string>
+    <string msgid="804210341192624074" name="mr_controller_stop_casting">"Zatrzymaj przesyłanie"</string>
+    <string msgid="2955862765169128170" name="mr_controller_volume_slider">"Suwak głośności"</string>
+    <string msgid="4115858704575247342" name="mr_dialog_default_group_name">"Grupa"</string>
+    <string msgid="4307018456678388936" name="mr_dialog_groupable_header">"Dodaj urządzenie"</string>
+    <string msgid="6068257520605505468" name="mr_dialog_transferable_header">"Odtwórz w grupie"</string>
+    <string msgid="7449553026175453403" name="mr_system_route_name">"System"</string>
+    <string msgid="4088331695424166162" name="mr_user_route_category_name">"Urządzenia"</string>
+    <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
+    <string name="mtrl_checkbox_state_description_checked">Zaznaczono</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Częściowo zaznaczono</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Nie zaznaczono</string>
+    <string name="mtrl_chip_close_icon_content_description">Usuń: (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Liczba nowych powiadomień przekracza %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
+    <string name="mtrl_picker_a11y_prev_month">Zmień na poprzedni miesiąc</string>
+    <string name="mtrl_picker_announce_current_range_selection">Wybrana data rozpoczęcia: %1$s – wybrana data zakończenia: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Bieżący wybór: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">brak</string>
+    <string name="mtrl_picker_cancel">Anuluj</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Wybierz datę</string>
+    <string name="mtrl_picker_date_header_unselected">Wybrana data</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Data zakończenia %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nieprawidłowy format.</string>
+    <string name="mtrl_picker_invalid_format_example">Przykład: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Użyj formatu: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nieprawidłowy zakres.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Przejdź do bieżącego roku %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Przejdź do roku %1$d</string>
+    <string name="mtrl_picker_out_of_range">Poza zakresem: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data rozpoczęcia – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data zakończenia</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Wybierz zakres</string>
+    <string name="mtrl_picker_range_header_unselected">Data rozpoczęcia – data zakończenia</string>
+    <string name="mtrl_picker_save">Zapisz</string>
+    <string name="mtrl_picker_start_date_description">Data rozpoczęcia %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data zakończenia</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data rozpoczęcia</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">r</string>
+    <string name="mtrl_picker_today_description">Dzisiaj %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Włącz kalendarzowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Kliknij, aby przełączyć się na widok kalendarza</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Włącz tekstowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Kliknij, aby przełączyć się na widok roku</string>
+    <string name="mtrl_timepicker_cancel">Anuluj</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="native_body">Treść</string>
+    <string name="native_headline">Nagłówek</string>
+    <string name="native_media_view">Widok multimediów</string>
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="notifications_permission_confirm">Zezwól</string>
+    <string name="notifications_permission_decline">Nie zezwalaj</string>
+    <string name="notifications_permission_title">Zezwolić aplikacji na wysyłanie powiadomień?</string>
+    <string name="offline_dialog_image_description">Ikona</string>
+    <string name="offline_dialog_text">Dziękujemy za zainteresowanie.\nWięcej informacji otrzymasz, gdy znów będziesz online.</string>
+    <string name="offline_notification_title">Znów jesteś online. Zacznijmy tam, gdzie ostatnio skończyliśmy</string>
+    <string name="offline_notification_title_with_advertiser">Znów jesteś online. Dowiedz się więcej o reklamodawcy %s</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_decline">Nie</string>
+    <string name="offline_opt_in_message">Wyślemy Ci powiadomienie z linkiem do strony reklamodawcy.</string>
+    <string name="offline_opt_in_title">Otwórz reklamę, gdy znów połączysz się z internetem.</string>
+    <string name="password_toggle_content_description">Pokaż hasło</string>
+    <string name="previous_version">Poprzednia wersja apki</string>
+    <string name="rate_dialog_cancel">Przypomnij mi później</string>
+    <string name="rate_dialog_message">Jeśli podoba Ci ta się aplikacja, to czy poświęcisz chwilę, aby ją ocenić? Nie zajmie Ci to dłużej niż minutę. Dziękujemy za Twoje wsparcie! </string>
+    <string name="rate_dialog_no">Nie, dziękuję</string>
+    <string name="rate_dialog_ok">Oceń teraz</string>
+    <string name="rate_dialog_title">Oceń aplikację</string>
+    <string name="s1">Zapisz obraz</string>
+    <string name="s2">Zezwolić reklamie na zapisanie obrazu w galerii zdjęć?</string>
+    <string name="s3">Zaakceptuj</string>
+    <string name="s4">Odrzuć</string>
+    <string name="s5">Utwórz wydarzenie w kalendarzu</string>
+    <string name="s6">Zezwolić reklamie na utworzenie wydarzenia w kalendarzu?</string>
+    <string name="s7">Reklama testowa</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Szukaj"</string>
+    <string name="searchview_clear_text_content_description">Wyczyść tekst</string>
+    <string name="searchview_navigation_content_description">Wstecz</string>
+    <string name="side_sheet_accessibility_pane_title">Arkusz boczny</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="title_about_us">O nas</string>
+    <string name="title_add">Dodaj</string>
+    <string name="title_add_radio">Dodaj radio</string>
+    <string name="title_agree">Zgadzam się</string>
+    <string name="title_back">Wróć</string>
+    <string name="title_buy_now">KUP TERAZ</string>
+    <string name="title_cancel">Anuluj</string>
+    <string name="title_changelog">Informacje</string>
+    <string name="title_cloud_favorite">Ulubione stacje w chmurze</string>
+    <string name="title_confirm">Potwierdź</string>
+    <string name="title_contact_us">Kontakt z nami</string>
+    <string name="title_country_tab">Kraj</string>
+    <string name="title_dark_mode">motyw Dark</string>
+    <string name="title_delete">Usuń</string>
+    <string name="title_delete_account">Usuń konto</string>
+    <string name="title_delete_radio">Usuń radio</string>
+    <string name="title_done">Gotowe</string>
+    <string name="title_dont_ask_again">Nie pytaj ponownie</string>
+    <string name="title_download_now">Pobierz teraz</string>
+    <string name="title_downloaded_podcast">Pobrane podcasty</string>
+    <string name="title_downloading">Pobieranie</string>
+    <string name="title_edit_radio">Edytuj radio</string>
+    <string name="title_empty_duration">00:00</string>
+    <string name="title_facebook">Wersja bez reklam</string>
+    <string name="title_genre_tab">Kategoria</string>
+    <string name="title_give_it">Przyznaj uprawnienia</string>
+    <string name="title_hint_save_record_file">Podaj nazwę pliku</string>
+    <string name="title_info">Informacja</string>
+    <string name="title_instagram">Visit Our Instagram</string>
+    <string name="title_language_tab">Język</string>
+    <string name="title_light_mode">motyw Light</string>
+    <string name="title_live">Live</string>
+    <string name="title_loading">Wczytywanie</string>
+    <string name="title_local_device_favorite">Ulubione zapisane w telefonie</string>
+    <string name="title_menu_share">Poleć znajomym</string>
+    <string name="title_more_apps">Więcej aplikacji</string>
+    <string name="title_move_to_media_store">Przenieś do folderu media</string>
+    <string name="title_mp3_link">Mp3</string>
+    <string name="title_my_radio">Moje radia</string>
+    <string name="title_no">Nie</string>
+    <string name="title_no_data">Brak danych</string>
+    <string name="title_off">Wył.</string>
+    <string name="title_ok">OK</string>
+    <string name="title_options">Opcje</string>
+    <string name="title_play_now">Słuchaj teraz</string>
+    <string name="title_popular_countries">Regiony</string>
+    <string name="title_popular_genres">Gatunki</string>
+    <string name="title_privacy_policy">Polityka prywatności</string>
+    <string name="title_pro_version">Wersja Premium</string>
+    <string name="title_profile">Profil użytkownika</string>
+    <string name="title_purchase_error">Błąd podczas kupna</string>
+    <string name="title_purchase_success">Zakupiono pomyślnie!</string>
+    <string name="title_radio_link">Link do radia</string>
+    <string name="title_radio_name">Nazwa radia</string>
+    <string name="title_rate_me">Oceń apkę</string>
+    <string name="title_recorded">Nagrane</string>
+    <string name="title_recorded_files">MP3</string>
+    <string name="title_remove">Usuń</string>
+    <string name="title_remove_downloads">Usuń odcinek</string>
+    <string name="title_rename">Zmień nazwę</string>
+    <string name="title_save">Zapisz</string>
+    <string name="title_search">Szukaj</string>
+    <string name="title_see_more">Zobacz więcej</string>
+    <string name="title_setting_ads">Ustawienia reklam</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="title_share">Udostępnij</string>
+    <string name="title_sign_in">Zaloguj się z Google</string>
+    <string name="title_sign_out">Wyloguj się</string>
+    <string name="title_skip">POMIŃ</string>
+    <string name="title_skip_now">Pomiń</string>
+    <string name="title_sleep_mode">Sleep Timer</string>
+    <string name="title_tab_favorite">Ulubione</string>
+    <string name="title_tab_library">Pliki</string>
+    <string name="title_tab_live_radio">Radio</string>
+    <string name="title_tab_podcast">Podcasty</string>
+    <string name="title_tab_profile">Profil</string>
+    <string name="title_tab_search">Szukaj</string>
+    <string name="title_tab_setting">Ustawienia</string>
+    <string name="title_tags_tab">Tagi</string>
+    <string name="title_term_of_use">Zasady Użytkowania</string>
+    <string name="title_trending_podcasts">Populrne Podcasty</string>
+    <string name="title_trending_radios">Nowe stacje</string>
+    <string name="title_twitter">Visit Our Twitter</string>
+    <string name="title_unknown">Nieznany</string>
+    <string name="title_unknown_name">Nieznana nazwa</string>
+    <string name="title_update">Aktualizuj</string>
+    <string name="title_warning">Uwaga</string>
+    <string name="title_website">Visit Our Website</string>
+    <string name="title_yes">Tak</string>
+    <string name="watermark_label_prefix">AdMob - </string>
+</resources>

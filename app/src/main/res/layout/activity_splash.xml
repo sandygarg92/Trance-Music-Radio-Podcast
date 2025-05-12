@@ -1,0 +1,93 @@
+<RelativeLayout
+    android:id="@+id/layout_bg"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_color_background"
+    android:fitsSystemWindows="true">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <TextView
+            android:id="@+id/tv_logo_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:fontFamily="@font/audiowide"
+            android:gravity="center_horizontal"
+            android:text="@string/info_splash_top"
+            android:textColor="@color/light_text_main_color"
+            android:textSize="@dimen/text_size_headline" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_logo"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/big_logo"/>
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/animationView"
+                    android:layout_width="match_parent"
+                    android:layout_height="190dp"
+                    android:visibility="invisible"
+                    app:lottie_rawRes="@raw/speaker"
+                    app:lottie_autoPlay="true"
+                    app:lottie_loop="true"/>
+
+<!--                <com.wang.avi.AVLoadingIndicatorView-->
+<!--                    android:id="@+id/progressBar1"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginBottom="@dimen/size_img_medium"-->
+<!--                    android:layout_marginTop="20dp"-->
+<!--                    android:layout_gravity="center_horizontal"-->
+<!--                    android:visibility="invisible"-->
+<!--                    app:indicatorColor="#f7033a"-->
+<!--                    app:indicatorName="BallGridPulseIndicator"-->
+<!--                    />-->
+            </LinearLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_bottom_slogan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_loading"
+                android:text="@string/made_with_in_wroclaw"
+                android:textColor="@color/light_color_accent"
+                android:layout_marginBottom="30dp"
+                android:textAlignment="center"
+                app:fontFamily="@font/montserrat_medium"/>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/tv_loading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:singleLine="true"
+                android:textStyle="bold"
+                app:fontFamily="@font/montserrat_medium"
+                android:text="@string/info_copyright"
+                android:textColor="@color/light_text_second_color"
+                android:textSize="@dimen/text_size_subhead"/>
+        </RelativeLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+</RelativeLayout>

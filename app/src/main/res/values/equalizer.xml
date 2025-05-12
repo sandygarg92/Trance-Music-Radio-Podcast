@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_equalizer">Equalizer</string>
+    <string name="error_no_equalizer_found">Twój telefon nie obsługuje equalizera</string>
+
+    <string name="title_custom">Custom</string>
+    <string name="title_bass">Bass</string>
+    <string name="title_virtualizer">Virtualizer</string>
+    <string name="title_reverb">Reverb</string>
+
+    <dimen name="size_equalizer">250dp</dimen>
+
+    <color name="colorWindowBackground">#000</color>
+    <color name="alpha_colorAccent">#8Ae8198b</color>
+
+    <style name="CustomSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">#C95E5E</item>
+        <item name="colorSwitchThumbNormal">#565656</item>
+        <item name="android:colorForeground">#383838</item>
+    </style>
+</resources>

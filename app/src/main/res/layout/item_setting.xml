@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2018. YPY Global - All Rights Reserved.
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at.
+  ~
+  ~         http://ypyglobal.com/sourcecode/policy
+  ~
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.balysv.materialripple.MaterialRippleLayout
+            android:id="@+id/layout_ripple_setting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mrl_rippleAlpha="0.2"
+            app:mrl_rippleColor="@color/dark_ripple_button_color"
+            app:mrl_rippleHover="true"
+            app:mrl_rippleOverlay="true">
+
+            <RelativeLayout
+                android:id="@+id/layout_root"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/row_height_setting"
+                android:background="@color/light_list_bg_color">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/layout_img"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="@dimen/dialog_margin">
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/img_view"
+                        android:layout_width="0dp"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="@dimen/dialog_margin"
+                        android:layout_marginBottom="@dimen/dialog_margin"
+                        android:background="@color/light_color_accent"
+                        android:padding="@dimen/dialog_margin"
+                        android:scaleType="centerCrop"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintDimensionRatio="1:1"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/ic_settings_24dp"
+                        app:tint="@color/white" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="@dimen/dialog_margin"
+                    android:layout_marginEnd="@dimen/small_margin"
+                    android:layout_toStartOf="@+id/img_chevron"
+                    android:layout_toEndOf="@+id/layout_img"
+                    android:orientation="vertical">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/tv_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/ft_app_medium"
+                        android:singleLine="true"
+                        android:text="@string/app_name"
+                        android:textColor="@color/light_list_color_main_text"
+                        android:textSize="@dimen/text_size_subhead" />
+                </LinearLayout>
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/img_chevron"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginEnd="@dimen/dialog_margin"
+                    android:text="@string/icon_chevron_right"
+                    android:textColor="@color/light_list_color_secondary_text"
+                    android:textSize="@dimen/size_img_small"
+                    app:fontFamily="@font/ft_material_icon" />
+
+                <View
+                    android:id="@+id/list_divider"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/divider"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/light_list_color_divider" />
+            </RelativeLayout>
+        </com.balysv.materialripple.MaterialRippleLayout>
+
+
+    </RelativeLayout>
+</layout>
+
