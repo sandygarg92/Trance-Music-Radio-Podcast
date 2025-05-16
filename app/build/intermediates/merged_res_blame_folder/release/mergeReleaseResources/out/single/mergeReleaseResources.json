@@ -1,958 +1,958 @@
 [
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/menu_menu_my_radio.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/menu/menu_my_radio.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_flat_list_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_flat_list_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_dark_bottom_nav_colors.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/dark_bottom_nav_colors.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_download_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_download_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_pause_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_pause_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_day_mode_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_day_mode_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_search_white_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_search_white_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_add_black_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_add_black_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_genre_featured.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_genre_featured.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_website_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_website_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_montserrat_bold.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/montserrat_bold.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/menu_menu_bottom_navigation.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/menu/menu_bottom_navigation.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_baseline_report_24.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_baseline_report_24.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_material_icon.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/material_icon.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_skip_previous_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_skip_previous_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_light_edit_search.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_light_edit_search.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_shadow_radio.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/shadow_radio.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_volume_max_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_volume_max_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_premium_dark.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_premium_dark.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_premium.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_premium.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tab_my_library_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tab_my_library_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/menu_menu_radios.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/menu/menu_radios.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_arrow_next_white_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_arrow_next_white_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_download_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_download_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/raw_speaker.json.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/raw/speaker.json"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_day_mode_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_day_mode_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_facebook_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_facebook_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_bg_nav_header.jpg.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/bg_nav_header.jpg"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_dark_play_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_dark_play_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_light_playing.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_light_playing.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_btn_rounded_red.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/btn_rounded_red.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_activity_grant_permission.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/activity_grant_permission.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tab_add_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tab_add_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_montserrat_medium.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/montserrat_medium.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_dialog_storage_permission.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/dialog_storage_permission.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_tab_indicator.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/tab_indicator.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_mp3_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_mp3_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_heart_outline_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_heart_outline_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_add_light_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_add_light_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_alpha_divider_large_verti.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/alpha_divider_large_verti.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_dark_edit_search.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_dark_edit_search.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_gradient_tags.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/gradient_tags.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tab_search_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tab_search_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_genre.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_genre.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_buy.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_buy.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_header_genre_title.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_header_genre_title.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_activity_upgrade_premium.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/activity_upgrade_premium.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_genre.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_genre.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_medal_1year_60dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_medal_1year_60dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_live_radio_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_live_radio_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_baseline_get_app_24.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_baseline_get_app_24.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_header_cloud_favorite.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_header_cloud_favorite.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_remove_ads_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_remove_ads_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tos_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tos_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_medium.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_medium.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_add_light_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_add_light_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_seekbar_volume.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_seekbar_volume.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_arrow_back_white_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_baseline_get_app_24.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_baseline_get_app_24.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_my_radio.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_my_radio.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tab_my_library_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tab_my_library_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_live_radio_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_live_radio_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_activity_upgrade_premium.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/activity_upgrade_premium.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_genre_featured.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_genre_featured.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_small_dark_play_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_small_dark_play_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_fragment_recyclerview.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/fragment_recyclerview.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_facebook_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_facebook_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_heart_outline_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_heart_outline_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_google_sign_in.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_google_sign_in.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_btn_light_rounded_play_all.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/btn_light_rounded_play_all.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_sleep_mode_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_sleep_mode_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_skip_next_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_skip_next_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_skip_next_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_skip_next_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_dark_header_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_dark_header_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_light_edit_search.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_light_edit_search.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-mdpi-v11_ic_radio_noti.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-mdpi-v11/ic_radio_noti.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_medal_6months_60dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_medal_6months_60dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_premium_dark.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_premium_dark.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_baseline_fact_check_24.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_baseline_fact_check_24.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_activity_equalizer.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/activity_equalizer.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_header_cloud_favorite.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_header_cloud_favorite.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_flat_list_radio.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_flat_list_radio.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_btn_dark_rounded_play_all.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/btn_dark_rounded_play_all.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_add_black_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_add_black_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_purchased.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_purchased.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_arrow_next_white_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_arrow_next_white_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tos_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tos_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_flat_list_episode.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_flat_list_episode.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_play_background.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_play_background.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_play_background.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_play_background.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_alpha_divider_hori.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/alpha_divider_hori.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_alpha_divider_hori.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/alpha_divider_hori.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/menu_menu_main.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/menu/menu_main.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_fragment_tags_list.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/fragment_tags_list.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_heart_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_heart_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_info_outline_24dp.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_info_outline_24dp.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_music_icon.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_music_icon.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_flat_list_episode.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_flat_list_episode.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-hdpi-v11_ic_radio_noti.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-hdpi-v11/ic_radio_noti.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tab_podcast_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tab_podcast_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_multi_notification_music.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_multi_notification_music.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_dialog_term_of_condition.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/dialog_term_of_condition.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_play_control.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_play_control.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_arrow_down_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_arrow_down_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_activity_equalizer.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/activity_equalizer.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_fragment_tags_list.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/fragment_tags_list.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_activity_sign_in.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/activity_sign_in.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_italic.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_italic.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_bold.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_bold.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_stop_record_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_stop_record_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_multi_notification_music_dark.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_multi_notification_music_dark.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_forward_15_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_forward_15_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_play_info.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_play_info.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_drag_drop.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_drag_drop.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_download_checked_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_download_checked_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_setting.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_setting.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_dialog_term_of_condition.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/dialog_term_of_condition.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi-v11_ic_radio_noti.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi-v11/ic_radio_noti.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_sleep_mode_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_sleep_mode_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_seekbar_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_seekbar_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_google_sign_in.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_google_sign_in.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_overlay_countries.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_overlay_countries.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_replay_15_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_replay_15_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_fragment_new_live.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/fragment_new_live.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_heart_pink_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_heart_pink_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_native_ads.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_native_ads.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_flat_list_episode.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_flat_list_episode.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_activity_sign_in.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/activity_sign_in.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_more_radio_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_more_radio_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_purchased.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_purchased.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_native_medium_template.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_native_medium_template.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_heart_outline_black_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_heart_outline_black_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_light_bottom_nav_colors.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/light_bottom_nav_colors.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_premium_light.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_premium_light.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_add_white_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_add_white_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_equalizer_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_equalizer_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_more_vert_white_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_more_vert_white_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_dark_playing.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_dark_playing.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_play_control.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_play_control.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_light_playing.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_light_playing.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_medium_italic.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_medium_italic.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_form_search_station.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_form_search_station.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_my_radio.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_my_radio.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_fragment_recyclerview.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/fragment_recyclerview.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tab_podcast_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tab_podcast_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_iap.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_iap.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_bg_nav_header.jpg.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/bg_nav_header.jpg"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_toolbar.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_toolbar.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_header_search.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_header_search.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_medal_1year_60dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_medal_1year_60dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_form_search_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_form_search_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_gradient_country.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/gradient_country.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_header_genre_title.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_header_genre_title.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_app_bold.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_app_bold.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/menu_menu_radios.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/menu/menu_radios.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-hdpi-v11_ic_radio_noti.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-hdpi-v11/ic_radio_noti.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_close_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_close_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_website_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_website_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_notification_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_notification_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_dark_play_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_dark_play_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_dark_bottom_nav_colors.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/dark_bottom_nav_colors.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_multi_notification_music.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_multi_notification_music.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_alpha_divider_small_verti.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/alpha_divider_small_verti.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-hdpi_snowflake.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-hdpi/snowflake.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_share_white_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_share_white_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_heart_pink_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_heart_pink_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_light_header_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_light_header_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_add_dark_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_add_dark_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_small_dark_play_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_small_dark_play_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_overlay_tags.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_overlay_tags.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_arrow_down_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_arrow_down_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tab_add_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tab_add_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_country.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_country.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_activity_show_url.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/activity_show_url.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_toolbar.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_toolbar.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_flat_list_radio.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_flat_list_radio.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_footer.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_footer.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_gradient_tags.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/gradient_tags.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_header_search.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_header_search.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_premium.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_premium.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_dark_edit_search.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_dark_edit_search.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_flat_list_episode.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_flat_list_episode.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_equalizer_item_preset_name.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/equalizer_item_preset_name.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tab_profile_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tab_profile_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_equalizer_item_drop_down.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/equalizer_item_drop_down.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_heart_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_heart_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_info_outline_24dp.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_info_outline_24dp.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_activity_grant_permission.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/activity_grant_permission.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/xml_file_paths.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/xml/file_paths.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_baseline_new_releases_24.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_baseline_new_releases_24.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_settings_24dp.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_settings_24dp.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_fragment_profile.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/fragment_profile.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_share_white_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_share_white_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_dark_mode_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_dark_mode_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_tags_adapter.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_tags_adapter.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_seekbar_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_seekbar_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_more_radio_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_more_radio_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_record_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_record_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/xml_file_paths.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/xml/file_paths.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_form_search.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_form_search.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_download_process.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_download_process.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tab_search_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tab_search_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_settings_24dp.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_settings_24dp.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_material_icon.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/material_icon.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_header_genre_title.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_header_genre_title.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_header_cloud_favorite.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_header_cloud_favorite.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_flat_list_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_flat_list_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/raw_speaker.json.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/raw/speaker.json"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_buy_dark.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_buy_dark.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_policy_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_policy_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_montserrat_bold.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/montserrat_bold.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_img_wizard_2.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/img_wizard_2.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_forward_15_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_forward_15_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_countries_adapter.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_countries_adapter.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xhdpi_snowflake.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xhdpi/snowflake.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_download_process.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_download_process.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-ldpi/ic_launcher.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_gradient_language.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/gradient_language.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_setting.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_setting.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_app_regular.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_app_regular.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/menu_menu_record_files.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/menu/menu_record_files.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_heart_dark_mode_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_heart_dark_mode_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_dialog_edit_text.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/dialog_edit_text.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_medal_1month_60dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_medal_1month_60dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_alpha_vertical_divider.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/alpha_vertical_divider.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_background_transparent.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/background_transparent.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_italic.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_italic.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_form_search_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_form_search_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_action_bar_logo.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_action_bar_logo.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_multi_notification_music_dark.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_multi_notification_music_dark.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_header_search.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_header_search.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tab_live_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tab_live_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_fragment_profile.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/fragment_profile.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_play_arrow_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_play_arrow_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_notification_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_notification_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_shadow.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/shadow.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_equalizer_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_equalizer_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_form_search_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_form_search_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_form_search.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_form_search.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/menu_menu_expanded_controller.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/menu/menu_expanded_controller.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_remove_ads_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_remove_ads_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_country.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_country.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_tab_indicator.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/tab_indicator.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_baseline_edit_24.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_baseline_edit_24.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_header_feature.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_header_feature.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tab_favorite_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tab_favorite_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_gradient_country.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/gradient_country.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_shadow_radio.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/shadow_radio.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_regular.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_regular.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/menu_menu_record_files.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/menu/menu_record_files.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tab_live_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tab_live_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_montserrat_medium.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/montserrat_medium.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_header_detail_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_header_detail_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_genre.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_genre.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_native_small_template.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_native_small_template.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_cloud_upload_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_cloud_upload_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_buy_dark.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_buy_dark.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_equalizer_item_drop_down.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/equalizer_item_drop_down.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_splash_logo.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/splash_logo.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_header_search.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_header_search.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_native_small_template.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_native_small_template.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xhdpi-v11_ic_radio_noti.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xhdpi-v11/ic_radio_noti.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-mdpi_snowflake.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-mdpi/snowflake.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_stop_record_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_stop_record_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_skip.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_skip.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_share_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_share_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_medium.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_medium.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_activity_splash.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/activity_splash.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_splash_logo.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/splash_logo.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_heart_outline_black_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_heart_outline_black_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_alpha_divider_small_verti.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/alpha_divider_small_verti.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_header_genre_title.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_header_genre_title.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_fragment_counties.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/fragment_counties.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_header_detail_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_header_detail_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_flat_list_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_flat_list_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_material_icon.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_material_icon.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_baseline_new_releases_24.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_baseline_new_releases_24.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/xml_remote_config_defaults.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/xml/remote_config_defaults.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_close_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_close_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_header_cloud_favorite.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_header_cloud_favorite.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_play_arrow_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_play_arrow_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_app_bold.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_app_bold.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_email_24dp.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_email_24dp.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_form_search_station.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_form_search_station.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tab_tags_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tab_tags_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_alpha_vertical_divider.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/alpha_vertical_divider.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_light_play_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_light_play_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_buy.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_buy.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_login_logo.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/login_logo.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_progress_bar.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_progress_bar.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_dialog_sleep_time.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/dialog_sleep_time.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/menu_menu_expanded_controller.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/menu/menu_expanded_controller.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_header_feature.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_header_feature.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_audiowide.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/audiowide.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_native_medium_template.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_native_medium_template.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_countries_adapter.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_countries_adapter.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_dialog_edit_text.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/dialog_edit_text.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_volume_max_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_volume_max_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_gradient_language.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/gradient_language.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_share_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_share_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_more_vert_white_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_more_vert_white_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_light_play_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_light_play_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_img_wizard_2.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/img_wizard_2.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_app_medium.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_app_medium.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_flat_list_radio.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_flat_list_radio.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_baseline_fav_display_24.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_baseline_fav_display_24.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-hdpi_snowflake.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-hdpi/snowflake.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_header_radio_title.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_header_radio_title.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_fragment_drag_drop.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/fragment_drag_drop.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tab_profile_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tab_profile_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_form_search_station.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_form_search_station.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_fragment_drag_drop.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/fragment_drag_drop.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_alpha_divider_large_verti.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/alpha_divider_large_verti.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_big_logo.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/big_logo.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_app_medium.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_app_medium.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_header_feature.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_header_feature.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_record_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_record_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_flat_list_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_flat_list_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_record_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_record_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_medal_3months_60dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_medal_3months_60dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_fragment_counties.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/fragment_counties.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_tab_tags_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_tab_tags_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_equalizer_vertical_item.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/equalizer_vertical_item.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-ldpi_ic_launcher.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-ldpi/ic_launcher.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_fragment_add_radio.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/fragment_add_radio.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_record_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_record_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_audiowide.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/audiowide.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_fragment_tag_wise_list.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/fragment_tag_wise_list.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_equalizer_vertical_item.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/equalizer_vertical_item.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_policy_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_policy_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_shadow.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/shadow.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_baseline_report_24.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_baseline_report_24.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_play_info.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_play_info.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_podcast_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_podcast_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_arrow_back_white_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_arrow_back_white_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_drag_drop.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_drag_drop.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_gradient_genre.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/gradient_genre.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_tab_favorite_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_tab_favorite_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_seekbar_volume.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_seekbar_volume.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_form_search.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_form_search.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_cloud_upload_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_cloud_upload_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_background_transparent.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/background_transparent.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/xml_remote_config_defaults.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/xml/remote_config_defaults.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_skip.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_skip.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_fragment_add_radio.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/fragment_add_radio.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_volume_off_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_volume_off_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_search_white_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_search_white_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_close_white_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_close_white_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_heart_dark_mode_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_heart_dark_mode_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_radio_featured.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_radio_featured.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_overlay_podcast.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_overlay_podcast.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_login_logo.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/login_logo.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_overlay_tags.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_overlay_tags.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_baseline_fact_check_24.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_baseline_fact_check_24.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-mdpi-v11_ic_radio_noti.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-mdpi-v11/ic_radio_noti.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/menu_menu_main.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/menu/menu_main.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/menu_menu_my_radio.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/menu/menu_my_radio.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_light_header_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_light_header_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_small_light_play_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_small_light_play_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_medal_6months_60dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_medal_6months_60dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_account_default.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_account_default.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_overlay_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_overlay_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_header_library.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_header_library.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_insta_white_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_insta_white_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_snowflake.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/snowflake.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_header_library.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_header_library.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_native_ads.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_native_ads.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_form_search_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_form_search_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_app_regular.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_app_regular.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_ic_email_24dp.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/ic_email_24dp.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_fragment_new_live.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/fragment_new_live.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_btn_dark_rounded_play_all.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/btn_dark_rounded_play_all.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_close_white_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_close_white_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_big_logo.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/big_logo.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_podcast_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_podcast_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_medal_3months_60dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_medal_3months_60dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_crown_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_crown_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_crown_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_crown_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_small_light_play_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_small_light_play_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_baseline_fav_display_24.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_baseline_fav_display_24.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_dark_playing.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_dark_playing.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_activity_show_url.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/activity_show_url.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_activity_main.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/activity_main.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_gradient_genre.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/gradient_genre.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_mp3_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_mp3_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_premium_light.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_premium_light.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_light_bottom_nav_colors.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/light_bottom_nav_colors.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_volume_off_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_volume_off_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_replay_15_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_replay_15_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_iap.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_iap.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_dialog_sleep_time.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/dialog_sleep_time.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_equalizer_item_preset_name.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/equalizer_item_preset_name.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_fragment_tag_wise_list.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/fragment_tag_wise_list.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_ic_baseline_edit_24.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/ic_baseline_edit_24.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_overlay_genre.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_overlay_genre.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_material_icon.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_material_icon.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xhdpi-v11_ic_radio_noti.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xhdpi-v11/ic_radio_noti.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_dark_header_podcast.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_dark_header_podcast.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_insta_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_insta_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_snowflake.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/snowflake.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-mdpi_snowflake.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-mdpi/snowflake.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_bold_italic.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_bold_italic.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_radio_featured.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_radio_featured.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_progress_bar.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_progress_bar.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_btn_light_rounded_play_all.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/btn_light_rounded_play_all.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_btn_rounded_red.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/btn_rounded_red.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_bg_overlay_countries.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/bg_overlay_countries.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_activity_main.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/activity_main.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_action_bar_logo.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_action_bar_logo.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_skip_previous_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_skip_previous_white_36dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_dialog_storage_permission.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/dialog_storage_permission.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_genre.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_genre.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/menu_menu_bottom_navigation.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/menu/menu_bottom_navigation.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_tags_adapter.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_tags_adapter.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xhdpi_snowflake.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xhdpi/snowflake.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_add_dark_24dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_add_dark_24dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_download_checked_36dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_download_checked_36dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_form_search.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_form_search.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_btn_rounded_skip.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/btn_rounded_skip.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_header_library.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_header_library.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_header_library.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_header_library.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_flat_list_radio.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_flat_list_radio.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_header_feature.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_header_feature.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable_btn_rounded_skip.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable/btn_rounded_skip.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_account_default.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_account_default.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_footer.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_footer.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_dark_mode_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_dark_mode_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_add_white_24dp.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_add_white_24dp.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout_item_header_radio_title.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout/item_header_radio_title.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout-land_item_form_search_station.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout-land/item_form_search_station.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_medium_italic.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_medium_italic.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_item_header_radio_title.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/item_header_radio_title.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_bold.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_bold.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/layout-land_item_header_radio_title.xml.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/layout-land/item_header_radio_title.xml"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/font_ft_regular.ttf.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/font/ft_regular.ttf"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi-v11_ic_radio_noti.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi-v11/ic_radio_noti.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable-xxhdpi_ic_music_icon.png.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable-xxhdpi/ic_music_icon.png"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_medal_1month_60dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_medal_1month_60dp.png"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/layout_activity_splash.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/layout/activity_splash.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/font_ft_bold_italic.ttf.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/font/ft_bold_italic.ttf"
     },
     {
-        "merged": "com.onlineradiofm.trancemusicradio.app-release-75:/drawable_bg_overlay_genre.xml.flat",
-        "source": "com.onlineradiofm.trancemusicradio.app-main-76:/drawable/bg_overlay_genre.xml"
+        "merged": "com.onlineradiofm.trancemusicradio.app-release-76:/drawable-xxhdpi_ic_pause_white_36dp.png.flat",
+        "source": "com.onlineradiofm.trancemusicradio.app-main-77:/drawable-xxhdpi/ic_pause_white_36dp.png"
     }
 ]

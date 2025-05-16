@@ -54,6 +54,7 @@ MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/sandeepkuma
 MERGED from [com.google.android.gms:play-services-measurement-sdk:21.1.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/8f0f0e835690247753d96e0bca906807/transformed/jetified-play-services-measurement-sdk-21.1.0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/9f0ac1de5667fa61255f1ca2ae43dfc8/transformed/jetified-play-services-measurement-impl-21.1.0/AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/sandeepkumar/.gradle/caches/8.9/transforms/90a8c2d4c8c312af7091557181467120/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.github.maitrungduc1410:AVLoadingIndicatorView:2.1.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/c223f978f2fdedef224f146f3ff756c1/transformed/jetified-AVLoadingIndicatorView-2.1.4/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/02eb1b587c4b47576c8148b0272bbe7d/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.5.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/c8ddd6962d5d75febf58268481903775/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/cb82483f700741a5b947337fdf000b06/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -293,10 +294,6 @@ uses-permission#android.permission.READ_MEDIA_AUDIO
 ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:18:5-75
 	android:name
 		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:18:22-72
-uses-permission#android.permission.READ_MEDIA_VISUAL_USER_SELECTED
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:21:5-90
-	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:21:22-87
 uses-feature#0x00020000
 ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:23:5-25:36
 	android:glEsVersion
@@ -731,6 +728,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /User
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/9f0ac1de5667fa61255f1ca2ae43dfc8/transformed/jetified-play-services-measurement-impl-21.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/sandeepkumar/.gradle/caches/8.9/transforms/90a8c2d4c8c312af7091557181467120/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/sandeepkumar/.gradle/caches/8.9/transforms/90a8c2d4c8c312af7091557181467120/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [io.github.maitrungduc1410:AVLoadingIndicatorView:2.1.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/c223f978f2fdedef224f146f3ff756c1/transformed/jetified-AVLoadingIndicatorView-2.1.4/AndroidManifest.xml:5:5-44
+MERGED from [io.github.maitrungduc1410:AVLoadingIndicatorView:2.1.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/c223f978f2fdedef224f146f3ff756c1/transformed/jetified-AVLoadingIndicatorView-2.1.4/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.12.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/02eb1b587c4b47576c8148b0272bbe7d/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.12.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/02eb1b587c4b47576c8148b0272bbe7d/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.5.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/c8ddd6962d5d75febf58268481903775/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44

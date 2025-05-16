@@ -3261,7 +3261,7 @@
     <string name="copy_toast_msg">Link copied to clipboard</string>
     <item format="float" name="cpb_default_rotation_speed" type="string">1</item>
     <item format="float" name="cpb_default_sweep_speed" type="string">1</item>
-    <string name="default_web_client_id" translatable="false">138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">187947938420-scp77hicpvvllk0n1q667h8brnqe6pca.apps.googleusercontent.com</string>
     <string name="empty_duration" translatable="false">00:00</string>
     <string description="Screen reader announcement for when a checkbox is on error. [CHAR LIMIT=NONE]" name="error_a11y_label">
     Error: invalid
@@ -3284,7 +3284,6 @@
     <string name="fallback_menu_item_open_in_browser">Open in browser</string>
     <string name="fallback_menu_item_share_link">Share link</string>
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
-    <string name="firebase_database_url" translatable="false">https://podcastapp-ccfca.firebaseio.com</string>
     <string name="format_bitrate">Bitrate: %1$s</string>
     <string name="format_buffering">Buffering: %1$s</string>
     <string name="format_buy_pro1">Unsubscribe anytime. Trial period 3 days %1$s</string>
@@ -3305,13 +3304,13 @@
     <string name="format_term_and_conditional"><![CDATA[Thank for choosing <b>Trance Radio</b>.<br>By using this app, you must agree to our <a href=\"%2$s\"><b>Terms Of Use</b></a> and our <a href=\"%3$s\"><b>Privacy Policy</b></a>.]]></string>
     <string name="format_update_success">Updated %1$s successfully</string>
     <string name="format_version">v%1$s</string>
-    <string name="gcm_defaultSenderId" translatable="false">138627354442</string>
+    <string name="gcm_defaultSenderId" translatable="false">187947938420</string>
     <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
-    <string name="google_api_key" translatable="false">AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI</string>
-    <string name="google_app_id" translatable="false">1:138627354442:android:c485a7e5d114cd01babbb3</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwPt_eLAadgVi3O3GRZLCeH-1CxwtDMEw</string>
+    <string name="google_app_id" translatable="false">1:187947938420:android:2f49072ea88d8ce7619721</string>
     <string name="google_cast_app_id" translatable="false">3F80E626</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI</string>
-    <string name="google_storage_bucket" translatable="false">podcastapp-ccfca.appspot.com</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwPt_eLAadgVi3O3GRZLCeH-1CxwtDMEw</string>
+    <string name="google_storage_bucket" translatable="false">radioandsongsapps.firebasestorage.app</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="icon_add"></string>
     <string name="icon_check"></string>
@@ -3584,7 +3583,7 @@
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="previous_version">Previous version of the app</string>
-    <string name="project_id" translatable="false">podcastapp-ccfca</string>
+    <string name="project_id" translatable="false">radioandsongsapps</string>
     <string name="rate_dialog_cancel">Remind Me Later</string>
     <string name="rate_dialog_message">If you enjoy playing this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thanks for your support!</string>
     <string name="rate_dialog_no">No, Thanks</string>
@@ -3715,6 +3714,27 @@
     "AdMob - "
   </string>
     <string name="withoutrecording">If you do not agree to the permissions, click SKIP. \ You will be able to use the application without recording.</string>
+    <style name="AVLoadingIndicatorView">
+        <item name="minWidth">48dip</item>
+        <item name="maxWidth">48dip</item>
+        <item name="minHeight">48dip</item>
+        <item name="maxHeight">48dip</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+    <style name="AVLoadingIndicatorView.Large">
+        <item name="minWidth">76dip</item>
+        <item name="maxWidth">76dip</item>
+        <item name="minHeight">76dip</item>
+        <item name="maxHeight">76dip</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+    <style name="AVLoadingIndicatorView.Small">
+        <item name="minWidth">24dip</item>
+        <item name="maxWidth">24dip</item>
+        <item name="minHeight">24dip</item>
+        <item name="maxHeight">24dip</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -11252,6 +11272,14 @@
     <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
         <item name="statusBarBackground">#000000</item>
     </style>
+    <declare-styleable name="AVLoadingIndicatorView">
+        <attr format="dimension" name="minWidth"/>
+        <attr format="dimension" name="maxWidth"/>
+        <attr format="dimension" name="minHeight"/>
+        <attr format="dimension" name="maxHeight"/>
+        <attr format="string" name="indicatorName"/>
+        <attr format="color" name="indicatorColor"/>
+    </declare-styleable>
     <declare-styleable name="ActionBar">
         
         <attr name="navigationMode">

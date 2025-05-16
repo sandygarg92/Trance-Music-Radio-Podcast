@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.onlineradiofm.trancemusicradio.app-mergeReleaseResources-73:/values-es-rUS/values-es-rUS.xml",
+            "outputFile": "com.onlineradiofm.trancemusicradio.app-mergeReleaseResources-74:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
                     "source": "/Users/sandeepkumar/.gradle/caches/8.9/transforms/60a64c59fb371cd9d2086625befaf33f/transformed/jetified-play-services-cast-framework-21.2.0/res/values-es-rUS/values.xml",

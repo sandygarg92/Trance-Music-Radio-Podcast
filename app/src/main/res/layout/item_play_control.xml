@@ -171,14 +171,14 @@
                 app:unlike_drawable="@drawable/ic_heart_outline_black_36dp"/>
         </RelativeLayout>
 
-<!--        <com.wang.avi.AVLoadingIndicatorView-->
-<!--            android:id="@+id/play_progressBar"-->
-<!--            style="@style/AVLoadingIndicatorView"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:layout_centerInParent="true"-->
-<!--            app:indicatorColor="@color/light_play_accent_color"-->
-<!--            app:indicatorName="BallScaleMultipleIndicator" />-->
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/play_progressBar"
+            style="@style/AVLoadingIndicatorView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            app:indicatorColor="@color/light_play_accent_color"
+            app:indicatorName="BallScaleMultipleIndicator" />
 
     </RelativeLayout>
 </layout>

@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.onlineradiofm.trancemusicradio"
-4    android:versionCode="178"
-5    android:versionName="8.8" >
+4    android:versionCode="179"
+5    android:versionName="8.9" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
@@ -49,10 +49,8 @@
 27    <!--
 28    To handle the reselection within the app on devices running Android 14
 29    or higher if your app targets Android 14 (API level 34) or higher.
-30    -->
-31    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
-31-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:21:5-90
-31-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:21:22-87
+30    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
+31    -->
 32
 33    <uses-feature
 33-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:23:5-25:36

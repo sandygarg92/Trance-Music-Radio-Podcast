@@ -14,6 +14,7 @@ import com.balysv.materialripple.MaterialRippleLayout;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.like.LikeButton;
 import com.onlineradiofm.trancemusicradio.R;
+import com.wang.avi.AVLoadingIndicatorView;
 import java.lang.Deprecated;
 import java.lang.Object;
 
@@ -63,13 +64,17 @@ public abstract class ItemPlayControlBinding extends ViewDataBinding {
   @NonNull
   public final MaterialRippleLayout layoutReplay;
 
+  @NonNull
+  public final AVLoadingIndicatorView playProgressBar;
+
   protected ItemPlayControlBinding(Object _bindingComponent, View _root, int _localFieldCount,
       AppCompatImageView btnDownload, LikeButton btnFavorite, AppCompatImageView btnForward,
       AppCompatImageView btnNext, AppCompatImageView btnPrev, AppCompatImageView btnRecord,
       AppCompatImageView btnReplay, FloatingActionButton fbPlay, RelativeLayout layoutControl,
       MaterialRippleLayout layoutDownload, MaterialRippleLayout layoutForward,
       MaterialRippleLayout layoutNext, MaterialRippleLayout layoutPrev,
-      MaterialRippleLayout layoutRecord, MaterialRippleLayout layoutReplay) {
+      MaterialRippleLayout layoutRecord, MaterialRippleLayout layoutReplay,
+      AVLoadingIndicatorView playProgressBar) {
     super(_bindingComponent, _root, _localFieldCount);
     this.btnDownload = btnDownload;
     this.btnFavorite = btnFavorite;
@@ -86,6 +91,7 @@ public abstract class ItemPlayControlBinding extends ViewDataBinding {
     this.layoutPrev = layoutPrev;
     this.layoutRecord = layoutRecord;
     this.layoutReplay = layoutReplay;
+    this.playProgressBar = playProgressBar;
   }
 
   @NonNull

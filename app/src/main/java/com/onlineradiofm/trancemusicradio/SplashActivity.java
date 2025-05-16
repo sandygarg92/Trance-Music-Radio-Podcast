@@ -290,8 +290,14 @@ public class SplashActivity extends YPYSplashActivity<ActivitySplashBinding> imp
 
                     @Override
                     public void onFinish() {
-                        // Show the app open ad.
-                        appOpenAdsManager.showAdIfAvailable(() -> goToRealActivity());
+                        // ✅ Check premium status
+                        if (MemberShipManager.isIAPremiumMember(SplashActivity.this)) {
+                            Log.d("Ads not For Pre-Users", "User is premium, skipping ads.");
+                            goToRealActivity(); // Skip app open ads for premium users
+                        } else {
+                            // Show the app open ad.
+                            appOpenAdsManager.showAdIfAvailable(() -> goToRealActivity());
+                        }
                     }
                 };
         countDownTimer.start();

@@ -27,9 +27,8 @@ public interface IRadioConstants {
     };
     String[] LIST_STORAGE_PERMISSIONS_14 = {
             Manifest.permission.READ_MEDIA_AUDIO,
-            Manifest.permission.READ_MEDIA_VISUAL_USER_SELECTED,
             Manifest.permission.POST_NOTIFICATIONS
-    };
+    }; // Manifest.permission.READ_MEDIA_VISUAL_USER_SELECTED,
 
     String FOLDER_API = "/apiV2/";
     String KEY_OPEN_ADS_FREQ = "open_ads_freq";

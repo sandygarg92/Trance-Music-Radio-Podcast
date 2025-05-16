@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://podcastapp-ccfca.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">138627354442</string>
-    <string name="google_api_key" translatable="false">AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI</string>
-    <string name="google_app_id" translatable="false">1:138627354442:android:c485a7e5d114cd01babbb3</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI</string>
-    <string name="google_storage_bucket" translatable="false">podcastapp-ccfca.appspot.com</string>
-    <string name="project_id" translatable="false">podcastapp-ccfca</string>
+    <string name="default_web_client_id" translatable="false">187947938420-scp77hicpvvllk0n1q667h8brnqe6pca.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">187947938420</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwPt_eLAadgVi3O3GRZLCeH-1CxwtDMEw</string>
+    <string name="google_app_id" translatable="false">1:187947938420:android:2f49072ea88d8ce7619721</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwPt_eLAadgVi3O3GRZLCeH-1CxwtDMEw</string>
+    <string name="google_storage_bucket" translatable="false">radioandsongsapps.firebasestorage.app</string>
+    <string name="project_id" translatable="false">radioandsongsapps</string>
 </resources>

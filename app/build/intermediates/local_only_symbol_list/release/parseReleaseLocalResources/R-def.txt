@@ -536,6 +536,7 @@ id mySeekBar
 id my_native_ads
 id my_radio_card_view
 id my_toolbar
+id play_progressBar
 id progressBar1
 id progressBar_loading_more
 id progressBar_pre
@@ -708,7 +709,6 @@ string cpb_default_sweep_speed
 string default_web_client_id
 string empty_duration
 string error_no_equalizer_found
-string firebase_database_url
 string format_bitrate
 string format_buffering
 string format_buy_pro1

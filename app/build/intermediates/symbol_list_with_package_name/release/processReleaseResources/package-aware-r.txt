@@ -743,6 +743,7 @@ attr indicatorColor
 attr indicatorDirectionCircular
 attr indicatorDirectionLinear
 attr indicatorInset
+attr indicatorName
 attr indicatorSize
 attr indicatorTrackGapSize
 attr initialActivityCount
@@ -5583,6 +5584,7 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id play_progressBar
 id position
 id postLayout
 id pressed
@@ -6330,7 +6332,6 @@ string fallback_menu_item_copy_link
 string fallback_menu_item_open_in_browser
 string fallback_menu_item_share_link
 string fcm_fallback_notification_channel_label
-string firebase_database_url
 string format_bitrate
 string format_buffering
 string format_buy_pro1
@@ -6734,6 +6735,9 @@ string title_website
 string title_yes
 string watermark_label_prefix
 string withoutrecording
+style AVLoadingIndicatorView
+style AVLoadingIndicatorView_Large
+style AVLoadingIndicatorView_Small
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -7940,6 +7944,7 @@ style Widget_MaterialProgressBar_ProgressBar_Small_NoPadding
 style Widget_MediaRouter_Light_MediaRouteButton
 style Widget_MediaRouter_MediaRouteButton
 style Widget_Support_CoordinatorLayout
+styleable AVLoadingIndicatorView indicatorColor indicatorName maxHeight maxWidth minHeight minWidth
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

@@ -29,6 +29,7 @@ public class ItemPlayControlBindingImpl extends ItemPlayControlBinding  {
         sViewsWithIds.put(R.id.layout_forward, 13);
         sViewsWithIds.put(R.id.btn_forward, 14);
         sViewsWithIds.put(R.id.btn_favorite, 15);
+        sViewsWithIds.put(R.id.play_progressBar, 16);
     }
     // views
     @NonNull
@@ -39,7 +40,7 @@ public class ItemPlayControlBindingImpl extends ItemPlayControlBinding  {
     // Inverse Binding Event Handlers
 
     public ItemPlayControlBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 16, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 17, sIncludes, sViewsWithIds));
     }
     private ItemPlayControlBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
@@ -58,6 +59,7 @@ public class ItemPlayControlBindingImpl extends ItemPlayControlBinding  {
             , (com.balysv.materialripple.MaterialRippleLayout) bindings[8]
             , (com.balysv.materialripple.MaterialRippleLayout) bindings[4]
             , (com.balysv.materialripple.MaterialRippleLayout) bindings[6]
+            , (com.wang.avi.AVLoadingIndicatorView) bindings[16]
             );
         this.mboundView0 = (android.widget.RelativeLayout) bindings[0];
         this.mboundView0.setTag(null);

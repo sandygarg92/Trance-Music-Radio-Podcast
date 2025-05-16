@@ -135,7 +135,6 @@ public abstract class RadioFragmentActivity<T extends ViewBinding> extends YPYFr
     protected boolean isLoadAgainOpenAds;
     protected AppOpenAdsManager appOpenAdsManager;
     private long countOpenAds = 0;
-    private ActivityResultLauncher<IntentSenderRequest> writeAccessLauncher;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -156,17 +155,6 @@ public abstract class RadioFragmentActivity<T extends ViewBinding> extends YPYFr
         onDoWhenDone();
         processRightToLeft();
 
-        writeAccessLauncher = registerForActivityResult(
-                new ActivityResultContracts.StartIntentSenderForResult(),
-                result -> {
-                    if (result.getResultCode() == Activity.RESULT_OK) {
-                        // Write access granted
-                        startMusicService(ACTION_RECORD_START);
-                    } else {
-                        Toast.makeText(this, "Write access denied", Toast.LENGTH_SHORT).show();
-                    }
-                }
-        );
     }
 
     public void setUpGoogleCast() {
@@ -1036,21 +1024,6 @@ public abstract class RadioFragmentActivity<T extends ViewBinding> extends YPYFr
             this.isStartCheckRecord = requestCode == REQUEST_PERMISSION_RECORD;
             ActivityCompat.requestPermissions(this, LIST_STORAGE_PERMISSIONS, requestCode);
         }
-    }
-
-    @RequiresApi(api = Build.VERSION_CODES.TIRAMISU)
-    public void requestMediaStoreWriteAccess() {
-        ContentResolver resolver = getContentResolver();
-
-        // Grant write access to shared audio media
-        Uri collection = MediaStore.Audio.Media.EXTERNAL_CONTENT_URI;
-        List<Uri> uris = new ArrayList<>();
-        uris.add(collection);
-
-        PendingIntent writeRequest = MediaStore.createWriteRequest(resolver, uris);
-
-        IntentSenderRequest request = new IntentSenderRequest.Builder(writeRequest.getIntentSender()).build();
-        writeAccessLauncher.launch(request);
     }
 
     @Override

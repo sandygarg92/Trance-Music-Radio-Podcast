@@ -1,0 +1,521 @@
+{
+  "project_info": {
+    "project_number": "138627354442",
+    "firebase_url": "https://podcastapp-ccfca.firebaseio.com",
+    "project_id": "podcastapp-ccfca",
+    "storage_bucket": "podcastapp-ccfca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:5c26498157cfb9f8babbb3",
+        "android_client_info": {
+          "package_name": "com.music.podcastapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-odi1lduuitb49gmrbrn5m98hncnuu5ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.music.podcastapp",
+            "certificate_hash": "af464079343c3ea35b777978e4627d738470e76f"
+          }
+        },
+        {
+          "client_id": "138627354442-shnphu505vhgqpr4c7lj07nfovk1mf68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.music.podcastapp",
+            "certificate_hash": "ad2136bf9d98caa777279cd4c762b3ea8092bdf2"
+          }
+        },
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:403458e1b45e97d9babbb3",
+        "android_client_info": {
+          "package_name": "com.onlineradiofm.animemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:218548c6d31e2b3ababbb3",
+        "android_client_info": {
+          "package_name": "com.onlineradiofm.jazzradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:afae4d33f63992d2babbb3",
+        "android_client_info": {
+          "package_name": "com.onlineradiofm.radio80smusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:503290e7e896678dbabbb3",
+        "android_client_info": {
+          "package_name": "com.onlineradiofm.sleepmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-u65diqsgc5rhvpmli6dvbda8us1s9jji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlineradiofm.sleepmusic",
+            "certificate_hash": "618459c4c1ec328314b76e262926473a11216d1d"
+          }
+        },
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5854070488804089~9897718311"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:d2972cb450522576babbb3",
+        "android_client_info": {
+          "package_name": "com.podcastmusicdownload.podcast_edm_dance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:e961d9f0ea5cce91babbb3",
+        "android_client_info": {
+          "package_name": "com.radio.fm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:4cbb16f928a49d75babbb3",
+        "android_client_info": {
+          "package_name": "com.radioapps.classicalmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:c485a7e5d114cd01babbb3",
+        "android_client_info": {
+          "package_name": "com.onlineradiofm.trancemusicradio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-q8vqc5is6hr77j13a077k1iu7elct8k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlineradiofm.trancemusicradio",
+            "certificate_hash": "40bdbd62d3d639cb3a2fafcbc528c1f31458b457"
+          }
+        },
+        {
+          "client_id": "138627354442-sopnn7qp6g77h5skomm2lvp0k03acd5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlineradiofm.trancemusicradio",
+            "certificate_hash": "ad2136bf9d98caa777279cd4c762b3ea8092bdf2"
+          }
+        },
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5854070488804089~8898303663"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:9e4d34c4ad583901babbb3",
+        "android_client_info": {
+          "package_name": "com.relax.asmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:a6441798f09728aebabbb3",
+        "android_client_info": {
+          "package_name": "com.textvideo.intromaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:a2b086148b72e83fbabbb3",
+        "android_client_info": {
+          "package_name": "com.vpn.ultravpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138627354442:android:0696b223f9a1f429babbb3",
+        "android_client_info": {
+          "package_name": "freemusic.musicstream.acousticmusiconline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQOv8fSRaj0MPQ_qE1wU24a_8IzGmQVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138627354442-qn317jik4n4lkevk3ncrqolo2kvh8rno.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138627354442-e8pslrmh7s7mq23baqj6417prqur6e65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlineradiofm.radiorelax"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

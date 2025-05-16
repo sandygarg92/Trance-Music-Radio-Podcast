@@ -192,13 +192,13 @@ public class FragmentDragDrop extends YPYFragment<FragmentDragDropBinding> imple
                 }
                 if (isShow) {
                     viewBinding.layoutTotalControl.layoutControl.setVisibility(View.INVISIBLE);
-                    // viewBinding.layoutTotalControl.playProgressBar.setVisibility(View.VISIBLE);
-                    // viewBinding.layoutTotalControl.playProgressBar.show();
+                    viewBinding.layoutTotalControl.playProgressBar.setVisibility(View.VISIBLE);
+                    viewBinding.layoutTotalControl.playProgressBar.show();
                 } else {
-                    // if (viewBinding.layoutTotalControl.playProgressBar.getVisibility() == View.VISIBLE) {
-                    //    viewBinding.layoutTotalControl.playProgressBar.hide();
-                    //    viewBinding.layoutTotalControl.playProgressBar.setVisibility(View.INVISIBLE);
-                    // }
+                    if (viewBinding.layoutTotalControl.playProgressBar.getVisibility() == View.VISIBLE) {
+                       viewBinding.layoutTotalControl.playProgressBar.hide();
+                       viewBinding.layoutTotalControl.playProgressBar.setVisibility(View.INVISIBLE);
+                    }
                 }
             }
         } catch (Exception e) {
@@ -376,16 +376,12 @@ public class FragmentDragDrop extends YPYFragment<FragmentDragDropBinding> imple
             boolean isRecord = YPYStreamManager.getInstance().isRecordingFile();
             if (!isRecord) {
                 if (IOUtils.isAndroid14()) {
-                    // request write access using MediaStore.createWriteRequest() (for Android 14+)
-                    mContext.requestMediaStoreWriteAccess();
                     if (!ApplicationUtils.isGrantAllPermission(mContext, LIST_STORAGE_PERMISSIONS_14))
                     {
                         mContext.startGrantSDCardPermission(REQUEST_PERMISSION_RECORD);
                         return;
                     }
                 } else if (IOUtils.isAndroid13()) {
-                    // request write access using MediaStore.createWriteRequest() (for Android 13+)
-                    mContext.requestMediaStoreWriteAccess();
                     if (!ApplicationUtils.isGrantAllPermission(mContext, LIST_STORAGE_PERMISSIONS_13))
                         {
                             mContext.startGrantSDCardPermission(REQUEST_PERMISSION_RECORD);
@@ -561,7 +557,7 @@ public class FragmentDragDrop extends YPYFragment<FragmentDragDropBinding> imple
                 viewBinding.layoutTotalControl.btnFavorite.setLikeDrawableRes(isDark ? R.drawable.ic_heart_dark_mode_36dp : R.drawable.ic_heart_pink_36dp);
                 viewBinding.layoutTotalControl.fbPlay.setBackgroundTintList(fbTintList);
 
-                // viewBinding.layoutTotalControl.playProgressBar.setIndicatorColor(colorAccent);
+                viewBinding.layoutTotalControl.playProgressBar.setIndicatorColor(colorAccent);
                 resDefault = isDark ? R.drawable.ic_dark_play_default : R.drawable.ic_light_play_default;
                 YPYMediaPlayer.StreamInfo mStrInfo = YPYStreamManager.getInstance().getStreamInfo();
                 updateImage(mStrInfo != null ? mStrInfo.imgUrl : null);
