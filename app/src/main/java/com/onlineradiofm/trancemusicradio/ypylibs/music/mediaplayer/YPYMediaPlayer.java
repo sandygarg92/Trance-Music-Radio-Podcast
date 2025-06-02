@@ -18,32 +18,27 @@ package com.onlineradiofm.trancemusicradio.ypylibs.music.mediaplayer;
 import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
-import android.net.Uri;
 import android.os.PowerManager;
 import android.text.TextUtils;
+import android.util.Log;
 
-import com.google.android.exoplayer2.MediaItem;
-import com.google.android.exoplayer2.PlaybackException;
-import com.google.android.exoplayer2.source.ProgressiveMediaSource;
+import com.google.android.exoplayer2.upstream.DefaultDataSourceFactory;
+import com.google.android.exoplayer2.upstream.DefaultHttpDataSource;
 import com.onlineradiofm.trancemusicradio.ypylibs.executor.YPYExecutorSupplier;
 import com.onlineradiofm.trancemusicradio.ypylibs.music.shoutcast.ShoutcastDataSourceFactory;
 import com.onlineradiofm.trancemusicradio.ypylibs.utils.YPYLog;
-import com.google.android.exoplayer2.ExoPlaybackException;
+import com.google.android.exoplayer2.DefaultLoadControl;
 import com.google.android.exoplayer2.ExoPlayer;
-import com.google.android.exoplayer2.PlaybackParameters;
+import com.google.android.exoplayer2.LoadControl;
+import com.google.android.exoplayer2.MediaItem;
+import com.google.android.exoplayer2.PlaybackException;
+import com.google.android.exoplayer2.source.ProgressiveMediaSource;
 import com.google.android.exoplayer2.Player;
 import com.google.android.exoplayer2.SimpleExoPlayer;
-import com.google.android.exoplayer2.Timeline;
-import com.google.android.exoplayer2.extractor.DefaultExtractorsFactory;
 import com.google.android.exoplayer2.source.MediaSource;
-import com.google.android.exoplayer2.source.TrackGroupArray;
 import com.google.android.exoplayer2.source.hls.HlsMediaSource;
-import com.google.android.exoplayer2.trackselection.AdaptiveTrackSelection;
 import com.google.android.exoplayer2.trackselection.DefaultTrackSelector;
-import com.google.android.exoplayer2.trackselection.TrackSelectionArray;
 import com.google.android.exoplayer2.upstream.DataSource;
-import com.google.android.exoplayer2.upstream.DefaultBandwidthMeter;
-import com.google.android.exoplayer2.upstream.DefaultDataSourceFactory;
 import com.google.android.exoplayer2.util.Util;
 
 import androidx.annotation.Nullable;
@@ -110,19 +105,40 @@ public class YPYMediaPlayer {
     public void setDataSource(String url) {
         if (!TextUtils.isEmpty(url)) {
             String mUrlStream = url;
+            Log.e("setDataSource","url="+url);
             /*DefaultBandwidthMeter bandwidthMeter = new DefaultBandwidthMeter();
-            AdaptiveTrackSelection.Factory trackSelectionFactory = new AdaptiveTrackSelection.Factory(bandwidthMeter);
-            DefaultTrackSelector trackSelector = new DefaultTrackSelector(trackSelectionFactory);*/
 
+            AdaptiveTrackSelection.Factory trackSelectionFactory = new AdaptiveTrackSelection.Factory(bandwidthMeter); */
             DefaultTrackSelector trackSelector = new DefaultTrackSelector(mContext);
 
-            mAudioPlayer = new ExoPlayer.Builder(mContext)
-                    .setTrackSelector(trackSelector)
+
+            // Setup custom LoadControl
+            LoadControl loadControl = new DefaultLoadControl.Builder()
+                    .setBufferDurationsMs(
+                            15000,         // Start buffering at 15 sec
+                            50000,        // Max up to 50 sec
+                            2500,  // Start playing after 2.5 sec
+                            5000 // after stutter
+                    )
                     .build();
+
+
+              // Initialize player with custom LoadControl
+            mAudioPlayer = new SimpleExoPlayer.Builder(mContext)
+                    .setTrackSelector(trackSelector)
+                    .setLoadControl(loadControl)
+                    .build();
+
+                    mAudioPlayer.setPlayWhenReady(true);     // Autoplay
+                    // mAudioPlayer.setForegroundMode(true);    // Prevent background throttling
+                    mAudioPlayer.prepare();
+
+
             mAudioPlayer.addListener(new Player.Listener() {
 
                 @Override
                 public void onPlayerStateChanged(boolean playWhenReady, int playbackState) {
+                    Log.e("listener onPlayerStateChanged","playbackState="+playbackState);
                     if (playbackState == Player.STATE_ENDED || playbackState == Player.STATE_IDLE) {
                         if (onStreamListener != null) {
                             onStreamListener.onComplete();
@@ -145,6 +161,9 @@ public class YPYMediaPlayer {
 
                 @Override
                 public void onPlaybackStateChanged(int playbackState) {
+
+                    Log.e("listener onPlaybackStateChanged","playbackState="+playbackState);
+
                     if (playbackState == Player.STATE_ENDED || playbackState == Player.STATE_IDLE) {
                         if (onStreamListener != null) {
                             onStreamListener.onComplete();
@@ -158,6 +177,9 @@ public class YPYMediaPlayer {
                 }
 
             });
+
+
+
             DataSource.Factory dataSourceFactory;
             MediaSource mediaSource;
 
@@ -165,9 +187,12 @@ public class YPYMediaPlayer {
                 mUrlStream = mUrlStream.replace("_Other", "");
             }
             if(!mUrlStream.startsWith("http")){
+
+            Log.d("inside Condition dataSourceFactory", " http");
                 dataSourceFactory = new DefaultDataSourceFactory(mContext, getUserAgent(mContext));
             }
             else{
+                Log.d("inside Condition dataSourceFactory", " Else");
                 dataSourceFactory = new ShoutcastDataSourceFactory(factory,
                         getUserAgent(mContext), null, data -> {
                     try {
@@ -199,15 +224,26 @@ public class YPYMediaPlayer {
                 });
 
             }
+
+//            dataSourceFactory = new DefaultHttpDataSource.Factory();
+//                mediaSource = new HlsMediaSource.Factory(dataSourceFactory)
+//                        .createMediaSource(MediaItem.fromUri(mUrlStream));
+
             if (mUrlStream.endsWith(".m3u8") || mUrlStream.endsWith(".M3U8")) {
                 mediaSource = new HlsMediaSource.Factory(dataSourceFactory)
                         .createMediaSource(MediaItem.fromUri(mUrlStream));
             }
             else {
+
+
                 MediaItem mediaItem = MediaItem.fromUri(mUrlStream);
+
                 mediaSource = new ProgressiveMediaSource.Factory(dataSourceFactory)
                         .createMediaSource(mediaItem);
+
             }
+
+
             mAudioPlayer.prepare(mediaSource);
             start();
             return;

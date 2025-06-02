@@ -1,35 +1,35 @@
 -- Merging decision tree log ---
 meta-data#com.google.firebase.messaging.default_notification_channel_id
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:116:9-118:51
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:116:9-118:51
 	android:value
-		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:118:13-48
+		INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:118:13-48
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:117:13-89
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:117:13-89
 provider#androidx.core.content.FileProvider
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:155:9-165:20
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:155:9-165:20
 	android:grantUriPermissions
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:159:13-47
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:159:13-47
 	android:authorities
-		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:157:13-60
+		INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:157:13-60
 	android:exported
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:158:13-37
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:158:13-37
 	tools:replace
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:160:13-48
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:160:13-48
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:156:13-62
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:156:13-62
 manifest
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:2:1-197:12
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:2:1-197:12
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:2:1-197:12
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:2:1-197:12
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:2:1-197:12
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:2:1-197:12
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:2:1-197:12
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:2:1-197:12
 MERGED from [androidx.databinding:databinding-adapters:8.6.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/0d9ce6f516f8dddf781b8dede7426061/transformed/databinding-adapters-8.6.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-ktx:8.6.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/377a7aa34108af3ad813b179b839dfb6/transformed/jetified-databinding-ktx-8.6.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:databinding-runtime:8.6.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/9138db86576520f7593f543510697574/transformed/databinding-runtime-8.6.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.databinding:viewbinding:8.6.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/c2d4da5fa3ccb41e8a43f6e206a51e99/transformed/jetified-viewbinding-8.6.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.github.wicaodian:Seekbar-Indicator:1.0.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/71cde76c90e8048885a26fdd5e88c71c/transformed/jetified-Seekbar-Indicator-1.0.4/AndroidManifest.xml:2:1-7:12
-MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/TranceRadio/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-10:12
+MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.play:asset-delivery:2.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e545e9dcb9c7c39ac9a3eddc72e4e583/transformed/jetified-asset-delivery-2.3.0/AndroidManifest.xml:2:1-46:12
 MERGED from [com.google.android.gms:play-services-ads:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/2a07b6950f034bba87c34dfa6f2afd6c/transformed/jetified-play-services-ads-24.2.0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-api:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/7391e1296284716cc46ac67824e19ff5/transformed/jetified-play-services-ads-api-24.2.0/AndroidManifest.xml:17:1-115:12
@@ -62,7 +62,7 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sandeepkumar/.
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/0bbf6cdaee1f8d48186e343cce897295/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [jp.wasabeef:glide-transformations:4.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/b4f4a2cbb14685e153f8a5bd2598e7ca/transformed/jetified-glide-transformations-4.3.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sandeepkumar/.gradle/caches/8.9/transforms/1731601f3261d80dfc6af6874dbeffe6/transformed/jetified-glide-4.13.2/AndroidManifest.xml:2:1-12:12
-MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:25:1-38:12
+MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:25:1-38:12
 MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/33473ff03bb8ea0049f44a879660e748/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:2:1-15:12
 MERGED from [com.github.jd-alexander:LikeButton:0.2.3] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e3c2faf94fdf3104b14b747567d76fd2/transformed/jetified-LikeButton-0.2.3/AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/92780be606462cc1ccef13d1969432dc/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
@@ -169,17 +169,17 @@ MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/sandeepkumar/.gradle/c
 MERGED from [com.intuit.sdp:sdp-android:1.1.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/9e1810e1bd1382dc1928b5b6f2e4f4f0/transformed/jetified-sdp-android-1.1.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.play:core-common:2.0.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/f644a26cf93a318bda25fdd085dc6cca/transformed/jetified-core-common-2.0.4/AndroidManifest.xml:2:1-21:12
 	package
-		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:5:5-66
 MERGED from [com.google.android.gms:play-services-ads-api:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/7391e1296284716cc46ac67824e19ff5/transformed/jetified-play-services-ads-api-24.2.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-ads-api:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/7391e1296284716cc46ac67824e19ff5/transformed/jetified-play-services-ads-api-24.2.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/f639b5be6dfc59c87c036b66382e11ff/transformed/jetified-play-services-gcm-17.0.0/AndroidManifest.xml:24:5-67
@@ -203,9 +203,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /U
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeepkumar/.gradle/caches/8.9/transforms/37906960ce51d513366b02b9aa77c17f/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/sandeepkumar/.gradle/caches/8.9/transforms/37906960ce51d513366b02b9aa77c17f/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:6:5-78
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:6:5-78
 MERGED from [com.google.android.gms:play-services-ads-api:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/7391e1296284716cc46ac67824e19ff5/transformed/jetified-play-services-ads-api-24.2.0/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-ads-api:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/7391e1296284716cc46ac67824e19ff5/transformed/jetified-play-services-ads-api-24.2.0/AndroidManifest.xml:25:5-79
 MERGED from [androidx.work:work-runtime:2.9.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/d91c9f291f7a83843e8fa6a032a28535/transformed/work-runtime-2.9.1/AndroidManifest.xml:24:5-79
@@ -235,9 +235,9 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /User
 MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeepkumar/.gradle/caches/8.9/transforms/2c09b4692596c488015a27c77787ba4a/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/sandeepkumar/.gradle/caches/8.9/transforms/2c09b4692596c488015a27c77787ba4a/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:7:5-76
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:7:5-76
 MERGED from [com.google.android.play:asset-delivery:2.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e545e9dcb9c7c39ac9a3eddc72e4e583/transformed/jetified-asset-delivery-2.3.0/AndroidManifest.xml:14:5-77
 MERGED from [com.google.android.play:asset-delivery:2.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e545e9dcb9c7c39ac9a3eddc72e4e583/transformed/jetified-asset-delivery-2.3.0/AndroidManifest.xml:14:5-77
 MERGED from [androidx.work:work-runtime:2.9.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/d91c9f291f7a83843e8fa6a032a28535/transformed/work-runtime-2.9.1/AndroidManifest.xml:26:5-77
@@ -245,19 +245,19 @@ MERGED from [androidx.work:work-runtime:2.9.1] /Users/sandeepkumar/.gradle/cache
 MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/60a64c59fb371cd9d2086625befaf33f/transformed/jetified-play-services-cast-framework-21.2.0/AndroidManifest.xml:10:5-77
 MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/60a64c59fb371cd9d2086625befaf33f/transformed/jetified-play-services-cast-framework-21.2.0/AndroidManifest.xml:10:5-77
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:7:22-74
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:7:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:8:5-91
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:8:5-91
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:8:22-89
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:8:22-89
 uses-permission#com.android.vending.BILLING
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:9:5-66
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:9:5-66
 MERGED from [com.android.billingclient:billing:7.1.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/d517069337dee9138fb791356ba94eec/transformed/jetified-billing-7.1.1/AndroidManifest.xml:10:5-67
 MERGED from [com.android.billingclient:billing:7.1.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/d517069337dee9138fb791356ba94eec/transformed/jetified-billing-7.1.1/AndroidManifest.xml:10:5-67
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:9:22-64
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:9:22-64
 uses-permission#com.google.android.gms.permission.AD_ID
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:10:5-78
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:10:5-78
 MERGED from [com.google.android.gms:play-services-ads-api:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/7391e1296284716cc46ac67824e19ff5/transformed/jetified-play-services-ads-api-24.2.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.gms:play-services-ads-api:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/7391e1296284716cc46ac67824e19ff5/transformed/jetified-play-services-ads-api-24.2.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/9f0ac1de5667fa61255f1ca2ae43dfc8/transformed/jetified-play-services-measurement-impl-21.1.0/AndroidManifest.xml:27:5-79
@@ -269,48 +269,48 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.1] /Users/
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/cfae3870db9005e717b92f9d6d8f56e6/transformed/jetified-play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/cfae3870db9005e717b92f9d6d8f56e6/transformed/jetified-play-services-measurement-sdk-api-21.1.0/AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:10:22-76
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:10:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:12:5-14:40
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:12:5-14:40
 	android:maxSdkVersion
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:13:9-35
 	tools:ignore
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:14:9-37
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:12:22-78
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:12:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:15:5-107
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:15:5-107
 	android:maxSdkVersion
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:15:78-104
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:15:78-104
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:15:22-77
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:15:22-77
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:17:5-76
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:17:5-76
 MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/sandeepkumar/.gradle/caches/8.9/transforms/cd09e5f21dc20d5fa2896ffa69fcb2b0/transformed/jetified-firebase-messaging-23.0.6/AndroidManifest.xml:26:5-77
 MERGED from [com.google.firebase:firebase-messaging:23.0.6] /Users/sandeepkumar/.gradle/caches/8.9/transforms/cd09e5f21dc20d5fa2896ffa69fcb2b0/transformed/jetified-firebase-messaging-23.0.6/AndroidManifest.xml:26:5-77
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:17:22-74
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:17:22-74
 uses-permission#android.permission.READ_MEDIA_AUDIO
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:18:5-75
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:18:5-75
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:18:22-72
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:18:22-72
 uses-feature#0x00020000
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:23:5-25:36
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:23:5-25:36
 	android:glEsVersion
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:24:9-41
 	android:required
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:25:9-33
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:25:9-33
 permission#com.onlineradiofm.trancemusicradio.permission.BIND_AUDIO_SERVICE
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:27:9-28:44
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:27:9-28:44
 	android:protectionLevel
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:28:9-41
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:28:9-41
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:27:21-100
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:27:21-100
 application
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:30:5-195:19
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:30:5-195:19
-MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/TranceRadio/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-8:19
-MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/TranceRadio/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-8:19
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:30:5-195:19
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:30:5-195:19
+MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-8:19
+MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.play:asset-delivery:2.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e545e9dcb9c7c39ac9a3eddc72e4e583/transformed/jetified-asset-delivery-2.3.0/AndroidManifest.xml:18:5-44:19
 MERGED from [com.google.android.play:asset-delivery:2.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e545e9dcb9c7c39ac9a3eddc72e4e583/transformed/jetified-asset-delivery-2.3.0/AndroidManifest.xml:18:5-44:19
 MERGED from [com.google.android.gms:play-services-ads-api:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/7391e1296284716cc46ac67824e19ff5/transformed/jetified-play-services-ads-api-24.2.0/AndroidManifest.xml:70:5-113:19
@@ -349,8 +349,8 @@ MERGED from [com.google.android.material:material:1.12.0] /Users/sandeepkumar/.g
 MERGED from [com.google.android.material:material:1.12.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/02eb1b587c4b47576c8148b0272bbe7d/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sandeepkumar/.gradle/caches/8.9/transforms/1731601f3261d80dfc6af6874dbeffe6/transformed/jetified-glide-4.13.2/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sandeepkumar/.gradle/caches/8.9/transforms/1731601f3261d80dfc6af6874dbeffe6/transformed/jetified-glide-4.13.2/AndroidManifest.xml:10:5-20
-MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:32:5-36:19
-MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:32:5-36:19
+MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:32:5-36:19
+MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:32:5-36:19
 MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/33473ff03bb8ea0049f44a879660e748/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:13:5-20
 MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/33473ff03bb8ea0049f44a879660e748/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:13:5-20
 MERGED from [com.github.jd-alexander:LikeButton:0.2.3] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e3c2faf94fdf3104b14b747567d76fd2/transformed/jetified-LikeButton-0.2.3/AndroidManifest.xml:11:5-12:19
@@ -424,250 +424,250 @@ MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/sandeepkumar/.gradle/cac
 MERGED from [com.google.android.play:core-common:2.0.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/f644a26cf93a318bda25fdd085dc6cca/transformed/jetified-core-common-2.0.4/AndroidManifest.xml:11:5-19:19
 MERGED from [com.google.android.play:core-common:2.0.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/f644a26cf93a318bda25fdd085dc6cca/transformed/jetified-core-common-2.0.4/AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
-		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
 	tools:ignore
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:40:9-48
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:40:9-48
 	android:roundIcon
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:36:9-54
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:36:9-54
 	android:largeHeap
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:42:9-33
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:42:9-33
 	android:icon
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:34:9-43
-		REJECTED from [:SeekArc_library] /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:34:9-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:34:9-43
+		REJECTED from [:SeekArc_library] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:34:9-45
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.15.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/a5407ddf857b89c45b088521b79c3856/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:37:9-35
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:37:9-35
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:35:9-41
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:35:9-41
 	android:hardwareAccelerated
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:33:9-43
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:33:9-43
 	android:allowBackup
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:32:9-35
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:32:9-35
 	android:theme
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:38:9-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:38:9-49
 	tools:replace
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:41:9-37
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:41:9-37
 	android:usesCleartextTraffic
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:39:9-44
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:39:9-44
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:31:9-75
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:31:9-75
 activity#com.onlineradiofm.trancemusicradio.SplashActivity
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:44:9-54:20
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:44:9-54:20
 	android:screenOrientation
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:49:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:49:13-49
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:48:13-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:48:13-45
 	android:exported
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:47:13-36
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:47:13-36
 	android:configChanges
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:46:13-145
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:46:13-145
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:45:13-77
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:45:13-77
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:50:13-53:29
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:50:13-53:29
 action#android.intent.action.MAIN
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:51:17-69
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:51:17-69
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:51:25-66
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:51:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:52:17-77
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:52:17-77
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:52:27-74
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:52:27-74
 activity#com.onlineradiofm.trancemusicradio.MainActivity
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:56:9-62:57
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:56:9-62:57
 	android:screenOrientation
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:61:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:61:13-49
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:59:13-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:59:13-45
 	android:launchMode
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:60:13-43
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:60:13-43
 	android:windowSoftInputMode
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:62:13-55
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:62:13-55
 	android:configChanges
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:58:13-133
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:58:13-133
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:57:13-75
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:57:13-75
 activity#com.onlineradiofm.trancemusicradio.ShowUrlActivity
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:64:9-68:51
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:64:9-68:51
 	android:screenOrientation
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:68:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:68:13-49
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:67:13-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:67:13-45
 	android:configChanges
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:66:13-145
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:66:13-145
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:65:13-78
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:65:13-78
 activity#com.onlineradiofm.trancemusicradio.GrantPermissionActivity
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:69:9-73:51
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:69:9-73:51
 	android:screenOrientation
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:73:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:73:13-49
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:72:13-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:72:13-45
 	android:configChanges
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:71:13-145
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:71:13-145
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:70:13-86
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:70:13-86
 activity#com.onlineradiofm.trancemusicradio.UpgradePremiumActivity
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:75:9-79:51
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:75:9-79:51
 	android:screenOrientation
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:79:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:79:13-49
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:78:13-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:78:13-45
 	android:configChanges
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:77:13-145
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:77:13-145
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:76:13-85
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:76:13-85
 activity#com.onlineradiofm.trancemusicradio.SignInActivity
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:80:9-84:51
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:80:9-84:51
 	android:screenOrientation
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:84:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:84:13-49
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:83:13-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:83:13-45
 	android:configChanges
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:82:13-145
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:82:13-145
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:81:13-77
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:81:13-77
 activity#com.onlineradiofm.trancemusicradio.equalizer.EqualizerActivity
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:86:9-90:51
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:86:9-90:51
 	android:screenOrientation
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:90:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:90:13-49
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:89:13-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:89:13-45
 	android:configChanges
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:88:13-145
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:88:13-145
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:87:13-90
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:87:13-90
 service#com.onlineradiofm.trancemusicradio.stream.service.XRadioAudioService
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:92:9-102:19
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:92:9-102:19
 	android:exported
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:94:13-36
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:94:13-36
 	android:permission
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:95:13-98
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:95:13-98
 	android:foregroundServiceType
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:96:13-58
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:96:13-58
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:93:13-96
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:93:13-96
 intent-filter#action:name:android.intent.action.MEDIA_BUTTON+action:name:android.media.AUDIO_BECOMING_NOISY+action:name:android.media.browse.MediaBrowserService
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:97:13-101:29
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:97:13-101:29
 action#android.intent.action.MEDIA_BUTTON
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:98:17-77
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:98:17-77
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:98:25-74
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:98:25-74
 action#android.media.AUDIO_BECOMING_NOISY
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:99:17-77
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:99:17-77
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:99:25-74
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:99:25-74
 action#android.media.browse.MediaBrowserService
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:100:17-83
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:100:17-83
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:100:25-80
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:100:25-80
 receiver#androidx.media.session.MediaButtonReceiver
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:104:9-111:20
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:104:9-111:20
 	android:exported
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:106:13-37
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:106:13-37
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:105:13-70
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:105:13-70
 intent-filter#action:name:android.intent.action.MEDIA_BUTTON+action:name:android.media.AUDIO_BECOMING_NOISY
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:107:13-110:29
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:107:13-110:29
 service#com.onlineradiofm.trancemusicradio.firebasemsg.FBMessagingService
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:120:9-127:19
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:120:9-127:19
 	android:exported
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:122:13-36
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:122:13-36
 	tools:ignore
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:123:13-43
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:123:13-43
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:121:13-93
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:121:13-93
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:124:13-126:29
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:124:13-126:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:125:17-78
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:125:17-78
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:125:25-75
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:125:25-75
 meta-data#com.google.firebase.messaging.default_notification_icon
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:132:9-134:58
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:132:9-134:58
 	android:resource
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:134:13-55
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:134:13-55
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:133:13-83
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:133:13-83
 meta-data#com.google.firebase.messaging.default_notification_color
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:138:9-140:63
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:138:9-140:63
 	android:resource
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:140:13-60
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:140:13-60
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:139:13-84
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:139:13-84
 meta-data#firebase_messaging_auto_init_enabled
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:142:9-144:36
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:142:9-144:36
 	android:value
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:144:13-33
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:144:13-33
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:143:13-64
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:143:13-64
 meta-data#firebase_analytics_collection_enabled
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:145:9-147:36
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:145:9-147:36
 	android:value
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:147:13-33
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:147:13-33
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:146:13-65
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:146:13-65
 meta-data#com.google.android.gms.ads.AD_MANAGER_APP
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:150:9-152:36
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:150:9-152:36
 	android:value
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:152:13-33
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:152:13-33
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:151:13-69
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:151:13-69
 uses-library#org.apache.http.legacy
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:167:9-169:40
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:167:9-169:40
 	android:required
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:169:13-37
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:169:13-37
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:168:13-50
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:168:13-50
 meta-data#com.google.android.gms.ads.APPLICATION_ID
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:171:9-173:52
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:171:9-173:52
 	android:value
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:173:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:173:13-49
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:172:13-69
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:172:13-69
 activity#com.onlineradiofm.trancemusicradio.ypylibs.googlecast.YPYCastExpandActivity
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:176:9-190:20
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:176:9-190:20
 	android:screenOrientation
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:182:13-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:182:13-49
 	android:label
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:180:13-45
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:180:13-45
 	android:launchMode
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:181:13-44
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:181:13-44
 	android:exported
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:179:13-36
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:179:13-36
 	android:configChanges
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:178:13-145
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:178:13-145
 	android:theme
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:183:13-52
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:183:13-52
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:177:13-103
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:177:13-103
 intent-filter#action:name:android.intent.action.MAIN
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:184:13-186:29
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:184:13-186:29
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:187:13-189:85
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:187:13-189:85
 	android:value
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:189:17-82
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:189:17-82
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:188:17-63
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:188:17-63
 meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:191:9-193:107
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:191:9-193:107
 	android:value
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:193:13-104
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:193:13-104
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:192:13-93
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:192:13-93
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:161:13-164:52
+ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:161:13-164:52
 	android:resource
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:163:17-51
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:163:17-51
 	tools:replace
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:164:17-49
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:164:17-49
 	android:name
-		ADDED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:162:17-67
+		ADDED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:162:17-67
 uses-sdk
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:8.6.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/0d9ce6f516f8dddf781b8dede7426061/transformed/databinding-adapters-8.6.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:databinding-adapters:8.6.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/0d9ce6f516f8dddf781b8dede7426061/transformed/databinding-adapters-8.6.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:databinding-ktx:8.6.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/377a7aa34108af3ad813b179b839dfb6/transformed/jetified-databinding-ktx-8.6.1/AndroidManifest.xml:5:5-44
@@ -678,8 +678,8 @@ MERGED from [androidx.databinding:viewbinding:8.6.1] /Users/sandeepkumar/.gradle
 MERGED from [androidx.databinding:viewbinding:8.6.1] /Users/sandeepkumar/.gradle/caches/8.9/transforms/c2d4da5fa3ccb41e8a43f6e206a51e99/transformed/jetified-viewbinding-8.6.1/AndroidManifest.xml:5:5-44
 MERGED from [com.github.wicaodian:Seekbar-Indicator:1.0.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/71cde76c90e8048885a26fdd5e88c71c/transformed/jetified-Seekbar-Indicator-1.0.4/AndroidManifest.xml:5:5-44
 MERGED from [com.github.wicaodian:Seekbar-Indicator:1.0.4] /Users/sandeepkumar/.gradle/caches/8.9/transforms/71cde76c90e8048885a26fdd5e88c71c/transformed/jetified-Seekbar-Indicator-1.0.4/AndroidManifest.xml:5:5-44
-MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/TranceRadio/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/TranceRadio/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:nativetemplates] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/nativetemplates/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.play:asset-delivery:2.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e545e9dcb9c7c39ac9a3eddc72e4e583/transformed/jetified-asset-delivery-2.3.0/AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.play:asset-delivery:2.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e545e9dcb9c7c39ac9a3eddc72e4e583/transformed/jetified-asset-delivery-2.3.0/AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.gms:play-services-ads:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/2a07b6950f034bba87c34dfa6f2afd6c/transformed/jetified-play-services-ads-24.2.0/AndroidManifest.xml:21:5-23:52
@@ -744,8 +744,8 @@ MERGED from [jp.wasabeef:glide-transformations:4.3.0] /Users/sandeepkumar/.gradl
 MERGED from [jp.wasabeef:glide-transformations:4.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/b4f4a2cbb14685e153f8a5bd2598e7ca/transformed/jetified-glide-transformations-4.3.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sandeepkumar/.gradle/caches/8.9/transforms/1731601f3261d80dfc6af6874dbeffe6/transformed/jetified-glide-4.13.2/AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.bumptech.glide:glide:4.13.2] /Users/sandeepkumar/.gradle/caches/8.9/transforms/1731601f3261d80dfc6af6874dbeffe6/transformed/jetified-glide-4.13.2/AndroidManifest.xml:6:5-8:41
-MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:5-44
-MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/TranceRadio/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:5-44
+MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:5-44
+MERGED from [:SeekArc_library] /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/SeekArc_library/build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:5-44
 MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/33473ff03bb8ea0049f44a879660e748/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:8:5-11:75
 MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/33473ff03bb8ea0049f44a879660e748/transformed/jetified-core-0.9.6.0/AndroidManifest.xml:8:5-11:75
 MERGED from [com.github.jd-alexander:LikeButton:0.2.3] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e3c2faf94fdf3104b14b747567d76fd2/transformed/jetified-LikeButton-0.2.3/AndroidManifest.xml:7:5-9:41
@@ -959,9 +959,9 @@ MERGED from [com.google.android.play:core-common:2.0.4] /Users/sandeepkumar/.gra
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:24.2.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/2a07b6950f034bba87c34dfa6f2afd6c/transformed/jetified-play-services-ads-24.2.0/AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
-		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
 ADDED from [com.google.android.play:asset-delivery:2.3.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/e545e9dcb9c7c39ac9a3eddc72e4e583/transformed/jetified-asset-delivery-2.3.0/AndroidManifest.xml:16:5-87
 	android:name

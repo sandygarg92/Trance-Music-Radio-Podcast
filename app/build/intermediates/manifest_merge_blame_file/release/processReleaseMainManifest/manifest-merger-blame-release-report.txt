@@ -1,51 +1,51 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.onlineradiofm.trancemusicradio"
-4    android:versionCode="179"
-5    android:versionName="8.9" >
+4    android:versionCode="181"
+5    android:versionName="8.11" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
 9        android:targetSdkVersion="35" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:5:5-66
-11-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:5:22-64
+11-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:6:5-78
-12-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:6:22-76
+12-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:6:5-78
+12-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-13-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:7:5-76
-13-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:7:22-74
+13-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:7:5-76
+13-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:7:22-74
 14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
-14-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:8:5-91
-14-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:8:22-89
+14-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:8:5-91
+14-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:8:22-89
 15    <uses-permission android:name="com.android.vending.BILLING" />
-15-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:9:5-66
-15-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:9:22-64
+15-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:9:5-66
+15-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:9:22-64
 16    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-16-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:10:5-78
-16-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:10:22-76
+16-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:10:5-78
+16-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:10:22-76
 17    <!-- Devices running Android 12L (API level 32) or lower -->
 18    <uses-permission
-18-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:12:5-14:40
+18-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:12:5-14:40
 19        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-19-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:12:22-78
+19-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:12:22-78
 20        android:maxSdkVersion="32" />
-20-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:13:9-35
+20-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:13:9-35
 21    <uses-permission
-21-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:15:5-107
+21-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:15:5-107
 22        android:name="android.permission.READ_EXTERNAL_STORAGE"
-22-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:15:22-77
+22-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:15:22-77
 23        android:maxSdkVersion="32" />
-23-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:15:78-104
+23-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:15:78-104
 24    <!-- Devices running Android 13 (API level 33) or higher -->
 25    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-25-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:17:5-76
-25-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:17:22-74
+25-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:17:5-76
+25-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:17:22-74
 26    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
-26-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:18:5-75
-26-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:18:22-72
+26-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:18:5-75
+26-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:18:22-72
 27    <!--
 28    To handle the reselection within the app on devices running Android 14
 29    or higher if your app targets Android 14 (API level 34) or higher.
@@ -53,18 +53,18 @@
 31    -->
 32
 33    <uses-feature
-33-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:23:5-25:36
+33-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:23:5-25:36
 34        android:glEsVersion="0x00020000"
-34-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:24:9-41
+34-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:24:9-41
 35        android:required="false" />
-35-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:25:9-33
+35-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:25:9-33
 36
 37    <permission
-37-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:27:9-28:44
+37-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:27:9-28:44
 38        android:name="com.onlineradiofm.trancemusicradio.permission.BIND_AUDIO_SERVICE"
-38-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:27:21-100
+38-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:27:21-100
 39        android:protectionLevel="normal" />
-39-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:28:9-41
+39-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:28:9-41
 40
 41    <!-- Is required to launch foreground extraction service for targetSdkVersion 34+. -->
 42    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
@@ -176,156 +176,156 @@
 97-->[androidx.core:core:1.15.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/a5407ddf857b89c45b088521b79c3856/transformed/core-1.15.0/AndroidManifest.xml:26:22-94
 98
 99    <application
-99-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:30:5-195:19
+99-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:30:5-195:19
 100        android:name="com.onlineradiofm.trancemusicradio.RadioApplication"
-100-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:31:9-75
+100-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:31:9-75
 101        android:allowBackup="true"
-101-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:32:9-35
+101-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:32:9-35
 102        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 102-->[androidx.core:core:1.15.0] /Users/sandeepkumar/.gradle/caches/8.9/transforms/a5407ddf857b89c45b088521b79c3856/transformed/core-1.15.0/AndroidManifest.xml:28:18-86
 103        android:extractNativeLibs="false"
 104        android:hardwareAccelerated="true"
-104-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:33:9-43
+104-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:33:9-43
 105        android:icon="@mipmap/ic_launcher"
-105-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:34:9-43
+105-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:34:9-43
 106        android:label="@string/app_name"
-106-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:35:9-41
+106-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:35:9-41
 107        android:largeHeap="true"
-107-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:42:9-33
+107-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:42:9-33
 108        android:roundIcon="@mipmap/ic_launcher_round"
-108-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:36:9-54
+108-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:36:9-54
 109        android:supportsRtl="true"
-109-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:37:9-35
+109-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:37:9-35
 110        android:theme="@style/AppThemeLightFull"
-110-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:38:9-49
+110-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:38:9-49
 111        android:usesCleartextTraffic="true" >
-111-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:39:9-44
+111-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:39:9-44
 112        <activity
-112-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:44:9-54:20
+112-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:44:9-54:20
 113            android:name="com.onlineradiofm.trancemusicradio.SplashActivity"
-113-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:45:13-77
+113-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:45:13-77
 114            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-114-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:46:13-145
+114-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:46:13-145
 115            android:exported="true"
-115-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:47:13-36
+115-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:47:13-36
 116            android:label="@string/app_name"
-116-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:48:13-45
+116-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:48:13-45
 117            android:screenOrientation="fullUser" >
-117-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:49:13-49
+117-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:49:13-49
 118            <intent-filter>
-118-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:50:13-53:29
+118-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:50:13-53:29
 119                <action android:name="android.intent.action.MAIN" />
-119-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:51:17-69
-119-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:51:25-66
+119-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:51:17-69
+119-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:51:25-66
 120
 121                <category android:name="android.intent.category.LAUNCHER" />
-121-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:52:17-77
-121-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:52:27-74
+121-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:52:17-77
+121-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:52:27-74
 122            </intent-filter>
 123        </activity>
 124        <activity
-124-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:56:9-62:57
+124-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:56:9-62:57
 125            android:name="com.onlineradiofm.trancemusicradio.MainActivity"
-125-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:57:13-75
+125-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:57:13-75
 126            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|screenLayout|uiMode|screenSize|smallestScreenSize"
-126-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:58:13-133
+126-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:58:13-133
 127            android:label="@string/app_name"
-127-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:59:13-45
+127-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:59:13-45
 128            android:launchMode="singleTop"
-128-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:60:13-43
+128-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:60:13-43
 129            android:screenOrientation="fullUser"
-129-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:61:13-49
+129-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:61:13-49
 130            android:windowSoftInputMode="adjustResize" />
-130-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:62:13-55
+130-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:62:13-55
 131        <activity
-131-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:64:9-68:51
+131-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:64:9-68:51
 132            android:name="com.onlineradiofm.trancemusicradio.ShowUrlActivity"
-132-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:65:13-78
+132-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:65:13-78
 133            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-133-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:66:13-145
+133-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:66:13-145
 134            android:label="@string/app_name"
-134-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:67:13-45
+134-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:67:13-45
 135            android:screenOrientation="fullUser" />
-135-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:68:13-49
+135-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:68:13-49
 136        <activity
-136-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:69:9-73:51
+136-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:69:9-73:51
 137            android:name="com.onlineradiofm.trancemusicradio.GrantPermissionActivity"
-137-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:70:13-86
+137-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:70:13-86
 138            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-138-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:71:13-145
+138-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:71:13-145
 139            android:label="@string/app_name"
-139-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:72:13-45
+139-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:72:13-45
 140            android:screenOrientation="fullUser" />
-140-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:73:13-49
+140-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:73:13-49
 141        <activity
-141-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:75:9-79:51
+141-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:75:9-79:51
 142            android:name="com.onlineradiofm.trancemusicradio.UpgradePremiumActivity"
-142-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:76:13-85
+142-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:76:13-85
 143            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-143-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:77:13-145
+143-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:77:13-145
 144            android:label="@string/app_name"
-144-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:78:13-45
+144-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:78:13-45
 145            android:screenOrientation="fullUser" />
-145-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:79:13-49
+145-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:79:13-49
 146        <activity
-146-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:80:9-84:51
+146-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:80:9-84:51
 147            android:name="com.onlineradiofm.trancemusicradio.SignInActivity"
-147-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:81:13-77
+147-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:81:13-77
 148            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-148-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:82:13-145
+148-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:82:13-145
 149            android:label="@string/app_name"
-149-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:83:13-45
+149-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:83:13-45
 150            android:screenOrientation="fullUser" />
-150-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:84:13-49
+150-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:84:13-49
 151        <activity
-151-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:86:9-90:51
+151-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:86:9-90:51
 152            android:name="com.onlineradiofm.trancemusicradio.equalizer.EqualizerActivity"
-152-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:87:13-90
+152-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:87:13-90
 153            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-153-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:88:13-145
+153-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:88:13-145
 154            android:label="@string/app_name"
-154-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:89:13-45
+154-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:89:13-45
 155            android:screenOrientation="fullUser" />
-155-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:90:13-49
+155-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:90:13-49
 156
 157        <service
-157-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:92:9-102:19
+157-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:92:9-102:19
 158            android:name="com.onlineradiofm.trancemusicradio.stream.service.XRadioAudioService"
-158-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:93:13-96
+158-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:93:13-96
 159            android:exported="true"
-159-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:94:13-36
+159-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:94:13-36
 160            android:foregroundServiceType="mediaPlayback"
-160-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:96:13-58
+160-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:96:13-58
 161            android:permission="com.onlineradiofm.trancemusicradio.permission.BIND_AUDIO_SERVICE" >
-161-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:95:13-98
+161-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:95:13-98
 162            <intent-filter>
-162-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:97:13-101:29
+162-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:97:13-101:29
 163                <action android:name="android.intent.action.MEDIA_BUTTON" />
-163-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:98:17-77
-163-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:98:25-74
+163-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:98:17-77
+163-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:98:25-74
 164                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
-164-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:99:17-77
-164-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:99:25-74
+164-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:99:17-77
+164-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:99:25-74
 165                <action android:name="android.media.browse.MediaBrowserService" />
-165-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:100:17-83
-165-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:100:25-80
+165-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:100:17-83
+165-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:100:25-80
 166            </intent-filter>
 167        </service>
 168
 169        <receiver
-169-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:104:9-111:20
+169-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:104:9-111:20
 170            android:name="androidx.media.session.MediaButtonReceiver"
-170-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:105:13-70
+170-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:105:13-70
 171            android:exported="false" >
-171-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:106:13-37
+171-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:106:13-37
 172            <intent-filter>
-172-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:107:13-110:29
+172-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:107:13-110:29
 173                <action android:name="android.intent.action.MEDIA_BUTTON" />
-173-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:98:17-77
-173-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:98:25-74
+173-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:98:17-77
+173-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:98:25-74
 174                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
-174-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:99:17-77
-174-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:99:25-74
+174-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:99:17-77
+174-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:99:25-74
 175            </intent-filter>
 176        </receiver>
 177
@@ -333,21 +333,21 @@
 179
 180        <meta-data
 181            android:name="com.google.firebase.messaging.default_notification_channel_id"
-181-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:117:13-89
+181-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:117:13-89
 182            android:value="com.onlineradiofm.trancemusicradio.N3" />
-182-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:118:13-48
+182-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:118:13-48
 183
 184        <service
-184-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:120:9-127:19
+184-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:120:9-127:19
 185            android:name="com.onlineradiofm.trancemusicradio.firebasemsg.FBMessagingService"
-185-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:121:13-93
+185-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:121:13-93
 186            android:exported="true" >
-186-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:122:13-36
+186-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:122:13-36
 187            <intent-filter>
-187-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:124:13-126:29
+187-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:124:13-126:29
 188                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-188-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:125:17-78
-188-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:125:25-75
+188-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:125:17-78
+188-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:125:25-75
 189            </intent-filter>
 190        </service>
 191
@@ -356,111 +356,111 @@
 194        See README(https://goo.gl/l4GJaQ) for more.
 195        -->
 196        <meta-data
-196-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:132:9-134:58
+196-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:132:9-134:58
 197            android:name="com.google.firebase.messaging.default_notification_icon"
-197-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:133:13-83
+197-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:133:13-83
 198            android:resource="@drawable/ic_radio_noti" />
-198-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:134:13-55
+198-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:134:13-55
 199
 200        <!--
 201             Set color used with incoming notification messages. This is used when no color is set for the incoming
 202             notification message. See README(https://goo.gl/6BKBk7) for more.
 203        -->
 204        <meta-data
-204-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:138:9-140:63
+204-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:138:9-140:63
 205            android:name="com.google.firebase.messaging.default_notification_color"
-205-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:139:13-84
+205-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:139:13-84
 206            android:resource="@color/color_noti_background" />
-206-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:140:13-60
+206-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:140:13-60
 207        <meta-data
-207-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:142:9-144:36
+207-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:142:9-144:36
 208            android:name="firebase_messaging_auto_init_enabled"
-208-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:143:13-64
+208-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:143:13-64
 209            android:value="true" />
-209-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:144:13-33
+209-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:144:13-33
 210        <meta-data
-210-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:145:9-147:36
+210-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:145:9-147:36
 211            android:name="firebase_analytics_collection_enabled"
-211-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:146:13-65
+211-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:146:13-65
 212            android:value="true" />
-212-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:147:13-33
+212-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:147:13-33
 213        <meta-data
-213-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:150:9-152:36
+213-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:150:9-152:36
 214            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
-214-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:151:13-69
+214-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:151:13-69
 215            android:value="true" />
-215-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:152:13-33
+215-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:152:13-33
 216
 217        <!-- fix for share files -->
 218        <provider
 219            android:name="androidx.core.content.FileProvider"
-219-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:156:13-62
+219-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:156:13-62
 220            android:authorities="com.onlineradiofm.trancemusicradio.provider"
-220-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:157:13-60
+220-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:157:13-60
 221            android:exported="false"
-221-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:158:13-37
+221-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:158:13-37
 222            android:grantUriPermissions="true" >
-222-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:159:13-47
+222-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:159:13-47
 223            <meta-data
-223-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:161:13-164:52
+223-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:161:13-164:52
 224                android:name="android.support.FILE_PROVIDER_PATHS"
-224-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:162:17-67
+224-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:162:17-67
 225                android:resource="@xml/file_paths" />
-225-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:163:17-51
+225-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:163:17-51
 226        </provider>
 227
 228        <uses-library
-228-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:167:9-169:40
+228-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:167:9-169:40
 229            android:name="org.apache.http.legacy"
-229-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:168:13-50
+229-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:168:13-50
 230            android:required="false" />
-230-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:169:13-37
+230-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:169:13-37
 231
 232        <meta-data
-232-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:171:9-173:52
+232-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:171:9-173:52
 233            android:name="com.google.android.gms.ads.APPLICATION_ID"
-233-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:172:13-69
+233-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:172:13-69
 234            android:value="@string/admob_app_id" />
-234-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:173:13-49
+234-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:173:13-49
 235
 236        <!-- GOOGLE CAST PROVIDER -->
 237        <activity
-237-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:176:9-190:20
+237-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:176:9-190:20
 238            android:name="com.onlineradiofm.trancemusicradio.ypylibs.googlecast.YPYCastExpandActivity"
-238-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:177:13-103
+238-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:177:13-103
 239            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-239-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:178:13-145
+239-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:178:13-145
 240            android:exported="true"
-240-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:179:13-36
+240-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:179:13-36
 241            android:label="@string/app_name"
-241-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:180:13-45
+241-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:180:13-45
 242            android:launchMode="singleTask"
-242-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:181:13-44
+242-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:181:13-44
 243            android:screenOrientation="portrait"
-243-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:182:13-49
+243-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:182:13-49
 244            android:theme="@style/AppThemeDarkFull" >
-244-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:183:13-52
+244-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:183:13-52
 245            <intent-filter>
-245-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:184:13-186:29
+245-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:184:13-186:29
 246                <action android:name="android.intent.action.MAIN" />
-246-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:51:17-69
-246-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:51:25-66
+246-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:51:17-69
+246-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:51:25-66
 247            </intent-filter>
 248
 249            <meta-data
-249-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:187:13-189:85
+249-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:187:13-189:85
 250                android:name="android.support.PARENT_ACTIVITY"
-250-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:188:17-63
+250-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:188:17-63
 251                android:value="com.onlineradiofm.trancemusicradio.SplashActivity" />
-251-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:189:17-82
+251-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:189:17-82
 252        </activity>
 253
 254        <meta-data
-254-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:191:9-193:107
+254-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:191:9-193:107
 255            android:name="com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME"
-255-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:192:13-93
+255-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:192:13-93
 256            android:value="com.onlineradiofm.trancemusicradio.ypylibs.googlecast.YPYCastOptionProvider" />
-256-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:193:13-104
+256-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:193:13-104
 257
 258        <!-- The services will be merged into the manifest of the hosting app. -->
 259        <service
@@ -900,10 +900,10 @@
 491            android:exported="false" >
 491-->[com.google.firebase:firebase-messaging:23.0.6] /Users/sandeepkumar/.gradle/caches/8.9/transforms/cd09e5f21dc20d5fa2896ffa69fcb2b0/transformed/jetified-firebase-messaging-23.0.6/AndroidManifest.xml:48:13-37
 492            <intent-filter android:priority="-500" >
-492-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:124:13-126:29
+492-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:124:13-126:29
 493                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-493-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:125:17-78
-493-->/Users/sandeepkumar/Downloads/TranceRadio/app/src/main/AndroidManifest.xml:125:25-75
+493-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:125:17-78
+493-->/Users/sandeepkumar/Downloads/Trance-Music-Radio-Podcast/app/src/main/AndroidManifest.xml:125:25-75
 494            </intent-filter>
 495        </service>
 496        <service

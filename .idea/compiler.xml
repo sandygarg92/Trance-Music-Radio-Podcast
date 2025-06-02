@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="17" />
+    <bytecodeTargetLevel target="17">
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-av1" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-cast" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-cronet" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-ffmpeg" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-flac" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-ima" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-leanback" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-media2" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-mediasession" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-okhttp" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-opus" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-rtmp" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-vp9" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-extension-workmanager" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-common" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-container" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-core" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-dash" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-database" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-datasource" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-decoder" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-effect" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-extractor" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-hls" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-muxer" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-rtsp" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-smoothstreaming" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-transformer" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-library-ui" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-robolectricutils" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-testdata" target="21" />
+      <module name="Trance-Music-Radio-Podcast.exoplayer-testutils" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -194,7 +194,7 @@ final class ShoutcastDataSource implements HttpDataSource, MetadataListener {
         this.dataSpec = dataSpec;
         this.bytesRead = 0;
         this.bytesSkipped = 0;
-        setRequestProperty(ICY_METADATA, "1");
+        setRequestProperty(ICY_METADATA, "0");
         Request request = makeRequest(dataSpec);
         try {
             response = callFactory.newCall(request).execute();

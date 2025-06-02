@@ -7,7 +7,7 @@ import com.onlineradiofm.trancemusicradio.R;
 
 public interface IRadioConstants {
 
-    boolean DEBUG = false;
+    boolean DEBUG = true;
 
     String TAG = "DCM";
 

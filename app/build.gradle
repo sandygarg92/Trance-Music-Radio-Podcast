@@ -24,8 +24,8 @@ android {
         applicationId "com.onlineradiofm.trancemusicradio"
         minSdkVersion 24
         targetSdkVersion 35
-        versionCode 179
-        versionName "8.9"
+        versionCode 181
+        versionName "8.11"
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
 

@@ -11,8 +11,8 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 179,
-      "versionName": "8.9",
+      "versionCode": 181,
+      "versionName": "8.11",
       "outputFile": "linked-resources-binary-format-release.ap_"
     }
   ],
